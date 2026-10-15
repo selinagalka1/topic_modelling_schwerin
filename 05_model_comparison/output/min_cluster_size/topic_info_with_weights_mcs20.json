@@ -1,0 +1,216 @@
+[
+    {
+        "Topic": -1,
+        "Count": 37,
+        "Name": "-1_oh_ah_ho_hé",
+        "Representation": [
+            "oh",
+            "ah",
+            "ho",
+            "hé",
+            "disais",
+            "souvent",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Representative_Docs": [
+            "Oh !",
+            "» « Oh !",
+            "Oh !"
+        ]
+    },
+    {
+        "Topic": 0,
+        "Count": 9924,
+        "Name": "0_faire_dieu_fort_tous",
+        "Representation": [
+            "faire",
+            "dieu",
+            "fort",
+            "tous",
+            "voir",
+            "temps",
+            "fait",
+            "jour",
+            "monde",
+            "point"
+        ],
+        "Representative_Docs": [
+            "Il me fit dire qu’il le ferait de tout son cœur, mais que le comte de Schwerin étant au logis, qu’il craignait de m’exposer ; mais que je tâchasse de différer le départ, tant que la lettre du roi n’était pas partie je n’avais rien à craindre.",
+            "» Je ne lui répliquai rien, et en m’en retournant auprès du comte de Schwerin, il me dit qu’il fallait prendre avec moi le peu de vaisselle d’argent qui était à la campagne, que pour le linge on avait résolu de le céder jusqu'à ce que nous en eussions fait d’autre.",
+            "Il me peignit le caractère de tous les étrangers qui y étaient pour qu’à leur arrivée, aucun ne me surprit.Un jour, ayant eu un long discours avec un des plus grands généraux de l’armée, à la Cour, le comte de Schwerin me dit au retour au logis : « Connaissez-vous ce vieillard à qui vous avez parlé si longtemps ? » Je lui répondis que je ne l’avais vu de ma vie. Il me répliqua : « Mais que peut-on dire à des gens qu’on ne connaît pas ? » Je lui dis que je lui avais conté des histoires anciennes dont il avait été fort content. Il voulut savoir d’où j’avais eu tout cela, mais je n’eus garde de dire qui me l’avait confié.Il disait depuis à ses amis par dérision : « Si vous avez des mystères, dites-les à ma femme, car elle est tout mystère. » On m’en railla beaucoup."
+        ],
+        "Terms_with_Weights": [
+            [
+                "faire",
+                0.023132051429155205
+            ],
+            [
+                "dieu",
+                0.022596876047580906
+            ],
+            [
+                "fort",
+                0.02092199105575187
+            ],
+            [
+                "tous",
+                0.018774363755108537
+            ],
+            [
+                "voir",
+                0.018255802899208792
+            ],
+            [
+                "temps",
+                0.017976700950764164
+            ],
+            [
+                "fait",
+                0.01780134418961284
+            ],
+            [
+                "jour",
+                0.017625269835350114
+            ],
+            [
+                "monde",
+                0.017413019579914858
+            ],
+            [
+                "point",
+                0.016769806999910774
+            ]
+        ]
+    },
+    {
+        "Topic": 1,
+        "Count": 39,
+        "Name": "1_partie_troisième_bleistiftmarginalie_gefangen",
+        "Representation": [
+            "partie",
+            "troisième",
+            "bleistiftmarginalie",
+            "gefangen",
+            "zajali",
+            "tschechisch",
+            "für",
+            "ouvrez",
+            "quatrième",
+            "union"
+        ],
+        "Representative_Docs": [
+            "Première partie",
+            "» [Bleistiftmarginalie: zajali (tschechisch für \"gefangen\")]",
+            "Troisième partie"
+        ],
+        "Terms_with_Weights": [
+            [
+                "partie",
+                1.0268060761164512
+            ],
+            [
+                "troisième",
+                0.5577277138498321
+            ],
+            [
+                "bleistiftmarginalie",
+                0.4345997053617458
+            ],
+            [
+                "gefangen",
+                0.4345997053617458
+            ],
+            [
+                "zajali",
+                0.4345997053617458
+            ],
+            [
+                "tschechisch",
+                0.4345997053617458
+            ],
+            [
+                "für",
+                0.4345997053617458
+            ],
+            [
+                "ouvrez",
+                0.38683791796234723
+            ],
+            [
+                "quatrième",
+                0.3442030769548745
+            ],
+            [
+                "union",
+                0.3442030769548745
+            ]
+        ]
+    },
+    {
+        "Topic": 2,
+        "Count": 39,
+        "Name": "2_ah_ha__",
+        "Representation": [
+            "ah",
+            "ha",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Representative_Docs": [
+            "Ah !",
+            "Ah !",
+            "Ah !"
+        ],
+        "Terms_with_Weights": [
+            [
+                "ah",
+                5.705340628383963
+            ],
+            [
+                "ha",
+                0.22813518238805094
+            ],
+            [
+                "",
+                1e-05
+            ],
+            [
+                "",
+                1e-05
+            ],
+            [
+                "",
+                1e-05
+            ],
+            [
+                "",
+                1e-05
+            ],
+            [
+                "",
+                1e-05
+            ],
+            [
+                "",
+                1e-05
+            ],
+            [
+                "",
+                1e-05
+            ],
+            [
+                "",
+                1e-05
+            ]
+        ]
+    }
+]

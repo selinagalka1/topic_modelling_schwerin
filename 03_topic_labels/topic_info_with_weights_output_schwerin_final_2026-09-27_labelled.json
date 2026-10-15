@@ -1,0 +1,7730 @@
+[
+ {
+  "Topic": -1,
+  "Count": 4034,
+  "Name": "-1_faire_temps_être_monde",
+  "Representation": [
+   "faire",
+   "temps",
+   "être",
+   "monde",
+   "tous",
+   "voir",
+   "jamais",
+   "peu",
+   "fort",
+   "dieu"
+  ],
+  "Representative_Docs": [
+   "Une circonstance que j’ai oubliée, c’est que le jour de l’arrivée du comte de Schwerin à Berlin, il y avait une estafette prête à partir avec les ordres du Roi de rester à Vienne, parce qu’on avait reçu des lettres si favorables de la cour de Vienne sur son sujet qu’on voulait y laisser un ministre qui y était si agréable.",
+   "Je lui dis bien qu’oui, mais je ne l’étais pas.",
+   "Il me donna une lettre du comte de Schwerin qui contenait en substance que les articles que je lui avais envoyés de Thorn avait été inacceptables, qu’ainsi après avoir pris ses mesures avec mon père et madame sa mère, il avait été résolu avec l’agrément du Roi que nous ne nous reverrions jamais, qu’il me répétait le chagrin qu’il avait de me savoir si mal, et que s’il dépendait de lui, j’aurais toutes les aises imaginables, qu’il était vrai que j’avais été trompée pour me faire revenir de Thorn, mais qu’il était responsable de l’enfant que je portais sous peine de confiscation de ses biens, et qu’un animal se cache en entendant gronder l’orage, combien plus il l’ose espérer d’une femme d’esprit (terme ironique qui pensa me tuer), que dès que je serais hors de couches je serais la maîtresse d’aller où je voudrais, et dans le P.S. il me remercie du vin de Toquai."
+  ],
+  "Label": "Outliners",
+  "Display": "no"
+ },
+ {
+  "Topic": 0,
+  "Count": 1094,
+  "Name": "0_maison_lettre_faire_dire",
+  "Representation": [
+   "maison",
+   "lettre",
+   "faire",
+   "dire",
+   "jour",
+   "fort",
+   "roi",
+   "après",
+   "jours",
+   "cour"
+  ],
+  "Representative_Docs": [
+   "Il me peignit le caractère de tous les étrangers qui y étaient pour qu’à leur arrivée, aucun ne me surprit.Un jour, ayant eu un long discours avec un des plus grands généraux de l’armée, à la Cour, le comte de Schwerin me dit au retour au logis : « Connaissez-vous ce vieillard à qui vous avez parlé si longtemps ? » Je lui répondis que je ne l’avais vu de ma vie. Il me répliqua : « Mais que peut-on dire à des gens qu’on ne connaît pas ? » Je lui dis que je lui avais conté des histoires anciennes dont il avait été fort content. Il voulut savoir d’où j’avais eu tout cela, mais je n’eus garde de dire qui me l’avait confié.Il disait depuis à ses amis par dérision : « Si vous avez des mystères, dites-les à ma femme, car elle est tout mystère. » On m’en railla beaucoup.",
+   "» (?) « Je ne sais, dit le comte de Schwerin.",
+   "Il me dit qu’il l’ignorait, qu’il n’était pas même en ville à présent, mais qu’il y avait été depuis peu de jours et qu’on l’attendait de retour à toute heure ; qu’il avait été chargé d’un très mauvais compliment de la part du roi au comte de Schwerin, mais qu’il avait dit qu’il était trop honnête homme et trop de ses amis pour le lui dire."
+  ],
+  "Terms_with_Weights": [
+   [
+    "maison",
+    0.006936125188128801
+   ],
+   [
+    "lettre",
+    0.006717318850265111
+   ],
+   [
+    "faire",
+    0.006406282223376176
+   ],
+   [
+    "dire",
+    0.006348818038327845
+   ],
+   [
+    "jour",
+    0.006209150111434644
+   ],
+   [
+    "fort",
+    0.006192731204873744
+   ],
+   [
+    "roi",
+    0.006147861890749515
+   ],
+   [
+    "après",
+    0.006057891991905296
+   ],
+   [
+    "jours",
+    0.006011717009646843
+   ],
+   [
+    "cour",
+    0.005694540117000459
+   ]
+  ],
+  "Label": "Unklar",
+  "Display": "no"
+ },
+ {
+  "Topic": 1,
+  "Count": 379,
+  "Name": "1_dieu_loué_divine_doux",
+  "Representation": [
+   "dieu",
+   "loué",
+   "divine",
+   "doux",
+   "divin",
+   "providence",
+   "grâce",
+   "volonté",
+   "jésus",
+   "amour"
+  ],
+  "Representative_Docs": [
+   "C’était là votre conduite, ô divin Jésus, mais je ne le remarquais point, et tant que vos bontés et vos grâces ont abondé sur moi, mon cœur a été de bronze et de glace pour vous jusqu’à ce que votre clémence infinie m’ait pressée par la pesanteur de votre Croix, que de grâces ne vous dois-je point, soyez loué et béni à jamais.",
+   "C’est votre Grâce seule, ô mon Dieu, et c’est à vous que je dois tout.",
+   "Voilà, mon Dieu, ce que vous avez fait pour moi."
+  ],
+  "Terms_with_Weights": [
+   [
+    "dieu",
+    0.05014467061633982
+   ],
+   [
+    "loué",
+    0.01762033287960906
+   ],
+   [
+    "divine",
+    0.01737871498262038
+   ],
+   [
+    "doux",
+    0.01652269948843738
+   ],
+   [
+    "divin",
+    0.01564513190902828
+   ],
+   [
+    "providence",
+    0.01486843384033634
+   ],
+   [
+    "grâce",
+    0.013458813877451502
+   ],
+   [
+    "volonté",
+    0.012595893336732968
+   ],
+   [
+    "jésus",
+    0.01259269355953751
+   ],
+   [
+    "amour",
+    0.01248506140523831
+   ]
+  ],
+  "Label": "Gott und Göttliches",
+  "Display": "yes"
+ },
+ {
+  "Topic": 2,
+  "Count": 334,
+  "Name": "2_prince_roi_reine_majesté",
+  "Representation": [
+   "prince",
+   "roi",
+   "reine",
+   "majesté",
+   "impératrice",
+   "empereur",
+   "princesse",
+   "eugène",
+   "impériale",
+   "royale"
+  ],
+  "Representative_Docs": [
+   "C’était un grand coup, mais la chose était faite, car dès que le roi l’eut dit au comte de Virmond, il lui demanda, s’il oserait en informer la cour impériale, ce que Sa Majesté lui promit, et il le fit fort prudemment sur le champ, ainsi il n’y avait plus de retour.",
+   "Il me dit que la Régence avait reçu la réponse du roi sur la relation qu’il avait fait à Sa Majesté et que le roi leur défendait sur peine de sa disgrâce de ne se mêler en aucune manière de ce qui touchait le comte de Schwerin à mon égard, qu’il m’avait entièrement séparée de mon époux et que c’était par l’ordre de Sa Majesté que mon mari m’abandonnait.",
+   "Je fus plus d'une grosse heure dans sa retraite, où elle me fit la grâce de me montrer le portrait de Sa Majesté Impériale régnante, que j’avais eu l’honneur d’envoyer à la reine ; et que je devais présenter celui de la reine à l’Impératrice, mais malheureusement je partis de Vienne trop tôt."
+  ],
+  "Terms_with_Weights": [
+   [
+    "prince",
+    0.044242151602165235
+   ],
+   [
+    "roi",
+    0.03731347133803481
+   ],
+   [
+    "reine",
+    0.025932948227917387
+   ],
+   [
+    "majesté",
+    0.023760699354446017
+   ],
+   [
+    "impératrice",
+    0.021870242645256478
+   ],
+   [
+    "empereur",
+    0.021355789230403332
+   ],
+   [
+    "princesse",
+    0.018240382980082064
+   ],
+   [
+    "eugène",
+    0.01650747296281142
+   ],
+   [
+    "impériale",
+    0.012631701708905044
+   ],
+   [
+    "royale",
+    0.009468152019569277
+   ]
+  ],
+  "Label": "Herrscherhäuser, Diplomatie",
+  "Display": "yes"
+ },
+ {
+  "Topic": 3,
+  "Count": 329,
+  "Name": "3_dame_air_fille_assura",
+  "Representation": [
+   "dame",
+   "air",
+   "fille",
+   "assura",
+   "femme",
+   "voulut",
+   "point",
+   "manières",
+   "comment",
+   "monde"
+  ],
+  "Representative_Docs": [
+   "Elle le fit.",
+   "», lui dit-elle.",
+   "Elle me le dit."
+  ],
+  "Terms_with_Weights": [
+   [
+    "dame",
+    0.015484382312613088
+   ],
+   [
+    "air",
+    0.012100073896696434
+   ],
+   [
+    "fille",
+    0.010488748974559333
+   ],
+   [
+    "assura",
+    0.009789058756646806
+   ],
+   [
+    "femme",
+    0.009759581659102373
+   ],
+   [
+    "voulut",
+    0.009289783896298713
+   ],
+   [
+    "point",
+    0.009231817526929812
+   ],
+   [
+    "manières",
+    0.009158124971372878
+   ],
+   [
+    "comment",
+    0.0085348752057224
+   ],
+   [
+    "monde",
+    0.008464322896921112
+   ]
+  ],
+  "Label": "Unklar",
+  "Display": "no"
+ },
+ {
+  "Topic": 4,
+  "Count": 163,
+  "Name": "4_joie_charmée_heureuse_voir",
+  "Representation": [
+   "joie",
+   "charmée",
+   "heureuse",
+   "voir",
+   "transportée",
+   "féliciter",
+   "monde",
+   "bonheur",
+   "félicitations",
+   "démonstrations"
+  ],
+  "Representative_Docs": [
+   "Quelle joie !",
+   "On crut que c’était de joie.",
+   "Je le fis avec joie."
+  ],
+  "Terms_with_Weights": [
+   [
+    "joie",
+    0.06943932945000618
+   ],
+   [
+    "charmée",
+    0.026876634176203708
+   ],
+   [
+    "heureuse",
+    0.020366573136225714
+   ],
+   [
+    "voir",
+    0.016232978222008504
+   ],
+   [
+    "transportée",
+    0.016107514302231257
+   ],
+   [
+    "féliciter",
+    0.016107514302231257
+   ],
+   [
+    "monde",
+    0.014753156386177677
+   ],
+   [
+    "bonheur",
+    0.014371354615675194
+   ],
+   [
+    "félicitations",
+    0.013784176886135275
+   ],
+   [
+    "démonstrations",
+    0.013784176886135275
+   ]
+  ],
+  "Label": "Freude, Glück und Begeisterung",
+  "Display": "yes"
+ },
+ {
+  "Topic": 5,
+  "Count": 160,
+  "Name": "5_chère_reverend_assemblée_quelques",
+  "Representation": [
+   "chère",
+   "reverend",
+   "assemblée",
+   "quelques",
+   "vint",
+   "jour",
+   "père",
+   "sœur",
+   "voir",
+   "lettre"
+  ],
+  "Representative_Docs": [
+   "Le 5, je fus trouver la comtesse de Strattmann le matin.",
+   "Je fus le même jour avec madame la comtesse de Strattmann à l’assemblée de madame de Rabutin.",
+   "Il y vint, madame la comtesse de Strattmann, madame sa belle-sœur et le comte de Schwerin étaient avec moi."
+  ],
+  "Terms_with_Weights": [
+   [
+    "chère",
+    0.020793914598384637
+   ],
+   [
+    "reverend",
+    0.019666767736543703
+   ],
+   [
+    "assemblée",
+    0.017224628076367484
+   ],
+   [
+    "quelques",
+    0.01647818846537305
+   ],
+   [
+    "vint",
+    0.01568766371553036
+   ],
+   [
+    "jour",
+    0.01467439295782294
+   ],
+   [
+    "père",
+    0.013937006795234795
+   ],
+   [
+    "sœur",
+    0.01326192963204944
+   ],
+   [
+    "voir",
+    0.01276342085850984
+   ],
+   [
+    "lettre",
+    0.011279870564083933
+   ]
+  ],
+  "Label": "Gesellschaftliche und religiöse Begegnungen",
+  "Display": "no"
+ },
+ {
+  "Topic": 6,
+  "Count": 140,
+  "Name": "6_mari_époux_mariage_maris",
+  "Representation": [
+   "mari",
+   "époux",
+   "mariage",
+   "maris",
+   "femme",
+   "contre",
+   "monsieur",
+   "présent",
+   "côté",
+   "fort"
+  ],
+  "Representative_Docs": [
+   "Votre mari est doux et on en fait ce qu’on veut.",
+   "Elle dit que ce serait contre toute bienséance que mon époux me laissât seule dans l’état où j’étais et dit-elle avec sa vivacité ordinaire : « Je ne l’aurais pas souffert de feu mon mari.",
+   "Je n’ai rien, mon époux a tout mon bien."
+  ],
+  "Terms_with_Weights": [
+   [
+    "mari",
+    0.07412075471336718
+   ],
+   [
+    "époux",
+    0.0647493560138535
+   ],
+   [
+    "mariage",
+    0.018506289181386325
+   ],
+   [
+    "maris",
+    0.015457831646218194
+   ],
+   [
+    "femme",
+    0.015454317313426783
+   ],
+   [
+    "contre",
+    0.01183040450788974
+   ],
+   [
+    "monsieur",
+    0.010700175006262946
+   ],
+   [
+    "présent",
+    0.01046070871056431
+   ],
+   [
+    "côté",
+    0.009771067889888881
+   ],
+   [
+    "fort",
+    0.00943257827973475
+   ]
+  ],
+  "Label": "Ehemann, Ehe",
+  "Display": "no",
+  "Similar_topics": [
+   95
+  ]
+ },
+ {
+  "Topic": 7,
+  "Count": 123,
+  "Name": "7_catholique_catholiques_religion_réformés",
+  "Representation": [
+   "catholique",
+   "catholiques",
+   "religion",
+   "réformés",
+   "catholicité",
+   "oui",
+   "foi",
+   "gens",
+   "permis",
+   "réformée"
+  ],
+  "Representative_Docs": [
+   "Il me dit encore : « N’est-ce pas que vous m’avez dit que votre catholique ne reviendrait pas ?",
+   "» « Vous n’êtes donc pas catholique comme il faut l’être ?",
+   "Cette femme était catholique."
+  ],
+  "Terms_with_Weights": [
+   [
+    "catholique",
+    0.12641234752857883
+   ],
+   [
+    "catholiques",
+    0.069533981950446
+   ],
+   [
+    "religion",
+    0.020436086935320497
+   ],
+   [
+    "réformés",
+    0.01432589117453063
+   ],
+   [
+    "catholicité",
+    0.012154713512615344
+   ],
+   [
+    "oui",
+    0.012131409402847614
+   ],
+   [
+    "foi",
+    0.011293917354375486
+   ],
+   [
+    "gens",
+    0.011130946400686874
+   ],
+   [
+    "permis",
+    0.010637941167460918
+   ],
+   [
+    "réformée",
+    0.010195843138877963
+   ]
+  ],
+  "Label": "Konfession",
+  "Display": "yes",
+  "Similar_topics": [
+   69
+  ],
+  "Subjects": [
+   "S7"
+  ]
+ },
+ {
+  "Topic": 8,
+  "Count": 119,
+  "Name": "8_église_evêque_monseigneur_évêque",
+  "Representation": [
+   "église",
+   "evêque",
+   "monseigneur",
+   "évêque",
+   "saint",
+   "chapelle",
+   "sermon",
+   "messe",
+   "jésuites",
+   "évêché"
+  ],
+  "Representative_Docs": [
+   "Je ne sais si la pensée qui me vint que cette maison était près de l’église catholique, mais je m’en réjouis.",
+   "Le lendemain, jour de Vendredi saint, je retournai à l’église.",
+   "Elle me montra la sonnette et me dit que Monseigneur dirait la messe le lendemain dans leur église, qu’elle me ferait avertir de l’heure et me ferait ouvrir la porte pour que je me rendisse à l’église."
+  ],
+  "Terms_with_Weights": [
+   [
+    "église",
+    0.09507202786708623
+   ],
+   [
+    "evêque",
+    0.04922943387931063
+   ],
+   [
+    "monseigneur",
+    0.041963683013338623
+   ],
+   [
+    "évêque",
+    0.0401398652856773
+   ],
+   [
+    "saint",
+    0.022374341105652097
+   ],
+   [
+    "chapelle",
+    0.01990912123269142
+   ],
+   [
+    "sermon",
+    0.01538868334110712
+   ],
+   [
+    "messe",
+    0.015137580561004442
+   ],
+   [
+    "jésuites",
+    0.015056726963288183
+   ],
+   [
+    "évêché",
+    0.013810593626771481
+   ]
+  ],
+  "Label": "Kirche, Messe und Gottesdienst",
+  "Display": "yes",
+  "Subjects": [
+   "S7"
+  ]
+ },
+ {
+  "Topic": 9,
+  "Count": 119,
+  "Name": "9_vienne_cour_dames_veut",
+  "Representation": [
+   "vienne",
+   "cour",
+   "dames",
+   "veut",
+   "aller",
+   "étrangère",
+   "nom",
+   "séjour",
+   "court",
+   "celle"
+  ],
+  "Representative_Docs": [
+   "Depuis le comte de W. devait partir le même jour pour Vienne.",
+   "J’écrivis tout à Vienne.",
+   "» « Il faut aller à Vienne », me dit-elle."
+  ],
+  "Terms_with_Weights": [
+   [
+    "vienne",
+    0.13080463840326034
+   ],
+   [
+    "cour",
+    0.013442972956622251
+   ],
+   [
+    "dames",
+    0.0131501244261648
+   ],
+   [
+    "veut",
+    0.011548427754520916
+   ],
+   [
+    "aller",
+    0.011401189663139522
+   ],
+   [
+    "étrangère",
+    0.011197412598372513
+   ],
+   [
+    "nom",
+    0.011163706767256951
+   ],
+   [
+    "séjour",
+    0.010838448139273699
+   ],
+   [
+    "court",
+    0.010356789810240026
+   ],
+   [
+    "celle",
+    0.009728225906841506
+   ]
+  ],
+  "Label": "Gesellschaft und Etikette (v.a. in Wien)",
+  "Display": "yes"
+ },
+ {
+  "Topic": 10,
+  "Count": 117,
+  "Name": "10_berlin_père_retournâmes_huit",
+  "Representation": [
+   "berlin",
+   "père",
+   "retournâmes",
+   "huit",
+   "retour",
+   "trouverais",
+   "allemagne",
+   "retourner",
+   "campagne",
+   "bientôt"
+  ],
+  "Representative_Docs": [
+   "De temps en temps, il venait l’un et l’autre de Berlin.",
+   "Enfin mon père fit un voyage à Berlin seul, sans madame sa femme.",
+   "C’est la même manière en Prusse qu’à Berlin."
+  ],
+  "Terms_with_Weights": [
+   [
+    "berlin",
+    0.12817709540986127
+   ],
+   [
+    "père",
+    0.016882944564346393
+   ],
+   [
+    "retournâmes",
+    0.016234285661352005
+   ],
+   [
+    "huit",
+    0.014921776715067918
+   ],
+   [
+    "retour",
+    0.014263152225271872
+   ],
+   [
+    "trouverais",
+    0.014111876600573241
+   ],
+   [
+    "allemagne",
+    0.012817611771476627
+   ],
+   [
+    "retourner",
+    0.012626411915290552
+   ],
+   [
+    "campagne",
+    0.011846869141192736
+   ],
+   [
+    "bientôt",
+    0.011044492090423423
+   ]
+  ],
+  "Label": "Berlin und Rückkehr",
+  "Display": "yes",
+  "Similar_topics": [
+   34,
+   97
+  ],
+  "Subjects": [
+   "S2"
+  ]
+ },
+ {
+  "Topic": 11,
+  "Count": 103,
+  "Name": "11_larmes_yeux_fondant_vinrent",
+  "Representation": [
+   "larmes",
+   "yeux",
+   "fondant",
+   "vinrent",
+   "retenir",
+   "répandis",
+   "pleurer",
+   "pouvais",
+   "fondis",
+   "verser"
+  ],
+  "Representative_Docs": [
+   "Je le vis partir avec bien des larmes, je l’avoue.",
+   "Je ne pouvais retirer mes larmes.",
+   "J’étais tout en larmes à ses pieds."
+  ],
+  "Terms_with_Weights": [
+   [
+    "larmes",
+    0.19070001567469427
+   ],
+   [
+    "yeux",
+    0.041779464020513836
+   ],
+   [
+    "fondant",
+    0.030363143078345537
+   ],
+   [
+    "vinrent",
+    0.027625369998244744
+   ],
+   [
+    "retenir",
+    0.0271735438668389
+   ],
+   [
+    "répandis",
+    0.026307323197099875
+   ],
+   [
+    "pleurer",
+    0.025581437245881165
+   ],
+   [
+    "pouvais",
+    0.021302772344626977
+   ],
+   [
+    "fondis",
+    0.018897555277596328
+   ],
+   [
+    "verser",
+    0.01821788584700732
+   ]
+  ],
+  "Label": "Tränen",
+  "Display": "yes",
+  "Similar_topics": [
+   58
+  ]
+ },
+ {
+  "Topic": 12,
+  "Count": 95,
+  "Name": "12_douleurs_souffris_morte_chagrin",
+  "Representation": [
+   "douleurs",
+   "souffris",
+   "morte",
+   "chagrin",
+   "martyre",
+   "désespoir",
+   "savez",
+   "espèce",
+   "extrême",
+   "commencèrent"
+  ],
+  "Representative_Docs": [
+   "Vous savez, ô mon Dieu, ce que je souffrais pendant ce temps, c’était une espèce de martyre pour moi.",
+   "Joint à cela mes douleurs me reprirent le 10ou 12 de janvier avec plus de violence que jamais, et avec cela j’avais des impatiences si grandes que souvent je fus tentée de me jeter hors du lit et.",
+   "Je ne les avais plus dans les jointures mais dans tous les bras, et ordinairement dans le bras droit et la jambe gauche, ou le bras gauche et la jambe droite, toujours de même, et ces douleurs semblaient se joindre au cœur où j’avais alors des oppressions si terribles que je croyais rendre l’âme."
+  ],
+  "Terms_with_Weights": [
+   [
+    "douleurs",
+    0.054573592261639554
+   ],
+   [
+    "souffris",
+    0.034783323599450244
+   ],
+   [
+    "morte",
+    0.027359122887994924
+   ],
+   [
+    "chagrin",
+    0.025592494005072897
+   ],
+   [
+    "martyre",
+    0.02487561327642822
+   ],
+   [
+    "désespoir",
+    0.018499042740260888
+   ],
+   [
+    "savez",
+    0.018499042740260888
+   ],
+   [
+    "espèce",
+    0.018191197420546517
+   ],
+   [
+    "extrême",
+    0.01675491197614798
+   ],
+   [
+    "commencèrent",
+    0.01654108520942814
+   ]
+  ],
+  "Label": "Schmerz, Leid und Verzweiflung",
+  "Display": "yes",
+  "Similar_topics": [
+   24
+  ]
+ },
+ {
+  "Topic": 13,
+  "Count": 89,
+  "Name": "13_surpris_voulut_croire_persuadé",
+  "Representation": [
+   "surpris",
+   "voulut",
+   "croire",
+   "persuadé",
+   "avoir",
+   "muet",
+   "avoua",
+   "disant",
+   "rien",
+   "mauvaise"
+  ],
+  "Representative_Docs": [
+   "Il voulut lui faire un compliment, en affectant que j’avais tort, mais je ne comprenais pas sa finesse, et s’il n’eut pas eu la précaution de me regarder en souriant j’allais me défendre sur l’ordre qu’il m’avait donné, tant j’étais étourdie et imprudente toute de connaître le monde, sans pourtant d’avoir de mauvaise intention.",
+   "Il se mit à rire et me dit si j’avais si mauvaise opinion de lui que de croire qu’il pouvait me trahir de cette manière, qu’il était bien éloigné d’un tel dessein, qu’il m’avait donné cette fête pour signaler notre réunion et pour faire oublier tous les chagrins que nous avions eus depuis quelques jours.",
+   "Il voulut savoir d'où je les avais su, mais je n'aurais pas trahi un ami pour le monde entier, et quand dans ces occasions, je me voyais pressée, je me défendais en lui disant qu'il pourrait me soupçonner d’être causeuse, si je redisais ce qu’on me confiait, et que je voulais qu’il fût persuadé que je savais me taire, puisque je pouvais résister à ces instants."
+  ],
+  "Terms_with_Weights": [
+   [
+    "surpris",
+    0.023732684594347585
+   ],
+   [
+    "voulut",
+    0.017430878994674187
+   ],
+   [
+    "croire",
+    0.01726514401605593
+   ],
+   [
+    "persuadé",
+    0.01720210866898706
+   ],
+   [
+    "avoir",
+    0.017082126302929813
+   ],
+   [
+    "muet",
+    0.015687125616376186
+   ],
+   [
+    "avoua",
+    0.014916578476731423
+   ],
+   [
+    "disant",
+    0.01415045195708495
+   ],
+   [
+    "rien",
+    0.01370603750988005
+   ],
+   [
+    "mauvaise",
+    0.013501589255289171
+   ]
+  ],
+  "Label": "Kommunikation von Gefühlen",
+  "Display": "yes"
+ },
+ {
+  "Topic": 14,
+  "Count": 84,
+  "Name": "14_maison_chambre_chambres_salle",
+  "Representation": [
+   "maison",
+   "chambre",
+   "chambres",
+   "salle",
+   "mena",
+   "trouvai",
+   "chaise",
+   "inventaires",
+   "loger",
+   "bas"
+  ],
+  "Representative_Docs": [
+   "» J’avoue que si la maison fût renversée au même instant, je n’aurais pas été plus surprise que de loger à quatre pas de la maison du monde que je craignais le plus.",
+   "Dans la suite, monsieur l’écuyer me promena par toute la maison, et il me mena même dans le bas de la maison où je ne sais pour quelle raison il me montra trois petites chambres, que je destinai d’abord pour le secrétaire et le ministre.",
+   "« Ce n’est pas la maison, lui dis-je."
+  ],
+  "Terms_with_Weights": [
+   [
+    "maison",
+    0.09759686103825951
+   ],
+   [
+    "chambre",
+    0.045745837683619055
+   ],
+   [
+    "chambres",
+    0.03134519036909401
+   ],
+   [
+    "salle",
+    0.030225039427759857
+   ],
+   [
+    "mena",
+    0.022777815063112206
+   ],
+   [
+    "trouvai",
+    0.017851709397639387
+   ],
+   [
+    "chaise",
+    0.016416691731969798
+   ],
+   [
+    "inventaires",
+    0.015415157393363417
+   ],
+   [
+    "loger",
+    0.015038425774053312
+   ],
+   [
+    "bas",
+    0.014753510988272938
+   ]
+  ],
+  "Label": "Haus, Räume und häusliche Einrichtung",
+  "Display": "yes",
+  "Similar_topics": [
+   98
+  ]
+ },
+ {
+  "Topic": 15,
+  "Count": 80,
+  "Name": "15_souper_repas_dîner_soupe",
+  "Representation": [
+   "souper",
+   "repas",
+   "dîner",
+   "soupe",
+   "table",
+   "manger",
+   "viande",
+   "ordinaire",
+   "passa",
+   "ordinairement"
+  ],
+  "Representative_Docs": [
+   "C’était l’heure du dîner.",
+   "Il était à un souper à la Cour.",
+   "C’était l’heure du souper."
+  ],
+  "Terms_with_Weights": [
+   [
+    "souper",
+    0.09427370598789474
+   ],
+   [
+    "repas",
+    0.0894759661462119
+   ],
+   [
+    "dîner",
+    0.08736270832160448
+   ],
+   [
+    "soupe",
+    0.027341760913610652
+   ],
+   [
+    "table",
+    0.026348245685474943
+   ],
+   [
+    "manger",
+    0.024795540538075478
+   ],
+   [
+    "viande",
+    0.02394093880223495
+   ],
+   [
+    "ordinaire",
+    0.023913602866680646
+   ],
+   [
+    "passa",
+    0.022953308961060924
+   ],
+   [
+    "ordinairement",
+    0.021327868533879617
+   ]
+  ],
+  "Label": "Essen",
+  "Display": "yes",
+  "Subjects": [
+   "S1"
+  ]
+ },
+ {
+  "Topic": 16,
+  "Count": 80,
+  "Name": "16_voulait_inviter_jour_partie",
+  "Representation": [
+   "voulait",
+   "inviter",
+   "jour",
+   "partie",
+   "jetait",
+   "enfants",
+   "présence",
+   "curieuse",
+   "agir",
+   "fixé"
+  ],
+  "Representative_Docs": [
+   "Après eux vinrent le comte et la comtesse de Dönhoff.",
+   "Ce même soir, la comtesse de Dönhoff vint chez nous.",
+   "» « C’est, me dit-elle, la comtesse de Dönhoff."
+  ],
+  "Terms_with_Weights": [
+   [
+    "voulait",
+    0.020986287916383153
+   ],
+   [
+    "inviter",
+    0.019009480429359953
+   ],
+   [
+    "jour",
+    0.018904359258656078
+   ],
+   [
+    "partie",
+    0.01795811892167464
+   ],
+   [
+    "jetait",
+    0.017266033924298988
+   ],
+   [
+    "enfants",
+    0.016043795426729318
+   ],
+   [
+    "présence",
+    0.015679376850471057
+   ],
+   [
+    "curieuse",
+    0.01566706337278866
+   ],
+   [
+    "agir",
+    0.015267457276936913
+   ],
+   [
+    "fixé",
+    0.014587937481266043
+   ]
+  ],
+  "Label": "Unklar",
+  "Display": "no"
+ },
+ {
+  "Topic": 17,
+  "Count": 73,
+  "Name": "17_nuit_repos_lit_sommeil",
+  "Representation": [
+   "nuit",
+   "repos",
+   "lit",
+   "sommeil",
+   "levée",
+   "endormir",
+   "dormir",
+   "couches",
+   "pendant",
+   "soir"
+  ],
+  "Representative_Docs": [
+   "Je passai une très mauvaise nuit.",
+   "Pendant tout le temps de mes couches, j’eus beaucoup de repos et de tranquillité.",
+   "Je fus si mal la nuit qu’il fallut avoir recours au médecin ; mais comme j’avais le tempérament extrêmement bon, quelques jours de repos me tirèrent d’affaire."
+  ],
+  "Terms_with_Weights": [
+   [
+    "nuit",
+    0.07319029687031092
+   ],
+   [
+    "repos",
+    0.05250839148428333
+   ],
+   [
+    "lit",
+    0.047031174241152274
+   ],
+   [
+    "sommeil",
+    0.032918954959371846
+   ],
+   [
+    "levée",
+    0.026443339171277523
+   ],
+   [
+    "endormir",
+    0.024689216219528885
+   ],
+   [
+    "dormir",
+    0.024689216219528885
+   ],
+   [
+    "couches",
+    0.023055916510916888
+   ],
+   [
+    "pendant",
+    0.021679242290535843
+   ],
+   [
+    "soir",
+    0.021662490751403946
+   ]
+  ],
+  "Label": "Schlafen",
+  "Display": "yes"
+ },
+ {
+  "Topic": 18,
+  "Count": 69,
+  "Name": "18_enfants_enfant_fils_chers",
+  "Representation": [
+   "enfants",
+   "enfant",
+   "fils",
+   "chers",
+   "jeunes",
+   "pauvre",
+   "essentiel",
+   "cet",
+   "avoir",
+   "jeune"
+  ],
+  "Representative_Docs": [
+   "Quoique, dis-je en me reprenant avec un peu de chaleur, je vois que je dois dire vos enfants, car à ce que j’entends, ils ne sont plus à moi, ils sont à vous seul, et vous les confiez plus à la Wergeau qu’à moi, quoiqu’on ne puisse me disputer de les avoir mis au monde.",
+   "Je lui montrai en même temps mes enfants , surtout mon fils le plus jeune lui plut.",
+   "Je fus voir les enfants ."
+  ],
+  "Terms_with_Weights": [
+   [
+    "enfants",
+    0.0876088465423219
+   ],
+   [
+    "enfant",
+    0.05370261905389316
+   ],
+   [
+    "fils",
+    0.0394221749753498
+   ],
+   [
+    "chers",
+    0.034154557944246586
+   ],
+   [
+    "jeunes",
+    0.022313583172506084
+   ],
+   [
+    "pauvre",
+    0.02123204997320601
+   ],
+   [
+    "essentiel",
+    0.018318226595565045
+   ],
+   [
+    "cet",
+    0.01777181076741421
+   ],
+   [
+    "avoir",
+    0.01664605365718009
+   ],
+   [
+    "jeune",
+    0.01645304654716158
+   ]
+  ],
+  "Label": "Meine lieben Kinder",
+  "Display": "no"
+ },
+ {
+  "Topic": 19,
+  "Count": 59,
+  "Name": "19_oui_voudrez_ami_pourrez",
+  "Representation": [
+   "oui",
+   "voudrez",
+   "ami",
+   "pourrez",
+   "hé",
+   "faites",
+   "prie",
+   "tenez",
+   "image",
+   "répliqua"
+  ],
+  "Representative_Docs": [
+   "« Mais, dis-je, mon ami, que faites-vous donc de cette image ?",
+   "Je lui dis que oui.",
+   "», lui dis-je."
+  ],
+  "Terms_with_Weights": [
+   [
+    "oui",
+    0.08248722409170829
+   ],
+   [
+    "voudrez",
+    0.046174760448928036
+   ],
+   [
+    "ami",
+    0.045960941769988946
+   ],
+   [
+    "pourrez",
+    0.04311175064633331
+   ],
+   [
+    "hé",
+    0.04126003422595291
+   ],
+   [
+    "faites",
+    0.03785389881772174
+   ],
+   [
+    "prie",
+    0.03621458852537099
+   ],
+   [
+    "tenez",
+    0.035634291760904685
+   ],
+   [
+    "image",
+    0.032387059650029894
+   ],
+   [
+    "répliqua",
+    0.03208394377061978
+   ]
+  ],
+  "Label": "Direkte Rede: Antworten und Gesprächsformeln",
+  "Display": "no"
+ },
+ {
+  "Topic": 20,
+  "Count": 58,
+  "Name": "20_religion_changement_religieuse_sainte",
+  "Representation": [
+   "religion",
+   "changement",
+   "religieuse",
+   "sainte",
+   "voilà",
+   "galerie",
+   "trouvé",
+   "tentations",
+   "cacher",
+   "voudrait"
+  ],
+  "Representative_Docs": [
+   "Je ne l’avais point vu depuis mon changement de religion.",
+   "Elle était charmée de mon changement de religion.",
+   "Qu’en a-t-il été à mon changement de religion ?"
+  ],
+  "Terms_with_Weights": [
+   [
+    "religion",
+    0.1556102040417457
+   ],
+   [
+    "changement",
+    0.070441822306664
+   ],
+   [
+    "religieuse",
+    0.03800526224988855
+   ],
+   [
+    "sainte",
+    0.021968279890448427
+   ],
+   [
+    "voilà",
+    0.020103537224661846
+   ],
+   [
+    "galerie",
+    0.01839209714461969
+   ],
+   [
+    "trouvé",
+    0.01760212810422257
+   ],
+   [
+    "tentations",
+    0.01741864499501804
+   ],
+   [
+    "cacher",
+    0.016947130206455746
+   ],
+   [
+    "voudrait",
+    0.01599966212090728
+   ]
+  ],
+  "Label": "Religion, Konversion",
+  "Display": "yes",
+  "Similar_topics": [
+   70,
+   72,
+   93
+  ],
+  "Subjects": [
+   "S7"
+  ]
+ },
+ {
+  "Topic": 21,
+  "Count": 56,
+  "Name": "21_tante_cousine_oncle_belle",
+  "Representation": [
+   "tante",
+   "cousine",
+   "oncle",
+   "belle",
+   "mère",
+   "occupations",
+   "sœur",
+   "père",
+   "germaine",
+   "vaisselle"
+  ],
+  "Representative_Docs": [
+   "Ma tante se résolut d’aller passer quelque temps chez mon oncle.",
+   "J’étais avec ma belle-mère.",
+   "Je partis donc après la Pentecôte pour aller chez mon oncle, qui me mena avec madame sa femme et ma cousine dans la même ville où ma tante venait souvent."
+  ],
+  "Terms_with_Weights": [
+   [
+    "tante",
+    0.1048720055191424
+   ],
+   [
+    "cousine",
+    0.0768776641193974
+   ],
+   [
+    "oncle",
+    0.07456410045904945
+   ],
+   [
+    "belle",
+    0.06767516490715127
+   ],
+   [
+    "mère",
+    0.05667585750772853
+   ],
+   [
+    "occupations",
+    0.0321128529871321
+   ],
+   [
+    "sœur",
+    0.028739215770591568
+   ],
+   [
+    "père",
+    0.02548305499305246
+   ],
+   [
+    "germaine",
+    0.023940263365014577
+   ],
+   [
+    "vaisselle",
+    0.02292960769445629
+   ]
+  ],
+  "Label": "Familie und Verwandte",
+  "Display": "no"
+ },
+ {
+  "Topic": 22,
+  "Count": 54,
+  "Name": "22_homme_très_savant_félicita",
+  "Representation": [
+   "homme",
+   "très",
+   "savant",
+   "félicita",
+   "content",
+   "savait",
+   "compliments",
+   "honnête",
+   "premiers",
+   "employé"
+  ],
+  "Representative_Docs": [
+   "C’était un homme de très bonne maison et certainement très savant.",
+   "Il était sous la conduite d’un très savant homme, qui n’avait pas seulement une connaissance entière des belles lettres, mais qui savait encore tout ce qui pouvait perfectionner l’esprit d’une femme.",
+   "Il était un des plus grands hommes de nos jours, par son savoir, son mérite et sa parfaite probité, qui connaissait le monde et la Cour à fond, et qui avait été employé dans les plus grandes ambassades, dont il s’était acquitté avec toute la réputation qu’on puisse désirer, un homme enfin sur qui la plus noire malice, ni la plus fine critique n’avaient jamais trouvé à redire."
+  ],
+  "Terms_with_Weights": [
+   [
+    "homme",
+    0.06172295458749315
+   ],
+   [
+    "très",
+    0.044624484098831
+   ],
+   [
+    "savant",
+    0.04182784710275532
+   ],
+   [
+    "félicita",
+    0.03746896083647181
+   ],
+   [
+    "content",
+    0.03691204090169436
+   ],
+   [
+    "savait",
+    0.03575464497497398
+   ],
+   [
+    "compliments",
+    0.030076749673114318
+   ],
+   [
+    "honnête",
+    0.02940863406755515
+   ],
+   [
+    "premiers",
+    0.026267461792599495
+   ],
+   [
+    "employé",
+    0.024979307224314542
+   ]
+  ],
+  "Label": "Mann",
+  "Display": "no"
+ },
+ {
+  "Topic": 23,
+  "Count": 47,
+  "Name": "23_longtemps_arriva_contraire_ainsi",
+  "Representation": [
+   "longtemps",
+   "arriva",
+   "contraire",
+   "ainsi",
+   "alla",
+   "passa",
+   "bredouille",
+   "amplement",
+   "emporter",
+   "précautionné"
+  ],
+  "Representative_Docs": [
+   "Cela se passa ainsi.",
+   "On en laisse tomber une goutte sur la poitrine, et cela s'écoule et s’étend comme de soi-même comme de l’encre.",
+   "Cela arriva ainsi."
+  ],
+  "Terms_with_Weights": [
+   [
+    "longtemps",
+    0.06311740156041636
+   ],
+   [
+    "arriva",
+    0.04686701656491789
+   ],
+   [
+    "contraire",
+    0.043204973519703344
+   ],
+   [
+    "ainsi",
+    0.04175130246042076
+   ],
+   [
+    "alla",
+    0.039465153526570394
+   ],
+   [
+    "passa",
+    0.03653301530975143
+   ],
+   [
+    "bredouille",
+    0.03475004204860972
+   ],
+   [
+    "amplement",
+    0.03475004204860972
+   ],
+   [
+    "emporter",
+    0.03475004204860972
+   ],
+   [
+    "précautionné",
+    0.03475004204860972
+   ]
+  ],
+  "Label": "Geschehen",
+  "Display": "no"
+ },
+ {
+  "Topic": 24,
+  "Count": 45,
+  "Name": "24_impossible_pouvais_dépeindre_discerner",
+  "Representation": [
+   "impossible",
+   "pouvais",
+   "dépeindre",
+   "discerner",
+   "éperdue",
+   "sentiments",
+   "retirai",
+   "mouvement",
+   "pénétrer",
+   "trouvais"
+  ],
+  "Representative_Docs": [
+   "Il était consterné de me trouver dans un pareil état, et j’étais dans une si grande confusion que je ne pouvais discerner mes sentiments.",
+   "J’étais dans un état qu’il est impossible de dépeindre.",
+   "Je ne pouvais pénétrer ce qui me forçait à une conduite pareille, et je sentais pourtant bien qu’il ne dépendait pas de moi de la changer, puisqu’il m’était tout aussi impossible de fixer mon esprit quand j’étais seule, qu’il m’était impossible de le dissiper dans le monde."
+  ],
+  "Terms_with_Weights": [
+   [
+    "impossible",
+    0.056406299061699326
+   ],
+   [
+    "pouvais",
+    0.05420673599795208
+   ],
+   [
+    "dépeindre",
+    0.03905650004992175
+   ],
+   [
+    "discerner",
+    0.03529467226215558
+   ],
+   [
+    "éperdue",
+    0.033470622984845225
+   ],
+   [
+    "sentiments",
+    0.0291532909495337
+   ],
+   [
+    "retirai",
+    0.026037666699947837
+   ],
+   [
+    "mouvement",
+    0.025573854716993378
+   ],
+   [
+    "pénétrer",
+    0.024005873641958424
+   ],
+   [
+    "trouvais",
+    0.02377570022539671
+   ]
+  ],
+  "Label": "Zweifel, Verzweiflung und Unmöglichkeit",
+  "Display": "no",
+  "Similar_topics": [
+   12
+  ]
+ },
+ {
+  "Topic": 25,
+  "Count": 44,
+  "Name": "25_savais_ignorais_pus_quel",
+  "Representation": [
+   "savais",
+   "ignorais",
+   "pus",
+   "quel",
+   "mot",
+   "sais",
+   "virgule",
+   "inquièterai",
+   "ceces",
+   "jeu"
+  ],
+  "Representative_Docs": [
+   "Je ne savais au monde d’où venait son chagrin.",
+   "Je ne savais à qui donner mon jeu.",
+   "Je ne savais où j’étais pendant tous ces discours."
+  ],
+  "Terms_with_Weights": [
+   [
+    "savais",
+    0.16324888755429512
+   ],
+   [
+    "ignorais",
+    0.07355385371302058
+   ],
+   [
+    "pus",
+    0.05500490032724717
+   ],
+   [
+    "quel",
+    0.05378871761179433
+   ],
+   [
+    "mot",
+    0.05340224836084473
+   ],
+   [
+    "sais",
+    0.047930099253599034
+   ],
+   [
+    "virgule",
+    0.04122520516325749
+   ],
+   [
+    "inquièterai",
+    0.04122520516325749
+   ],
+   [
+    "ceces",
+    0.04122520516325749
+   ],
+   [
+    "jeu",
+    0.04027125487142486
+   ]
+  ],
+  "Label": "Erkenntnis und Irrtum (Wissen)",
+  "Display": "yes"
+ },
+ {
+  "Topic": 26,
+  "Count": 42,
+  "Name": "26_elles_gens_accusation_crurent",
+  "Representation": [
+   "elles",
+   "gens",
+   "accusation",
+   "crurent",
+   "trop",
+   "humain",
+   "mensonge",
+   "stupide",
+   "respect",
+   "quitte"
+  ],
+  "Representative_Docs": [
+   "Hélas, pauvre aveugles, vous vous divertissiez de votre ignorance, si vous aviez su la cause de l’adoucissement de mon esprit, votre colère serait éclatée contre moi, car tous les conviés, s’ils avaient su l’acte qui venait de se passer, je crois qu'ils m'auraient fait tant ils étaient animés contre la vérité.",
+   "Ainsi que, ma confession, quoique bonne, ne fit qu’adoucir mes maux ; mais que revinrent dans la suite avec plus de violence, et j’ose dire que cette faute est cause que je n’ai jamais eu de véritable repos qu’ici (à Cologne), où j’ai appris par la grâce de Dieu qu’il ne suffit pas de dire simplement ses péchés, et quoique on me le dit bien dès lors, j’étais si ignorante ou plutôt si stupide que je ne savais comment m’expliquer.",
+   "J’ai écrit cette période avec plus de circonstances qu’il n’était peut-être nécessaire, mais je l’ai fait pour que si jamais cet écrit soit vu des âmes timides comme moi, [qu’elles] prennent le courage que j’ai pris dans la suite et qu’elles ne s’attachent jamais à un confesseur par recommandation ni respect humain, mais qu’elles choisissent selon la confiance qu’elles se trouveront, puisque si j’étais restée opiniatrement dans cette situation, j’étais perdue sans ressource."
+  ],
+  "Terms_with_Weights": [
+   [
+    "elles",
+    0.03260745800463922
+   ],
+   [
+    "gens",
+    0.028844830133248504
+   ],
+   [
+    "accusation",
+    0.023464097384303755
+   ],
+   [
+    "crurent",
+    0.023464097384303755
+   ],
+   [
+    "trop",
+    0.023147530401204933
+   ],
+   [
+    "humain",
+    0.02311889606839986
+   ],
+   [
+    "mensonge",
+    0.022620187710580966
+   ],
+   [
+    "stupide",
+    0.021291137404046125
+   ],
+   [
+    "respect",
+    0.020802675854842335
+   ],
+   [
+    "quitte",
+    0.020748082966093755
+   ]
+  ],
+  "Label": "Anklage, Lüge und Geständnis",
+  "Display": "yes"
+ },
+ {
+  "Topic": 27,
+  "Count": 40,
+  "Name": "27_rougit_fidélité_appeler_désormais",
+  "Representation": [
+   "rougit",
+   "fidélité",
+   "appeler",
+   "désormais",
+   "estla",
+   "complaintes",
+   "frivole",
+   "contrefait",
+   "démontai",
+   "intolérable"
+  ],
+  "Representative_Docs": [
+   "Sur cela la Wergeau arriva.",
+   "Je fis venir la Wergeau.",
+   "Je fus trouver la Wergeau."
+  ],
+  "Terms_with_Weights": [
+   [
+    "rougit",
+    0.0526340816123409
+   ],
+   [
+    "fidélité",
+    0.03283088156063976
+   ],
+   [
+    "appeler",
+    0.03106103225980584
+   ],
+   [
+    "désormais",
+    0.028486085971177928
+   ],
+   [
+    "estla",
+    0.028486085971177928
+   ],
+   [
+    "complaintes",
+    0.028486085971177928
+   ],
+   [
+    "frivole",
+    0.028486085971177928
+   ],
+   [
+    "contrefait",
+    0.028486085971177928
+   ],
+   [
+    "démontai",
+    0.028486085971177928
+   ],
+   [
+    "intolérable",
+    0.028486085971177928
+   ]
+  ],
+  "Label": "Liebe, Treue und moralischer Wandel",
+  "Display": "no"
+ },
+ {
+  "Topic": 28,
+  "Count": 40,
+  "Name": "28_rire_riant_mit_plaisants",
+  "Representation": [
+   "rire",
+   "riant",
+   "mit",
+   "plaisants",
+   "air",
+   "souriant",
+   "oui",
+   "mis",
+   "hui",
+   "aujourd"
+  ],
+  "Representative_Docs": [
+   "Cela me surprit et me fit rire en même temps.",
+   "Il se mit à rire et me dit : « C’est un fou.",
+   "» Je me mis à rire et lui dis que tout le monde disait que je l’étais."
+  ],
+  "Terms_with_Weights": [
+   [
+    "rire",
+    0.16798936005612858
+   ],
+   [
+    "riant",
+    0.09861806848562957
+   ],
+   [
+    "mit",
+    0.04954709269729976
+   ],
+   [
+    "plaisants",
+    0.038606627328614126
+   ],
+   [
+    "air",
+    0.030989685056283262
+   ],
+   [
+    "souriant",
+    0.0304432462724104
+   ],
+   [
+    "oui",
+    0.0291919072272604
+   ],
+   [
+    "mis",
+    0.025719948284472556
+   ],
+   [
+    "hui",
+    0.025632403566658687
+   ],
+   [
+    "aujourd",
+    0.025632403566658687
+   ]
+  ],
+  "Label": "Lachen",
+  "Display": "yes"
+ },
+ {
+  "Topic": 29,
+  "Count": 39,
+  "Name": "29_partie_für_bleistiftmarginalie_gefangen",
+  "Representation": [
+   "partie",
+   "für",
+   "bleistiftmarginalie",
+   "gefangen",
+   "zajali",
+   "tschechisch",
+   "troisième",
+   "ouvrez",
+   "quatrième",
+   "union"
+  ],
+  "Representative_Docs": [
+   "Première partie",
+   "Troisième partie",
+   "» [Bleistiftmarginalie: zajali (tschechisch für \"gefangen\")]"
+  ],
+  "Terms_with_Weights": [
+   [
+    "partie",
+    0.45519927527549203
+   ],
+   [
+    "für",
+    0.2885764361428025
+   ],
+   [
+    "bleistiftmarginalie",
+    0.2885764361428025
+   ],
+   [
+    "gefangen",
+    0.2885764361428025
+   ],
+   [
+    "zajali",
+    0.2885764361428025
+   ],
+   [
+    "tschechisch",
+    0.2885764361428025
+   ],
+   [
+    "troisième",
+    0.26944257904293034
+   ],
+   [
+    "ouvrez",
+    0.2409245019634098
+   ],
+   [
+    "quatrième",
+    0.19856299883338668
+   ],
+   [
+    "union",
+    0.19856299883338668
+   ]
+  ],
+  "Label": "Überbleibsel",
+  "Display": "no"
+ },
+ {
+  "Topic": 30,
+  "Count": 39,
+  "Name": "30_ah_ha__",
+  "Representation": [
+   "ah",
+   "ha",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "Representative_Docs": [
+   "Ah !",
+   "Ah !",
+   "Ah !"
+  ],
+  "Terms_with_Weights": [
+   [
+    "ah",
+    2.506293566098452
+   ],
+   [
+    "ha",
+    0.14208368064508783
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ]
+  ],
+  "Label": "Exklamationen",
+  "Display": "yes",
+  "Similar_topics": [
+   71,
+   94
+  ]
+ },
+ {
+  "Topic": 31,
+  "Count": 39,
+  "Name": "31_lettre_lettres_écrivit_écrivis",
+  "Representation": [
+   "lettre",
+   "lettres",
+   "écrivit",
+   "écrivis",
+   "donna",
+   "acheva",
+   "montrai",
+   "écrivait",
+   "père",
+   "manqué"
+  ],
+  "Representative_Docs": [
+   "» « Mais, me dit-il, que ferai-je de ma lettre ?",
+   "Cette lettre m’acheva.",
+   "Je lui remis une lettre que j’écrivis à mon infidèle époux."
+  ],
+  "Terms_with_Weights": [
+   [
+    "lettre",
+    0.158976546122941
+   ],
+   [
+    "lettres",
+    0.06451727048817527
+   ],
+   [
+    "écrivit",
+    0.04947893978201279
+   ],
+   [
+    "écrivis",
+    0.04947893978201279
+   ],
+   [
+    "donna",
+    0.037072854311567593
+   ],
+   [
+    "acheva",
+    0.03594096491792309
+   ],
+   [
+    "montrai",
+    0.0348087468181506
+   ],
+   [
+    "écrivait",
+    0.03296639849057119
+   ],
+   [
+    "père",
+    0.03222610205500009
+   ],
+   [
+    "manqué",
+    0.03219555153356097
+   ]
+  ],
+  "Label": "Briefe, Schreiben",
+  "Display": "yes"
+ },
+ {
+  "Topic": 32,
+  "Count": 38,
+  "Name": "32_gouverneur_secrétaire_chevalier_controverse",
+  "Representation": [
+   "gouverneur",
+   "secrétaire",
+   "chevalier",
+   "controverse",
+   "thèse",
+   "histoires",
+   "inquiéter",
+   "ainé",
+   "embarrassé",
+   "donnée"
+  ],
+  "Representative_Docs": [
+   "J’hésitai un peu au discours de la Wergeau, tellement qu’elle reprit la parole et me dit qu’il n’était plus temps de feindre, que la famille avait fait écrire à Lissa par monsieur Gablonski(ministre) pour s’informer s’il était vrai que j’y eusse été et que le ministre avait positivement écrit que non.",
+   "Le gouverneur y fut aussi avec nous.",
+   "Il avait soutenu cette thèse contre son frère ainé avec chaleur, et peu s’en était fallu qu’ils n’en eussent venu aux mains dans l’effort de leur dispute, mais le gouverneur ayant voulu savoir le sujet de leurs différences, on le lui dit, et mon petit amant de la reine des anges soutint sa thèse contre son gouverneur avec toute la fermeté possible et sans que les menaces l’intimidassent."
+  ],
+  "Terms_with_Weights": [
+   [
+    "gouverneur",
+    0.11325936192235828
+   ],
+   [
+    "secrétaire",
+    0.05164683147349273
+   ],
+   [
+    "chevalier",
+    0.040634518830260584
+   ],
+   [
+    "controverse",
+    0.033606181368794306
+   ],
+   [
+    "thèse",
+    0.027087050559900516
+   ],
+   [
+    "histoires",
+    0.02501046527793617
+   ],
+   [
+    "inquiéter",
+    0.02501046527793617
+   ],
+   [
+    "ainé",
+    0.023540974088494298
+   ],
+   [
+    "embarrassé",
+    0.021071719958205205
+   ],
+   [
+    "donnée",
+    0.020347371903430087
+   ]
+  ],
+  "Label": "Autorität, Kontroverse und Öffentlichkeit",
+  "Display": "no"
+ },
+ {
+  "Topic": 33,
+  "Count": 38,
+  "Name": "33_tante_belle_mère_âge",
+  "Representation": [
+   "tante",
+   "belle",
+   "mère",
+   "âge",
+   "larmes",
+   "ingratitudes",
+   "flattait",
+   "trop",
+   "pardonner",
+   "devins"
+  ],
+  "Representative_Docs": [
+   "Ma tante me fit de très beaux présents, et j’emportai plus d’un chariot plein de meubles et d’effets sans que j’y fusse attachée, que parce qu’elle me pressait de les accepter en me disant avec beaucoup de larmes que j’en aurais bien besoin peut-être un jour, et elle me fit promettre fort sérieusement que si jamais je sortais de la famille où j’étais entrée, que je ne les y laisserai jamais.",
+   "L’expédient fut enfin trouvé, et ma belle-mère écrivit à ma tante qu’elle ne pouvait pas la priver d’une personne si fidèle et qu’elle aurait elle-même soin de moi.",
+   "Ma belle-mère me dit le lendemain toute l’histoire de ma cassette et comme par une double clef ma tante avait lu mes lettres aussitôt que je les avais renfermées, et que cela l’avait si fort aigrie de voir comme elle était ma dupe après tous les biens qu’elle m’avait fait, qu’à présent elle me déshéritait et ne voulait plus me ravoir chez elle qu’en cas que l’engagement avec le comte de Schwerin se rompît."
+  ],
+  "Terms_with_Weights": [
+   [
+    "tante",
+    0.10701722552976176
+   ],
+   [
+    "belle",
+    0.04972284082717891
+   ],
+   [
+    "mère",
+    0.045545217081916785
+   ],
+   [
+    "âge",
+    0.026154867090383272
+   ],
+   [
+    "larmes",
+    0.025647698448241357
+   ],
+   [
+    "ingratitudes",
+    0.0219869782787477
+   ],
+   [
+    "flattait",
+    0.02105878196206341
+   ],
+   [
+    "trop",
+    0.020774666406102333
+   ],
+   [
+    "pardonner",
+    0.020301381857404252
+   ],
+   [
+    "devins",
+    0.019661844437030673
+   ]
+  ],
+  "Label": "Familiäre Beziehungen und Konflikte",
+  "Display": "no"
+ },
+ {
+  "Topic": 34,
+  "Count": 38,
+  "Name": "34_berlin_neuf_prusse_lieues",
+  "Representation": [
+   "berlin",
+   "neuf",
+   "prusse",
+   "lieues",
+   "terre",
+   "walsleben",
+   "passé",
+   "belle",
+   "février",
+   "arrivâmes"
+  ],
+  "Representative_Docs": [
+   "Cela me donna l’occasion de lui demander ce qui s’était passé pendant le séjour du comte de Schwerin en Prusse, et ce qui se disait à Berlin.",
+   "Je partis peu de temps après avec le comte de Schwerin pour sa belle terre à neuf lieues de Berlin, où nous demeurâmes tout l’été.",
+   "Le comte de Schwerin fut à sa nouvelle terre à neuf lieues de Berlin, et j’y fus avec lui."
+  ],
+  "Terms_with_Weights": [
+   [
+    "berlin",
+    0.12107327544351124
+   ],
+   [
+    "neuf",
+    0.045512036199274665
+   ],
+   [
+    "prusse",
+    0.033668176177266335
+   ],
+   [
+    "lieues",
+    0.03331763930039636
+   ],
+   [
+    "terre",
+    0.030353906122133043
+   ],
+   [
+    "walsleben",
+    0.024603040944766133
+   ],
+   [
+    "passé",
+    0.024129133767974216
+   ],
+   [
+    "belle",
+    0.023331987482386966
+   ],
+   [
+    "février",
+    0.02226378940203692
+   ],
+   [
+    "arrivâmes",
+    0.022192407618522984
+   ]
+  ],
+  "Label": "Reisedestinationen",
+  "Display": "yes",
+  "Similar_topics": [
+   10,
+   42,
+   97,
+   107
+  ],
+  "Subjects": [
+   "S2"
+  ]
+ },
+ {
+  "Topic": 35,
+  "Count": 37,
+  "Name": "35_consultez_voyons_soupirant_pouvez",
+  "Representation": [
+   "consultez",
+   "voyons",
+   "soupirant",
+   "pouvez",
+   "conseillerez",
+   "connexion",
+   "emportera",
+   "dressera",
+   "donnerai",
+   "plaise"
+  ],
+  "Representative_Docs": [
+   "» « Oui, dis-je en soupirant, je le suis très bien.",
+   "bien, est-ce que vous vous consultez ?",
+   "Servez-vous en tant que vous en aurez besoin, et pourvu que je vous plaise comme je suis, je ne me soucie pas d’en avoir d’autre."
+  ],
+  "Terms_with_Weights": [
+   [
+    "consultez",
+    0.10522868333816947
+   ],
+   [
+    "voyons",
+    0.08908051130855142
+   ],
+   [
+    "soupirant",
+    0.0657723216048362
+   ],
+   [
+    "pouvez",
+    0.06404619926136956
+   ],
+   [
+    "conseillerez",
+    0.05873679673703059
+   ],
+   [
+    "connexion",
+    0.05873679673703059
+   ],
+   [
+    "emportera",
+    0.05873679673703059
+   ],
+   [
+    "dressera",
+    0.05873679673703059
+   ],
+   [
+    "donnerai",
+    0.05873679673703059
+   ],
+   [
+    "plaise",
+    0.05873679673703059
+   ]
+  ],
+  "Label": "Direkte Rede: Ratschläge, Bitten und Zusagen",
+  "Display": "no"
+ },
+ {
+  "Topic": 36,
+  "Count": 37,
+  "Name": "36_catherine_confesseur_situation_marquait",
+  "Representation": [
+   "catherine",
+   "confesseur",
+   "situation",
+   "marquait",
+   "ressentisse",
+   "changeât",
+   "conception",
+   "essuyais",
+   "formalités",
+   "effrayez"
+  ],
+  "Representative_Docs": [
+   "Ma Catherine vint me dire cette nouvelle, cela me frappa extrêmement.",
+   "Elle fit mille accueils à la Catherine.",
+   "C’est votre Catherine."
+  ],
+  "Terms_with_Weights": [
+   [
+    "catherine",
+    0.2664764729056903
+   ],
+   [
+    "confesseur",
+    0.056482270174932285
+   ],
+   [
+    "situation",
+    0.022574710873917644
+   ],
+   [
+    "marquait",
+    0.020185807999031934
+   ],
+   [
+    "ressentisse",
+    0.019636858080723244
+   ],
+   [
+    "changeât",
+    0.019636858080723244
+   ],
+   [
+    "conception",
+    0.019636858080723244
+   ],
+   [
+    "essuyais",
+    0.019636858080723244
+   ],
+   [
+    "formalités",
+    0.019636858080723244
+   ],
+   [
+    "effrayez",
+    0.019636858080723244
+   ]
+  ],
+  "Label": "Catherine (Kammerfrau) und Beichtvater",
+  "Display": "no"
+ },
+ {
+  "Topic": 37,
+  "Count": 36,
+  "Name": "37_discours_entendre_mots_consternée",
+  "Representation": [
+   "discours",
+   "entendre",
+   "mots",
+   "consternée",
+   "parler",
+   "dire",
+   "chaque",
+   "parole",
+   "ridicule",
+   "dictée"
+  ],
+  "Representative_Docs": [
+   "De le dire encore, alors ces discours, je le puis dire avec vérité, ne me faisaient point d’impression, mais je les haïssais, parce qu’ils étaient contraires à mon amitié.",
+   "J’étais si consternée de ce discours que je ne savais que répondre.",
+   "Il me coupait dans chaque point que je disais et reprenait ensuite brusquement le discours, mais avec d’autres paroles pour voir, si je ne me couperais pas en quelque point."
+  ],
+  "Terms_with_Weights": [
+   [
+    "discours",
+    0.07101952289574567
+   ],
+   [
+    "entendre",
+    0.04437470898875147
+   ],
+   [
+    "mots",
+    0.03630897287946529
+   ],
+   [
+    "consternée",
+    0.03204876472398522
+   ],
+   [
+    "parler",
+    0.030483718043185712
+   ],
+   [
+    "dire",
+    0.03019485708180803
+   ],
+   [
+    "chaque",
+    0.027257107382025338
+   ],
+   [
+    "parole",
+    0.027076301683612088
+   ],
+   [
+    "ridicule",
+    0.025393756198367583
+   ],
+   [
+    "dictée",
+    0.023288624671173534
+   ]
+  ],
+  "Label": "Reden, Gespräche und Worte",
+  "Display": "yes"
+ },
+ {
+  "Topic": 38,
+  "Count": 35,
+  "Name": "38_lecture_lu_lettre_livre",
+  "Representation": [
+   "lecture",
+   "lu",
+   "lettre",
+   "livre",
+   "livres",
+   "lire",
+   "lectures",
+   "morale",
+   "lisais",
+   "fatale"
+  ],
+  "Representative_Docs": [
+   "Je fus tout hors de moi-même à la lecture de cette terrible lettre, et j’avoue qu’encore à présent je n’ai pas le courage de la relire.",
+   "J'écoutai tranquillement sa lecture. Et quand il eut fini sa lecture, je lui dis : « C’est bien dommage que vous employiez un si beau style pour me perdre.",
+   "Elle aimait la lecture autant que moi, et on nous avait défendu la lecture, hors celle des livres de dévotion."
+  ],
+  "Terms_with_Weights": [
+   [
+    "lecture",
+    0.1211872077745168
+   ],
+   [
+    "lu",
+    0.06987780477541367
+   ],
+   [
+    "lettre",
+    0.0690091116610837
+   ],
+   [
+    "livre",
+    0.06346286413610028
+   ],
+   [
+    "livres",
+    0.04779596360994528
+   ],
+   [
+    "lire",
+    0.04540436658332165
+   ],
+   [
+    "lectures",
+    0.03563513533863939
+   ],
+   [
+    "morale",
+    0.03563513533863939
+   ],
+   [
+    "lisais",
+    0.0302198123501629
+   ],
+   [
+    "fatale",
+    0.028620345956444436
+   ]
+  ],
+  "Label": "Lesen, Bücher",
+  "Display": "yes"
+ },
+ {
+  "Topic": 39,
+  "Count": 33,
+  "Name": "39_chevaux_partis_carrosse_postes",
+  "Representation": [
+   "chevaux",
+   "partis",
+   "carrosse",
+   "postes",
+   "chariots",
+   "poste",
+   "soldats",
+   "voulurent",
+   "désatteler",
+   "bride"
+  ],
+  "Representative_Docs": [
+   "J’y pris donc des chevaux de postes pour les deux carrosses jusqu’à Dantzick.",
+   "Je partis de Vienne le 4 ou5 d’aoûtde soir à 10 heures, avec des chevaux de poste, ayant donné un attelage de nos chevaux aux enfants , et l’autre allait avec le bagage.",
+   "Je partis le 8 à 10 heures du matin dans un carrosse à quatre personnes, très commode, avec le gouverneur et ma Viennoise et deux laquais, et je partis avec des chevaux de postes."
+  ],
+  "Terms_with_Weights": [
+   [
+    "chevaux",
+    0.17725632883396444
+   ],
+   [
+    "partis",
+    0.05718862278030239
+   ],
+   [
+    "carrosse",
+    0.05063433972205209
+   ],
+   [
+    "postes",
+    0.05018625245239444
+   ],
+   [
+    "chariots",
+    0.04330951490621456
+   ],
+   [
+    "poste",
+    0.04024233738633243
+   ],
+   [
+    "soldats",
+    0.03998926041691992
+   ],
+   [
+    "voulurent",
+    0.03434064744891533
+   ],
+   [
+    "désatteler",
+    0.03266714620113503
+   ],
+   [
+    "bride",
+    0.03044650299537597
+   ]
+  ],
+  "Label": "Reisen und Transportmittel",
+  "Display": "yes",
+  "Similar_topics": [
+   42,
+   113
+  ],
+  "Subjects": [
+   "S2"
+  ]
+ },
+ {
+  "Topic": 40,
+  "Count": 31,
+  "Name": "40_fièvre_médecin_prit_dangereuse",
+  "Representation": [
+   "fièvre",
+   "médecin",
+   "prit",
+   "dangereuse",
+   "malade",
+   "jaunisse",
+   "violence",
+   "accablement",
+   "oppression",
+   "poitrine"
+  ],
+  "Representative_Docs": [
+   "La fièvre me prit le jour qu’il le fit et parut d’abord dangereuse, tellement que le médecin me fit saigner à minuit.",
+   "Le lendemain il me prit une grosse fièvre ainsi qu' il fallut avoir recours au médecin.",
+   "Elle tourna après quinze jours de fièvre en fièvre lente et en jaunisse."
+  ],
+  "Terms_with_Weights": [
+   [
+    "fièvre",
+    0.2577544287080458
+   ],
+   [
+    "médecin",
+    0.057426018606642995
+   ],
+   [
+    "prit",
+    0.05338913822046497
+   ],
+   [
+    "dangereuse",
+    0.04372942910292907
+   ],
+   [
+    "malade",
+    0.037445192253700285
+   ],
+   [
+    "jaunisse",
+    0.03592399159278897
+   ],
+   [
+    "violence",
+    0.034159415363632685
+   ],
+   [
+    "accablement",
+    0.033481954955640034
+   ],
+   [
+    "oppression",
+    0.033481954955640034
+   ],
+   [
+    "poitrine",
+    0.033481954955640034
+   ]
+  ],
+  "Label": "Fieber und Krankheit",
+  "Display": "yes",
+  "Similar_topics": [
+   100
+  ],
+  "Subjects": [
+   "S8"
+  ]
+ },
+ {
+  "Topic": 41,
+  "Count": 29,
+  "Name": "41_jeune_famille_feld_comtes",
+  "Representation": [
+   "jeune",
+   "famille",
+   "feld",
+   "comtes",
+   "maréchal",
+   "compagnon",
+   "ferais",
+   "attendant",
+   "dohnaqui",
+   "dina"
+  ],
+  "Representative_Docs": [
+   "Il est même fort aimé de la famille de Dohna.",
+   "Je lui donnai ma lettre au comte de Dohna.",
+   "Elle me dit que le jeune comte de Dohna avait été charmé de ma vivacité."
+  ],
+  "Terms_with_Weights": [
+   [
+    "jeune",
+    0.12912149147566074
+   ],
+   [
+    "famille",
+    0.05665851319315048
+   ],
+   [
+    "feld",
+    0.05120674893774595
+   ],
+   [
+    "comtes",
+    0.04748159329182222
+   ],
+   [
+    "maréchal",
+    0.04726172314083769
+   ],
+   [
+    "compagnon",
+    0.04308442427516881
+   ],
+   [
+    "ferais",
+    0.037239529710051296
+   ],
+   [
+    "attendant",
+    0.03183895712114665
+   ],
+   [
+    "dohnaqui",
+    0.03130782090228517
+   ],
+   [
+    "dina",
+    0.03130782090228517
+   ]
+  ],
+  "Label": "Familie Dohna",
+  "Display": "no"
+ },
+ {
+  "Topic": 42,
+  "Count": 29,
+  "Name": "42_cabaret_nuit_passâmes_jours",
+  "Representation": [
+   "cabaret",
+   "nuit",
+   "passâmes",
+   "jours",
+   "heures",
+   "quelques",
+   "minuit",
+   "restâmes",
+   "dura",
+   "tranquillement"
+  ],
+  "Representative_Docs": [
+   "On me fit mille accueils là où nous passâmes la nuit.",
+   "Nous passâmes Breslau, où nous ne restâmes que quelques heures.",
+   "Nous passâmes toute la nuit dans des bois et dans des chemins détestables, et quand le jour commença à paraître nous découvrîmes que nous n’avions fait que tourner à une lieue du cabaret sans avancer et que faire le tour de la maison."
+  ],
+  "Terms_with_Weights": [
+   [
+    "cabaret",
+    0.11126159490567776
+   ],
+   [
+    "nuit",
+    0.09898024621487574
+   ],
+   [
+    "passâmes",
+    0.09398361640900663
+   ],
+   [
+    "jours",
+    0.05955794060719896
+   ],
+   [
+    "heures",
+    0.04916088462500111
+   ],
+   [
+    "quelques",
+    0.048988281125181964
+   ],
+   [
+    "minuit",
+    0.04699180820450331
+   ],
+   [
+    "restâmes",
+    0.04699180820450331
+   ],
+   [
+    "dura",
+    0.04394463242587501
+   ],
+   [
+    "tranquillement",
+    0.039473901492654374
+   ]
+  ],
+  "Label": "Reisen und Bleiben",
+  "Display": "yes",
+  "Similar_topics": [
+   34,
+   39,
+   113
+  ],
+  "Subjects": [
+   "S2"
+  ]
+ },
+ {
+  "Topic": 43,
+  "Count": 29,
+  "Name": "43_aucune_connaissais_dure_aversion",
+  "Representation": [
+   "aucune",
+   "connaissais",
+   "dure",
+   "aversion",
+   "dissimulation",
+   "penchant",
+   "pays",
+   "aucun",
+   "goût",
+   "choquaient"
+  ],
+  "Representative_Docs": [
+   "Je ne me trouvais aucune répugnance pour ceux que je ne connaissais pas, au contraire j’y sentais plus de penchant que d’aversion.",
+   "J’étais devenue si insensible à toutes ces chimères que je ne trouvais aucun goût à m’en repaître, et je me tins dans une neutralité entière de tous ces sentiments, n’en rejetant ni acceptant aucun.",
+   "Comme ces personnes n’aimaient ni les saillies, ni les vivacités et que toutes les paroles devaient être prononcées avec art et beaucoup de vivacité bien articulée, les expressions justes et nettes, et les périodes pressées avec soin, tous mes impromptus furent sans valeur et hors de raison."
+  ],
+  "Terms_with_Weights": [
+   [
+    "aucune",
+    0.03953561772348032
+   ],
+   [
+    "connaissais",
+    0.03879329122915669
+   ],
+   [
+    "dure",
+    0.035546009259484375
+   ],
+   [
+    "aversion",
+    0.03345750163492962
+   ],
+   [
+    "dissimulation",
+    0.029414616780717658
+   ],
+   [
+    "penchant",
+    0.029414616780717658
+   ],
+   [
+    "pays",
+    0.027643159733454166
+   ],
+   [
+    "aucun",
+    0.02664355516352233
+   ],
+   [
+    "goût",
+    0.02526998112490258
+   ],
+   [
+    "choquaient",
+    0.024312300480895447
+   ]
+  ],
+  "Label": "Neigung und Abneigung, Unerfahrenheit",
+  "Display": "no"
+ },
+ {
+  "Topic": 44,
+  "Count": 29,
+  "Name": "44_acheté_tournant_prix_marraine",
+  "Representation": [
+   "acheté",
+   "tournant",
+   "prix",
+   "marraine",
+   "lâcha",
+   "délais",
+   "rapaisa",
+   "portés",
+   "presserait",
+   "brûlai"
+  ],
+  "Representative_Docs": [
+   "Il me pria d’accepter du moins une bague de sa part, et je la pris et brûlai tous les papiers qu’il m’avait portés en sa présence.",
+   "Il vint me trouver un jour, et me dit le même embarras où il était justement dans le temps que je calculais comment je pourrais l’en tirer.",
+   "» Enfin il lâcha le mot après encore quelques délais et me dit : « J’ai promis votre dot, et j’ai acheté tout à ce prix."
+  ],
+  "Terms_with_Weights": [
+   [
+    "acheté",
+    0.07750018944277519
+   ],
+   [
+    "tournant",
+    0.0678605631317429
+   ],
+   [
+    "prix",
+    0.04937327974619942
+   ],
+   [
+    "marraine",
+    0.04641439182716403
+   ],
+   [
+    "lâcha",
+    0.04641439182716403
+   ],
+   [
+    "délais",
+    0.04641439182716403
+   ],
+   [
+    "rapaisa",
+    0.04641439182716403
+   ],
+   [
+    "portés",
+    0.04641439182716403
+   ],
+   [
+    "presserait",
+    0.04641439182716403
+   ],
+   [
+    "brûlai",
+    0.04641439182716403
+   ]
+  ],
+  "Label": "Unklar",
+  "Display": "no"
+ },
+ {
+  "Topic": 45,
+  "Count": 28,
+  "Name": "45_janvier_février_1720_1718",
+  "Representation": [
+   "janvier",
+   "février",
+   "1720",
+   "1718",
+   "1710",
+   "1712",
+   "commencement",
+   "fin",
+   "mois",
+   "1705"
+  ],
+  "Representative_Docs": [
+   "Enfin le comte de Schwerin demanda son rappel à la fin de février 1718.",
+   "Vers le mois de janvier 1710, le comte de D. revint à Berlin.",
+   "On sait que sa maladie dura jusqu’au 19 de janvier 1720."
+  ],
+  "Terms_with_Weights": [
+   [
+    "janvier",
+    0.10349148536434963
+   ],
+   [
+    "février",
+    0.08971273788584497
+   ],
+   [
+    "1720",
+    0.08869008959697383
+   ],
+   [
+    "1718",
+    0.0849459728089984
+   ],
+   [
+    "1710",
+    0.07014257652099273
+   ],
+   [
+    "1712",
+    0.06651756719773039
+   ],
+   [
+    "commencement",
+    0.05524664996037587
+   ],
+   [
+    "fin",
+    0.05275116653672238
+   ],
+   [
+    "mois",
+    0.05089316364880094
+   ],
+   [
+    "1705",
+    0.050172325811025945
+   ]
+  ],
+  "Label": "Datumsangaben",
+  "Display": "no"
+ },
+ {
+  "Topic": 46,
+  "Count": 28,
+  "Name": "46_continuai_fis_réussit_cochais",
+  "Representation": [
+   "continuai",
+   "fis",
+   "réussit",
+   "cochais",
+   "faisons",
+   "badinerie",
+   "voyages",
+   "méthode",
+   "attirai",
+   "constante"
+  ],
+  "Representative_Docs": [
+   "Nonobstant cela, je continuai ma route.",
+   "» Je continuai sur le même ton que les voyages donnaient de la science.",
+   "Cela fit que je le continuai aussi longtemps qu’il me fut possible."
+  ],
+  "Terms_with_Weights": [
+   [
+    "continuai",
+    0.1957263845643383
+   ],
+   [
+    "fis",
+    0.1468359314174195
+   ],
+   [
+    "réussit",
+    0.11679753348262314
+   ],
+   [
+    "cochais",
+    0.09481797187549224
+   ],
+   [
+    "faisons",
+    0.09481797187549224
+   ],
+   [
+    "badinerie",
+    0.08493458012295108
+   ],
+   [
+    "voyages",
+    0.0791609077879775
+   ],
+   [
+    "méthode",
+    0.0791609077879775
+   ],
+   [
+    "attirai",
+    0.0791609077879775
+   ],
+   [
+    "constante",
+    0.07506982583743857
+   ]
+  ],
+  "Label": "Handlung",
+  "Display": "no"
+ },
+ {
+  "Topic": 47,
+  "Count": 28,
+  "Name": "47_alarma_choc_surprend_frappa",
+  "Representation": [
+   "alarma",
+   "choc",
+   "surprend",
+   "frappa",
+   "toucha",
+   "dépita",
+   "enfantin",
+   "embarrassait",
+   "commencements",
+   "surprise"
+  ],
+  "Representative_Docs": [
+   "Cela me frappa extrêmement.",
+   "Tous ces beaux commencements durèrent jusqu’au 19 ou 20 du mois, où mon premier choc fut causé par monsieur de Danckelmann, autrefois mon grand ami.",
+   "Cela m’alarma extrêmement."
+  ],
+  "Terms_with_Weights": [
+   [
+    "alarma",
+    0.19349842592291783
+   ],
+   [
+    "choc",
+    0.17233103213352394
+   ],
+   [
+    "surprend",
+    0.17233103213352394
+   ],
+   [
+    "frappa",
+    0.16887555660602654
+   ],
+   [
+    "toucha",
+    0.12899895061527855
+   ],
+   [
+    "dépita",
+    0.09619214538093417
+   ],
+   [
+    "enfantin",
+    0.09619214538093417
+   ],
+   [
+    "embarrassait",
+    0.08616551606676197
+   ],
+   [
+    "commencements",
+    0.08616551606676197
+   ],
+   [
+    "surprise",
+    0.08307016411686957
+   ]
+  ],
+  "Label": "Schock und Überraschung",
+  "Display": "no"
+ },
+ {
+  "Topic": 48,
+  "Count": 26,
+  "Name": "48_grand_chapeau_arriva_joignit",
+  "Representation": [
+   "grand",
+   "chapeau",
+   "arriva",
+   "joignit",
+   "promener",
+   "suivit",
+   "conseiller",
+   "consulterais",
+   "arrêterai",
+   "régulières"
+  ],
+  "Representative_Docs": [
+   "Le comte de Virmond fut du nombre.",
+   "Dès que le comte de Virmond arriva, je me mis à me promener avec lui.",
+   "Le comte de Virmond se retira d’abord, et le comte de Schwerin me questionna extrêmement sur le sérieux du comte de Virmond."
+  ],
+  "Terms_with_Weights": [
+   [
+    "grand",
+    0.08896776651147706
+   ],
+   [
+    "chapeau",
+    0.08341091759715397
+   ],
+   [
+    "arriva",
+    0.07104444574523266
+   ],
+   [
+    "joignit",
+    0.0706422824797954
+   ],
+   [
+    "promener",
+    0.06899046757191635
+   ],
+   [
+    "suivit",
+    0.058986288423384846
+   ],
+   [
+    "conseiller",
+    0.05357030880700865
+   ],
+   [
+    "consulterais",
+    0.05267665104194013
+   ],
+   [
+    "arrêterai",
+    0.05267665104194013
+   ],
+   [
+    "régulières",
+    0.05267665104194013
+   ]
+  ],
+  "Label": "Soziale Interaktion und Autorität",
+  "Display": "no"
+ },
+ {
+  "Topic": 49,
+  "Count": 26,
+  "Name": "49_deviendrai_voulez_comment_donc",
+  "Representation": [
+   "deviendrai",
+   "voulez",
+   "comment",
+   "donc",
+   "devenir",
+   "quoi",
+   "tétera",
+   "stable",
+   "questionne",
+   "demeurerai"
+  ],
+  "Representative_Docs": [
+   "« Mon Dieu, dis-je, que deviendrai-je ?",
+   "« Mais que deviendrai-je donc ?",
+   "» « Mais, dis-je, que deviendrai-je donc ?"
+  ],
+  "Terms_with_Weights": [
+   [
+    "deviendrai",
+    0.348087468181506
+   ],
+   [
+    "voulez",
+    0.22758837282385555
+   ],
+   [
+    "comment",
+    0.15699955625341203
+   ],
+   [
+    "donc",
+    0.1520091458011409
+   ],
+   [
+    "devenir",
+    0.132346909888596
+   ],
+   [
+    "quoi",
+    0.12831680893127276
+   ],
+   [
+    "tétera",
+    0.12291218576452698
+   ],
+   [
+    "stable",
+    0.12291218576452698
+   ],
+   [
+    "questionne",
+    0.12291218576452698
+   ],
+   [
+    "demeurerai",
+    0.12291218576452698
+   ]
+  ],
+  "Label": "Gesprächssprache, Fragen und Modalverben",
+  "Display": "no"
+ },
+ {
+  "Topic": 50,
+  "Count": 25,
+  "Name": "50_ennemis_combattre_ennemi_armes",
+  "Representation": [
+   "ennemis",
+   "combattre",
+   "ennemi",
+   "armes",
+   "héros",
+   "céder",
+   "innocente",
+   "malice",
+   "citais",
+   "choisisse"
+  ],
+  "Representative_Docs": [
+   "Hélas, il n’en fallait pas tant pour me faire mille envieux, mais toujours des ennemis cachés qui avaient le plus bel extérieur du monde et qui à l’envi me faisaient des compliments et s’empressèrent à me conduire dans mon carrosse.",
+   "J’étais si avide de triompher de tous ces ennemis à la fois qu’à force d’y songer je me serais rendue malade, si on ne m’eût appris qu’il fallait n’en combattre qu’un à la fois.",
+   "Hélas, mon Dieu, que j’étais innocente, je donnais les armes à un de mes ennemis pour me combattre."
+  ],
+  "Terms_with_Weights": [
+   [
+    "ennemis",
+    0.12956274063940024
+   ],
+   [
+    "combattre",
+    0.06618766627779557
+   ],
+   [
+    "ennemi",
+    0.044433844259693586
+   ],
+   [
+    "armes",
+    0.041573888063201433
+   ],
+   [
+    "héros",
+    0.038078897163918116
+   ],
+   [
+    "céder",
+    0.029622562839795724
+   ],
+   [
+    "innocente",
+    0.027311030157880237
+   ],
+   [
+    "malice",
+    0.02692852297589308
+   ],
+   [
+    "citais",
+    0.02404803634523354
+   ],
+   [
+    "choisisse",
+    0.02404803634523354
+   ]
+  ],
+  "Label": "Feindschaft und Kampf",
+  "Display": "yes"
+ },
+ {
+  "Topic": 51,
+  "Count": 25,
+  "Name": "51_frère_beau_pénétration_aîné",
+  "Representation": [
+   "frère",
+   "beau",
+   "pénétration",
+   "aîné",
+   "efforçait",
+   "futur",
+   "embarqué",
+   "satisfactions",
+   "bonnes",
+   "engagerais"
+  ],
+  "Representative_Docs": [
+   "Mon beau-frère y était toujours, et cela me mettait l’esprit en repos.",
+   "Jamais je ne fus plus surprise, et pour ne pas perdre la confiance d’un futur beau-frère, je lui dis où j’en étais avec son frère.",
+   "« Même, dis-je, à vous, mon cher frère."
+  ],
+  "Terms_with_Weights": [
+   [
+    "frère",
+    0.23293558952370721
+   ],
+   [
+    "beau",
+    0.04345436972766658
+   ],
+   [
+    "pénétration",
+    0.04045306042525948
+   ],
+   [
+    "aîné",
+    0.03427368448401222
+   ],
+   [
+    "efforçait",
+    0.0322196991809925
+   ],
+   [
+    "futur",
+    0.0322196991809925
+   ],
+   [
+    "embarqué",
+    0.0322196991809925
+   ],
+   [
+    "satisfactions",
+    0.0322196991809925
+   ],
+   [
+    "bonnes",
+    0.030891597603765548
+   ],
+   [
+    "engagerais",
+    0.02886126509032318
+   ]
+  ],
+  "Label": "Schwager, Bruder",
+  "Display": "no"
+ },
+ {
+  "Topic": 52,
+  "Count": 25,
+  "Name": "52_cour_bonheur_dames_defilles",
+  "Representation": [
+   "cour",
+   "bonheur",
+   "dames",
+   "defilles",
+   "décriée",
+   "pointillait",
+   "recourait",
+   "jouerait",
+   "inviterais",
+   "errante"
+  ],
+  "Representative_Docs": [
+   "Je n’avais d’autre plaisir alors que la promenade, et j’y allais souvent avec des dames de la Cour.",
+   "Je lui dis jusqu’à ce que j’aurais été à la cour.",
+   "Toute la Cour avait les yeux sur moi."
+  ],
+  "Terms_with_Weights": [
+   [
+    "cour",
+    0.16100364300216335
+   ],
+   [
+    "bonheur",
+    0.03464874537477854
+   ],
+   [
+    "dames",
+    0.03239923023980721
+   ],
+   [
+    "defilles",
+    0.030307114298102542
+   ],
+   [
+    "décriée",
+    0.030307114298102542
+   ],
+   [
+    "pointillait",
+    0.030307114298102542
+   ],
+   [
+    "recourait",
+    0.030307114298102542
+   ],
+   [
+    "jouerait",
+    0.030307114298102542
+   ],
+   [
+    "inviterais",
+    0.030307114298102542
+   ],
+   [
+    "errante",
+    0.030307114298102542
+   ]
+  ],
+  "Label": "Hof",
+  "Display": "yes"
+ },
+ {
+  "Topic": 53,
+  "Count": 25,
+  "Name": "53_première_début_premier_abord",
+  "Representation": [
+   "première",
+   "début",
+   "premier",
+   "abord",
+   "fois",
+   "levai",
+   "logerais",
+   "repartirent",
+   "éprouverait",
+   "intéressées"
+  ],
+  "Representative_Docs": [
+   "Tout le monde se moqua de moi. Ce fut le premier début.",
+   "J’ai même laissé le plaisir aux personnes qui y étaient intéressées de me croire leur dupe, et voici la première fois de ma vie que je parle de cette aventure.",
+   "La première qu’il y avait plus d’un an et demi que je n’avais été à la cène réformée, et que je croyais bien que ce serait la première pierre de touche où on m’éprouverait."
+  ],
+  "Terms_with_Weights": [
+   [
+    "première",
+    0.13606977812149798
+   ],
+   [
+    "début",
+    0.12034094218215344
+   ],
+   [
+    "premier",
+    0.11803686379467303
+   ],
+   [
+    "abord",
+    0.06531086356357009
+   ],
+   [
+    "fois",
+    0.0624926263909501
+   ],
+   [
+    "levai",
+    0.06241089575407344
+   ],
+   [
+    "logerais",
+    0.05066609184186608
+   ],
+   [
+    "repartirent",
+    0.05066609184186608
+   ],
+   [
+    "éprouverait",
+    0.05066609184186608
+   ],
+   [
+    "intéressées",
+    0.05066609184186608
+   ]
+  ],
+  "Label": "Anfang und erste Erfahrungen",
+  "Display": "no"
+ },
+ {
+  "Topic": 54,
+  "Count": 25,
+  "Name": "54_famille_sœurs_toute_père",
+  "Representation": [
+   "famille",
+   "sœurs",
+   "toute",
+   "père",
+   "parentes",
+   "chacun",
+   "alarmée",
+   "honneurs",
+   "charmée",
+   "marques"
+  ],
+  "Representative_Docs": [
+   "Toute la famille fut d’abord alarmée.",
+   "Cette famille n’avait point d’enfants, ils devinrent tous trois idolâtres de moi, et ces trois personnes si qualifiées par leur mérite et si distinguées par les vertus les plus éminentes se mirent (si j’ose me servir de cette expression) sous la tutelle d’un enfant fort gâté.",
+   "Il l’était de même, et toute la famille en fut fort alarmée."
+  ],
+  "Terms_with_Weights": [
+   [
+    "famille",
+    0.11629492887778052
+   ],
+   [
+    "sœurs",
+    0.0483502630946715
+   ],
+   [
+    "toute",
+    0.04164783081558733
+   ],
+   [
+    "père",
+    0.04126163630041505
+   ],
+   [
+    "parentes",
+    0.03899735120705669
+   ],
+   [
+    "chacun",
+    0.03732235461102794
+   ],
+   [
+    "alarmée",
+    0.03528949191526184
+   ],
+   [
+    "honneurs",
+    0.0317410597660957
+   ],
+   [
+    "charmée",
+    0.029441624159824806
+   ],
+   [
+    "marques",
+    0.028953551552541583
+   ]
+  ],
+  "Label": "Familie",
+  "Display": "no"
+ },
+ {
+  "Topic": 55,
+  "Count": 24,
+  "Name": "55_breslau_vaisseau_carrosse_partis",
+  "Representation": [
+   "breslau",
+   "vaisseau",
+   "carrosse",
+   "partis",
+   "bord",
+   "congé",
+   "juin",
+   "electeur",
+   "pris",
+   "concerterait"
+  ],
+  "Representative_Docs": [
+   "Les Clarisses, qui sont extrêmement accréditées, déclarèrent jusque là que quand j’aurais passé quelque temps à Breslau et qu’on aurait reconnu ma conduite et ma fermeté, qu’alors elles se résoudraient à me prendre en pension.",
+   "Je pris congé d’elles vers le soir pour ne nous revoir que dans l’éternité bienheureuse, et leur promis que dès que je serais à Breslau je leur enverrais l’ornement que j’avais voué dans mon premier voyage à la chapelle de N.D. Et sur cela, je retournai chez moi, où je trouvai toute la maison en alarme.",
+   "Je partis le lendemain en poste pour Breslau."
+  ],
+  "Terms_with_Weights": [
+   [
+    "breslau",
+    0.1580093938323961
+   ],
+   [
+    "vaisseau",
+    0.05615101196517902
+   ],
+   [
+    "carrosse",
+    0.043163699435191945
+   ],
+   [
+    "partis",
+    0.04265708748366817
+   ],
+   [
+    "bord",
+    0.03647921144448451
+   ],
+   [
+    "congé",
+    0.03404391979701006
+   ],
+   [
+    "juin",
+    0.0335074891138673
+   ],
+   [
+    "electeur",
+    0.03291061631613082
+   ],
+   [
+    "pris",
+    0.02821383515458455
+   ],
+   [
+    "concerterait",
+    0.027201877177395316
+   ]
+  ],
+  "Label": "Breslau",
+  "Display": "no"
+ },
+ {
+  "Topic": 56,
+  "Count": 24,
+  "Name": "56_matin_heures_midi_partîmes",
+  "Representation": [
+   "matin",
+   "heures",
+   "midi",
+   "partîmes",
+   "sonna",
+   "lendemain",
+   "prise",
+   "naissance",
+   "vers",
+   "heure"
+  ],
+  "Representative_Docs": [
+   "Dès 5 ou 6 heures du matin, je me levais pour que le bouillon afin qu’il fut prêt aux heures précises, que mon mari le souhaiterait.",
+   "Nous partîmes le 11 à 9 heures du matin, sous prétexte de nous aller promener.",
+   "Enfin, l’heure fut prise pour le lendemain au matin à 9 heures."
+  ],
+  "Terms_with_Weights": [
+   [
+    "matin",
+    0.15950960168776965
+   ],
+   [
+    "heures",
+    0.1583706350335606
+   ],
+   [
+    "midi",
+    0.0998249210484045
+   ],
+   [
+    "partîmes",
+    0.09714389955080215
+   ],
+   [
+    "sonna",
+    0.07437937644507954
+   ],
+   [
+    "lendemain",
+    0.07031777998060626
+   ],
+   [
+    "prise",
+    0.055928392265794984
+   ],
+   [
+    "naissance",
+    0.05058955921862379
+   ],
+   [
+    "vers",
+    0.04932014664448372
+   ],
+   [
+    "heure",
+    0.048307544799464266
+   ]
+  ],
+  "Label": "Zeitangaben",
+  "Display": "yes"
+ },
+ {
+  "Topic": 57,
+  "Count": 24,
+  "Name": "57_reviens_sujet_reprends_raisonnais",
+  "Representation": [
+   "reviens",
+   "sujet",
+   "reprends",
+   "raisonnais",
+   "recommence",
+   "nouveau",
+   "accabla",
+   "retourne",
+   "fil",
+   "avenir"
+  ],
+  "Representative_Docs": [
+   "J’en reviens à mon sujet.",
+   "J'en reviens à mon sujet.",
+   "J’en reviens à mon sujet."
+  ],
+  "Terms_with_Weights": [
+   [
+    "reviens",
+    1.0276312187031709
+   ],
+   [
+    "sujet",
+    0.6994299741995113
+   ],
+   [
+    "reprends",
+    0.21019551234482803
+   ],
+   [
+    "raisonnais",
+    0.13274516062568914
+   ],
+   [
+    "recommence",
+    0.13274516062568914
+   ],
+   [
+    "nouveau",
+    0.12727338212751407
+   ],
+   [
+    "accabla",
+    0.11890841217213151
+   ],
+   [
+    "retourne",
+    0.11890841217213151
+   ],
+   [
+    "fil",
+    0.10509775617241401
+   ],
+   [
+    "avenir",
+    0.09704060527839234
+   ]
+  ],
+  "Label": "Zum Thema zurückkehren",
+  "Display": "yes",
+  "Similar_topics": [
+   96
+  ]
+ },
+ {
+  "Topic": 58,
+  "Count": 24,
+  "Name": "58_larmes_yeux_pleura_pleurait",
+  "Representation": [
+   "larmes",
+   "yeux",
+   "pleura",
+   "pleurait",
+   "pleurer",
+   "laisser",
+   "mise",
+   "morte",
+   "trouvai",
+   "voyant"
+  ],
+  "Representative_Docs": [
+   "» Cette fille me vit si émue, les larmes aux yeux et toute transportée, qu’elle ne savait ce qui m’était arrivé si matin.",
+   "Cette très vertueuse dame prévoyait le danger où je courais, elle versa des torrents de larmes, elle me conjurait de ne me point laisser aveugler et fasciner les yeux.",
+   "Elle avait pris de l’amitié pour moi, parce que sa fille unique étant morte pendant que j’étais dans la maison et que j’avais donné quelque soin à ce cher, cher enfant, surtout parce que je m’étais mise à genoux à son agonie et avoir tenu le cierge béni dans sa petite main, jusqu’à ce que je lui eus fermé les yeux."
+  ],
+  "Terms_with_Weights": [
+   [
+    "larmes",
+    0.10722682091772043
+   ],
+   [
+    "yeux",
+    0.07451292801872891
+   ],
+   [
+    "pleura",
+    0.051357641723807704
+   ],
+   [
+    "pleurait",
+    0.049510512897138946
+   ],
+   [
+    "pleurer",
+    0.04171340481522255
+   ],
+   [
+    "laisser",
+    0.04130060065756426
+   ],
+   [
+    "mise",
+    0.04027949131903507
+   ],
+   [
+    "morte",
+    0.037409412928482856
+   ],
+   [
+    "trouvai",
+    0.035685202765281185
+   ],
+   [
+    "voyant",
+    0.034079881992712883
+   ]
+  ],
+  "Label": "Tränen",
+  "Display": "yes",
+  "Similar_topics": [
+   11
+  ]
+ },
+ {
+  "Topic": 59,
+  "Count": 24,
+  "Name": "59_détours_patience_fallut_conspirait",
+  "Representation": [
+   "détours",
+   "patience",
+   "fallut",
+   "conspirait",
+   "découvertes",
+   "cachées",
+   "disputât",
+   "gîtes",
+   "essuyèrent",
+   "raillât"
+  ],
+  "Representative_Docs": [
+   "Il me fallut bien des tours et des détours pour le pénétrer.",
+   "Les premières visites me furent cachées, mais après quelques semaines, je saurais dans des grandes confidences que cet étranger venait faire des découvertes importantes.",
+   "On leur fit servir ce qu’on put préparer assez tôt, mais ils essuyèrent des railleries très piquantes que je tâchai de détourner, n’ayant jamais aimé qu’on raillât sur des points si sérieux."
+  ],
+  "Terms_with_Weights": [
+   [
+    "détours",
+    0.07488193979943819
+   ],
+   [
+    "patience",
+    0.07335020793785231
+   ],
+   [
+    "fallut",
+    0.0543549455243432
+   ],
+   [
+    "conspirait",
+    0.04484633804921931
+   ],
+   [
+    "découvertes",
+    0.04484633804921931
+   ],
+   [
+    "cachées",
+    0.04484633804921931
+   ],
+   [
+    "disputât",
+    0.04484633804921931
+   ],
+   [
+    "gîtes",
+    0.04484633804921931
+   ],
+   [
+    "essuyèrent",
+    0.04484633804921931
+   ],
+   [
+    "raillât",
+    0.04484633804921931
+   ]
+  ],
+  "Label": "Unklar",
+  "Display": "no"
+ },
+ {
+  "Topic": 60,
+  "Count": 23,
+  "Name": "60_grossesse_enceinte_avancée_bonhomme",
+  "Representation": [
+   "grossesse",
+   "enceinte",
+   "avancée",
+   "bonhomme",
+   "cessé",
+   "martyrisée",
+   "incommodaient",
+   "cuisinière",
+   "exemptait",
+   "affligé"
+  ],
+  "Representative_Docs": [
+   "Ma belle-sœur était enceinte un peu plus avancée que moi.",
+   "Ce fut une nouvelle matière à donner des fêtes et des festins, mais ma grossesse qui était déjà fort avancée me procura le plaisir de m’en excuser.",
+   "Cela m’exposait à de grands embarras, qui m’incommodaient beaucoup à cause que ma grossesse était fort avancée et que je n’étais pas en état d’aller à la Cour."
+  ],
+  "Terms_with_Weights": [
+   [
+    "grossesse",
+    0.26056628936535486
+   ],
+   [
+    "enceinte",
+    0.13526848066452873
+   ],
+   [
+    "avancée",
+    0.12974326737405165
+   ],
+   [
+    "bonhomme",
+    0.033021184235246054
+   ],
+   [
+    "cessé",
+    0.033021184235246054
+   ],
+   [
+    "martyrisée",
+    0.033021184235246054
+   ],
+   [
+    "incommodaient",
+    0.033021184235246054
+   ],
+   [
+    "cuisinière",
+    0.033021184235246054
+   ],
+   [
+    "exemptait",
+    0.033021184235246054
+   ],
+   [
+    "affligé",
+    0.033021184235246054
+   ]
+  ],
+  "Label": "Schwangerschaft",
+  "Display": "yes",
+  "Subjects": [
+   "S9"
+  ]
+ },
+ {
+  "Topic": 61,
+  "Count": 23,
+  "Name": "61_idées_passion_esprit_dominante",
+  "Representation": [
+   "idées",
+   "passion",
+   "esprit",
+   "dominante",
+   "imaginations",
+   "douces",
+   "prenais",
+   "acquérir",
+   "vouliez",
+   "imagination"
+  ],
+  "Representative_Docs": [
+   "C’était encore contradiction en moi puisque les uns me jugeaientde l’esprit, les autres me traitaient de sotte , ce qui me faisait une peine infinie puisque alors ma passion était d’avoir de l’esprit.",
+   "Jusque là, j’avais eu la passion dominante de m’en acquérir ; mais depuis que je hantais des personnes qui parlaient avec une éloquence si sublime que je n’avais jamais rien lu de pareil, je commençais à me trouver si sotte que je perdis tout d’un coup l’envie d’avoir de l’esprit.",
+   "J’y trouvais plusieurs explications : soit par l’imagination ou par la passion, comme aussi par des raisons extérieures : soit du brouillard ou des arbres, châteaux, montagnes qui bornent ou offusquent la vue, mais surtout j’attaquais mon antagoniste sur la passion.Mon père paraissait très content de notre dispute, et il dit même le lendemain qu’ayant cherché dans tous ses dictionnaires, mon explication avait été la plus précise."
+  ],
+  "Terms_with_Weights": [
+   [
+    "idées",
+    0.08753519976547966
+   ],
+   [
+    "passion",
+    0.05809741966218104
+   ],
+   [
+    "esprit",
+    0.054001228996059164
+   ],
+   [
+    "dominante",
+    0.039722319320132086
+   ],
+   [
+    "imaginations",
+    0.03766944665677922
+   ],
+   [
+    "douces",
+    0.03607920350489717
+   ],
+   [
+    "prenais",
+    0.03273798547073759
+   ],
+   [
+    "acquérir",
+    0.031902966281197924
+   ],
+   [
+    "vouliez",
+    0.031902966281197924
+   ],
+   [
+    "imagination",
+    0.029304040658722653
+   ]
+  ],
+  "Label": "Geist, Vorstellung und Bewertung von Ideen",
+  "Display": "yes"
+ },
+ {
+  "Topic": 62,
+  "Count": 23,
+  "Name": "62_médecin_maladie_spirituel_opposa",
+  "Representation": [
+   "médecin",
+   "maladie",
+   "spirituel",
+   "opposa",
+   "remèdes",
+   "remède",
+   "suttner",
+   "remmener",
+   "expédierait",
+   "durée"
+  ],
+  "Representative_Docs": [
+   "Elle me dit que le médecin lui avait dit que j’étais incommodée.",
+   "Ce qui me faisait croire que le médecin voulait se faire honneur de ma maladie.",
+   "Un jour, je trouvai le médecin chez elle."
+  ],
+  "Terms_with_Weights": [
+   [
+    "médecin",
+    0.27336546728857375
+   ],
+   [
+    "maladie",
+    0.07336634093124136
+   ],
+   [
+    "spirituel",
+    0.07053540682712349
+   ],
+   [
+    "opposa",
+    0.054871324454923626
+   ],
+   [
+    "remèdes",
+    0.052985102674703854
+   ],
+   [
+    "remède",
+    0.04988102242514423
+   ],
+   [
+    "suttner",
+    0.044545355914660786
+   ],
+   [
+    "remmener",
+    0.044545355914660786
+   ],
+   [
+    "expédierait",
+    0.044545355914660786
+   ],
+   [
+    "durée",
+    0.044545355914660786
+   ]
+  ],
+  "Label": "Arzt und Heilmittel",
+  "Display": "yes",
+  "Subjects": [
+   "S8"
+  ]
+ },
+ {
+  "Topic": 63,
+  "Count": 23,
+  "Name": "63_lit_porte_chambre_couchait",
+  "Representation": [
+   "lit",
+   "porte",
+   "chambre",
+   "couchait",
+   "devant",
+   "filles",
+   "barricader",
+   "draps",
+   "emportèrent",
+   "entrerait"
+  ],
+  "Representative_Docs": [
+   "Après le compliment ordinaire, on m’instruisit des conditions, qui était qu’une seule de mes filles entrerait avec moi, que ni elle ni moi nous ne passerions le seuil de la porte de la petite chambre qu’on me montra sans une permission expresse de l’abbesse, qui s’obtiendrait par le moyen d’une petite sonnette, dont le fil était attaché à la porte.",
+   "Elle me trouva encore au lit.",
+   "Il me trouva au lit."
+  ],
+  "Terms_with_Weights": [
+   [
+    "lit",
+    0.21657097170724152
+   ],
+   [
+    "porte",
+    0.08704212611701716
+   ],
+   [
+    "chambre",
+    0.08565457206423868
+   ],
+   [
+    "couchait",
+    0.07150017477623775
+   ],
+   [
+    "devant",
+    0.057500454625536254
+   ],
+   [
+    "filles",
+    0.05274727318570078
+   ],
+   [
+    "barricader",
+    0.04282101955667392
+   ],
+   [
+    "draps",
+    0.04282101955667392
+   ],
+   [
+    "emportèrent",
+    0.04282101955667392
+   ],
+   [
+    "entrerait",
+    0.04282101955667392
+   ]
+  ],
+  "Label": "Bett",
+  "Display": "yes",
+  "Similar_topics": [
+   98,
+   102
+  ]
+ },
+ {
+  "Topic": 64,
+  "Count": 22,
+  "Name": "64_neige_hiver_froid_froidement",
+  "Representation": [
+   "neige",
+   "hiver",
+   "froid",
+   "froidement",
+   "campagne",
+   "effectivement",
+   "brahem",
+   "douteépris",
+   "heiducs",
+   "fourmillais"
+  ],
+  "Representative_Docs": [
+   "Ainsi je n’avais avec moi que mes heiducs, qui cherchaient le chemin de leur mieux, mais le vent jetait si fort la neige qu’il était impossible de trouver le véritable.",
+   "Il y avait assez loin, et la pluie mêlée de neige rendait le pavé fort glissant, joint à la nouveauté de me voir en rue, puisque c’est la première fois de ma vie que je me voyais à pied.",
+   "Mais un événement extraordinaire que je n’ai pas mis dans l’arrangement requis, c’est qu’étant partie de Brünn et ayant fait quasi deux lieues dans une neige épouvantable, la nuit nous surprit, et les postillons ne savaient plus trouver aucune route, ce qui nous inquiétait beaucoup, surtout ma fille qui n’ayant jamais sorti de Vienne était dans des frayeurs mortelles."
+  ],
+  "Terms_with_Weights": [
+   [
+    "neige",
+    0.1223745005325607
+   ],
+   [
+    "hiver",
+    0.11456632709347875
+   ],
+   [
+    "froid",
+    0.07354561462194288
+   ],
+   [
+    "froidement",
+    0.041118647388181634
+   ],
+   [
+    "campagne",
+    0.03634273918834646
+   ],
+   [
+    "effectivement",
+    0.03553543283162913
+   ],
+   [
+    "brahem",
+    0.03456905224627321
+   ],
+   [
+    "douteépris",
+    0.03456905224627321
+   ],
+   [
+    "heiducs",
+    0.03456905224627321
+   ],
+   [
+    "fourmillais",
+    0.03456905224627321
+   ]
+  ],
+  "Label": "Winter, Kälte",
+  "Display": "yes",
+  "Subjects": [
+   "S3"
+  ]
+ },
+ {
+  "Topic": 65,
+  "Count": 21,
+  "Name": "65_fille_tendresse_dent_désespérait",
+  "Representation": [
+   "fille",
+   "tendresse",
+   "dent",
+   "désespérait",
+   "scandalisât",
+   "sonnai",
+   "soupçonna",
+   "souffrit",
+   "enracinerait",
+   "impatientaient"
+  ],
+  "Representative_Docs": [
+   "Mais ce n’était point là ma pensée : la tendresse invincible que j’ai eue pour elle, dès qu'elle est née,me rendait le cœur plus tendre pour elle que pour aucun autre de mes enfants.",
+   "J’étais seule alors chez moi avec mes deux chers enfants dont j’ose dire que la fille était comme un petit ange, mais elle commençait à languir.",
+   "J’étais charmée que ma fille eût cette marque de ma tendresse pour elle, et je comptais même que mon souvenir s’enracinerait plus profondément dans son esprit."
+  ],
+  "Terms_with_Weights": [
+   [
+    "fille",
+    0.14025339974955622
+   ],
+   [
+    "tendresse",
+    0.06063920502361965
+   ],
+   [
+    "dent",
+    0.04254652584156703
+   ],
+   [
+    "désespérait",
+    0.04254652584156703
+   ],
+   [
+    "scandalisât",
+    0.04254652584156703
+   ],
+   [
+    "sonnai",
+    0.04254652584156703
+   ],
+   [
+    "soupçonna",
+    0.04254652584156703
+   ],
+   [
+    "souffrit",
+    0.04254652584156703
+   ],
+   [
+    "enracinerait",
+    0.04254652584156703
+   ],
+   [
+    "impatientaient",
+    0.04254652584156703
+   ]
+  ],
+  "Label": "Mädchen, Tochter",
+  "Display": "no"
+ },
+ {
+  "Topic": 66,
+  "Count": 21,
+  "Name": "66_non_déconcerter_déclamons_déclarerez",
+  "Representation": [
+   "non",
+   "déconcerter",
+   "déclamons",
+   "déclarerez",
+   "disputons",
+   "osons",
+   "prédestination",
+   "juste",
+   "veux",
+   "oh"
+  ],
+  "Representative_Docs": [
+   "» « Je, dis-je, n’en veux point faire ; ainsi votre conséquence n’est pas juste, et c’est ma maxime.",
+   "Car, c'est sûr, me dit-il avec chaleur, il faut que je vous l’avoue à regret, dès que vous vous déclarerez personne ne voudra plus vous voir.",
+   "« Comment, me dit-il, vous obtenez la permission de la cour de ne pas faire ma charge, et vous faites écrire à tout le monde que vous êtes malade, et vous vous portez bien, peu s’en faut, ajouta-t-il, que je ne retourne de ce pas. » J’eus cette fois assez de présence d’esprit pour ne pas me déconcerter."
+  ],
+  "Terms_with_Weights": [
+   [
+    "non",
+    0.05350780007236765
+   ],
+   [
+    "déconcerter",
+    0.04641439182716403
+   ],
+   [
+    "déclamons",
+    0.04641439182716403
+   ],
+   [
+    "déclarerez",
+    0.04641439182716403
+   ],
+   [
+    "disputons",
+    0.04641439182716403
+   ],
+   [
+    "osons",
+    0.04641439182716403
+   ],
+   [
+    "prédestination",
+    0.04641439182716403
+   ],
+   [
+    "juste",
+    0.045340363876219605
+   ],
+   [
+    "veux",
+    0.04450118256206786
+   ],
+   [
+    "oh",
+    0.044101240017177926
+   ]
+  ],
+  "Label": "Unklar",
+  "Display": "no"
+ },
+ {
+  "Topic": 67,
+  "Count": 20,
+  "Name": "67_promis_promit_promettre_tiendrai",
+  "Representation": [
+   "promis",
+   "promit",
+   "promettre",
+   "tiendrai",
+   "détailler",
+   "merveilles",
+   "convenu",
+   "essuyé",
+   "sépara",
+   "proposais"
+  ],
+  "Representative_Docs": [
+   "Je la lui promis dans une heure.",
+   "Je lui promis pour le lendemain.",
+   "Je le promis."
+  ],
+  "Terms_with_Weights": [
+   [
+    "promis",
+    0.3965310148075046
+   ],
+   [
+    "promit",
+    0.1635336914925777
+   ],
+   [
+    "promettre",
+    0.11961788331107386
+   ],
+   [
+    "tiendrai",
+    0.09008213043343297
+   ],
+   [
+    "détailler",
+    0.09008213043343297
+   ],
+   [
+    "merveilles",
+    0.08395853856300646
+   ],
+   [
+    "convenu",
+    0.0796195122518288
+   ],
+   [
+    "essuyé",
+    0.0796195122518288
+   ],
+   [
+    "sépara",
+    0.0762583164989872
+   ],
+   [
+    "proposais",
+    0.07351561005938814
+   ]
+  ],
+  "Label": "Versprechen",
+  "Display": "no"
+ },
+ {
+  "Topic": 68,
+  "Count": 20,
+  "Name": "68_fixèrent_vue_miroir_yeux",
+  "Representation": [
+   "fixèrent",
+   "vue",
+   "miroir",
+   "yeux",
+   "aveugle",
+   "semblait",
+   "visage",
+   "œil",
+   "dépensais",
+   "oblige"
+  ],
+  "Representative_Docs": [
+   "Il me passait plusieurs fois la main près du visage, que je croyais dix fois que je n’en serais pas quitte sans soufflet.",
+   "Je maigrissais à vue d’œil, et j’étais semblable à un squelette vivant.",
+   "Ce fut alors que tous les yeux se fixèrent sur moi, d’une manière que je ne savais plus où regarder et j’étais dans un embarras que je n’avais encore jamais senti, pendant que la comtesse de Strattmann me regardait avec un air de contentement que je ne pouvais comprendre."
+  ],
+  "Terms_with_Weights": [
+   [
+    "fixèrent",
+    0.0852502083870527
+   ],
+   [
+    "vue",
+    0.07498376257546045
+   ],
+   [
+    "miroir",
+    0.07464661944491718
+   ],
+   [
+    "yeux",
+    0.06419575336998185
+   ],
+   [
+    "aveugle",
+    0.06410254190464194
+   ],
+   [
+    "semblait",
+    0.05566929131430381
+   ],
+   [
+    "visage",
+    0.053066960362295426
+   ],
+   [
+    "œil",
+    0.052483100797483036
+   ],
+   [
+    "dépensais",
+    0.05105583100988044
+   ],
+   [
+    "oblige",
+    0.05105583100988044
+   ]
+  ],
+  "Label": "Gesicht und Spiegelbild",
+  "Display": "no"
+ },
+ {
+  "Topic": 69,
+  "Count": 20,
+  "Name": "69_catholique_catholiques_communion_inutile",
+  "Representation": [
+   "catholique",
+   "catholiques",
+   "communion",
+   "inutile",
+   "plupart",
+   "non",
+   "pays",
+   "religion",
+   "demandé",
+   "communierais"
+  ],
+  "Representative_Docs": [
+   "Il me dit que je ne désavouais pas ma religion en disant que je voulais aller là faire mes dévotions, que jusqu’ici personne n’avait exigé de moi de me déclarer, si j’étais catholique ou non, que dans tous les discours du comte de Schwerin il ne m’avait point demandé s’il était vrai que je le fusse ou non.",
+   "Nous étions à la fin d’octobreou novembre, où je passai la plupart des nuits à lire , pleurant, et à vous invoquer que vous me marquiez votre volonté par un événement qui me parût partir de votre main pour que je fusse convaincue, si je devais me faire catholique ou non, et si je devais solliciter le comte de Schwerin à sortir de ce pays, ou m’y tenir en repos en restant réformée.",
+   "Enfin, je lui répondis de l’air le plus humble que je puis, que je croyais la famille de Schwerin assez connue pour que son établissement dans les pays de l’Empereur ne pouvait paraître méprisable, que le Reverend Père Brean garantirait ma foi à Son Excellence, qu’il savait les considérations qui m’obligeaient à me taire, que je communierais devant lui en bonne catholique quand il l’ordonnerait, que je l’étais si bien que j’étais prête à verser tout mon sang, si dans mon pays la persécution allait jusque là, que je n’avais point de vues humaines, que je n’espérais que de gagner les innocentes âmes de mes enfants, peut-être même, ajoutai-je, mon mari."
+  ],
+  "Terms_with_Weights": [
+   [
+    "catholique",
+    0.0872243276494883
+   ],
+   [
+    "catholiques",
+    0.035724133329264586
+   ],
+   [
+    "communion",
+    0.02908799866815105
+   ],
+   [
+    "inutile",
+    0.026718390012364774
+   ],
+   [
+    "plupart",
+    0.02579993561611397
+   ],
+   [
+    "non",
+    0.025005279118786188
+   ],
+   [
+    "pays",
+    0.024662034664160087
+   ],
+   [
+    "religion",
+    0.023098566235390576
+   ],
+   [
+    "demandé",
+    0.02205836244994474
+   ],
+   [
+    "communierais",
+    0.02169038572315182
+   ]
+  ],
+  "Label": "Katholizismus",
+  "Display": "no",
+  "Similar_topics": [
+   7
+  ],
+  "Subjects": [
+   "S7"
+  ]
+ },
+ {
+  "Topic": 70,
+  "Count": 20,
+  "Name": "70_luthérien_protestant_protestants_luther",
+  "Representation": [
+   "luthérien",
+   "protestant",
+   "protestants",
+   "luther",
+   "règne",
+   "luthériens",
+   "mirent",
+   "tel",
+   "zèle",
+   "honnête"
+  ],
+  "Representative_Docs": [
+   "» Je la trouvai bien forte pour un zèle protestant, mais, mon Dieu et mon amour, il faut que vous me l’ayez inspirée, car de moi-même je n’en aurais pas été capable, puisque cette lettre a eu l’applaudissement universel.",
+   "Il dit cela devant le comte de W., qui à ce que j’ai dit était luthérien.",
+   "Il était luthérien, c’était ce qui me donna encore plus d’empressement de l’instruire à fond du plan de toute cette affaire pour m’attirer un tel protecteur parmi les protestants, qui était aimé, chéri et respecté même."
+  ],
+  "Terms_with_Weights": [
+   [
+    "luthérien",
+    0.14938991545917735
+   ],
+   [
+    "protestant",
+    0.11296107741467143
+   ],
+   [
+    "protestants",
+    0.08558584223513674
+   ],
+   [
+    "luther",
+    0.05052776739058366
+   ],
+   [
+    "règne",
+    0.048394700855126496
+   ],
+   [
+    "luthériens",
+    0.04391297089584514
+   ],
+   [
+    "mirent",
+    0.04088830553643319
+   ],
+   [
+    "tel",
+    0.035251177567224234
+   ],
+   [
+    "zèle",
+    0.03394412982551211
+   ],
+   [
+    "honnête",
+    0.0328019379984269
+   ]
+  ],
+  "Label": "Protestantismus, Luther",
+  "Display": "yes",
+  "Similar_topics": [
+   20
+  ],
+  "Subjects": [
+   "S7"
+  ]
+ },
+ {
+  "Topic": 71,
+  "Count": 19,
+  "Name": "71_ho_ah_hé_disais",
+  "Representation": [
+   "ho",
+   "ah",
+   "hé",
+   "disais",
+   "souvent",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "Representative_Docs": [
+   "» « Ho !",
+   "« Ho, ho !",
+   "» « Ho !"
+  ],
+  "Terms_with_Weights": [
+   [
+    "ho",
+    1.1148855468795844
+   ],
+   [
+    "ah",
+    0.9353631490702358
+   ],
+   [
+    "hé",
+    0.8176988601143395
+   ],
+   [
+    "disais",
+    0.10910385273617056
+   ],
+   [
+    "souvent",
+    0.09001981899565395
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ]
+  ],
+  "Label": "Exklamationen",
+  "Display": "yes",
+  "Similar_topics": [
+   30
+  ]
+ },
+ {
+  "Topic": 72,
+  "Count": 19,
+  "Name": "72_religion_voulu_ignorer_réformé",
+  "Representation": [
+   "religion",
+   "voulu",
+   "ignorer",
+   "réformé",
+   "salut",
+   "alarmât",
+   "fous",
+   "haïs",
+   "informés",
+   "haïrait"
+  ],
+  "Representative_Docs": [
+   "Cela m’alarma, mais je ne voyais point sur quel prétexte m’en défaire puisqu’elle avait fortement pris racine chez nous et que j’étais persuadée que quand même je dirais ces vérités au comte de Schwerin qu’il ne me croirait point, puisqu’il n’avait pas voulu ajouter de foi au sujet des plaintes que j’avais eues à Berlinet que je lui avais marquées et qu’ici la charité chrétienne me fait passer sous silence.",
+   "J’ai omis de dire que j’avais demandé encore à la Générale, si elle croyait qu’on me haïrait pour ma religion, elle m’assura non, que personne ne s’en mettrait en peine, qu’elle et ses amies s’étaient étonnées souvent comment le comte de Schwerin qui avait toujours passé pour un homme d’esprit et raisonnable put après tout se laisser si fort aveugler par les intrigues de la famille de Dohna.",
+   "Je mets cet article fort circonstancié pour qu’on voie l’injustice en vue qu’on m’a faite lorsqu’on m’a voulu soutenir que le comte de Schwerin a ignoré ma religion jusqu’au moment que je suis partie, puisque ma narration, qui n’est aucunement ajustée, certifiera qu’il l’a sue près de sept mois avant mon départ. Enfin, Dieu sait pourquoi tout s’est fait, ce qui s’est fait, (sic) sa volonté soit faite à jamais."
+  ],
+  "Terms_with_Weights": [
+   [
+    "religion",
+    0.07980182076807517
+   ],
+   [
+    "voulu",
+    0.03460013736603352
+   ],
+   [
+    "ignorer",
+    0.0280412868195531
+   ],
+   [
+    "réformé",
+    0.025058953560894263
+   ],
+   [
+    "salut",
+    0.02154728022765073
+   ],
+   [
+    "alarmât",
+    0.02141050977833696
+   ],
+   [
+    "fous",
+    0.02141050977833696
+   ],
+   [
+    "haïs",
+    0.02141050977833696
+   ],
+   [
+    "informés",
+    0.02141050977833696
+   ],
+   [
+    "haïrait",
+    0.02141050977833696
+   ]
+  ],
+  "Label": "Religion, Veränderung",
+  "Display": "no",
+  "Similar_topics": [
+   20
+  ]
+ },
+ {
+  "Topic": 73,
+  "Count": 18,
+  "Name": "73_table_partîmes_dorure_desservi",
+  "Representation": [
+   "table",
+   "partîmes",
+   "dorure",
+   "desservi",
+   "buste",
+   "indubitablement",
+   "retirés",
+   "arrêtâmes",
+   "fouet",
+   "carême"
+  ],
+  "Representative_Docs": [
+   "» On était à table.",
+   "Il s’y résolut et se fit annoncer comme nous étions encore à table.",
+   "Il donna un coup de son fouet dessus, et la boue s’étant séparée, il reconnut un petit buste où il paraissait de la dorure."
+  ],
+  "Terms_with_Weights": [
+   [
+    "table",
+    0.15515480268056916
+   ],
+   [
+    "partîmes",
+    0.12266475451753832
+   ],
+   [
+    "dorure",
+    0.11249589883532977
+   ],
+   [
+    "desservi",
+    0.11249589883532977
+   ],
+   [
+    "buste",
+    0.11249589883532977
+   ],
+   [
+    "indubitablement",
+    0.11249589883532977
+   ],
+   [
+    "retirés",
+    0.11249589883532977
+   ],
+   [
+    "arrêtâmes",
+    0.0939197211043801
+   ],
+   [
+    "fouet",
+    0.0939197211043801
+   ],
+   [
+    "carême",
+    0.0939197211043801
+   ]
+  ],
+  "Label": "Tisch, Nahrungsmittel",
+  "Display": "no",
+  "Subjects": [
+   "S1"
+  ]
+ },
+ {
+  "Topic": 74,
+  "Count": 18,
+  "Name": "74_reverend_père_jésuite_usa",
+  "Representation": [
+   "reverend",
+   "père",
+   "jésuite",
+   "usa",
+   "angéliques",
+   "consulté",
+   "presqu",
+   "contester",
+   "informerait",
+   "ravie"
+  ],
+  "Representative_Docs": [
+   "Je lui demandai d’abord des nouvelles du Reverend Père Brean.",
+   "Je fus trouver ma chère comtesse, où je trouvai le Reverend Père Brean.",
+   "J’y rencontrai le Reverend Père Brean."
+  ],
+  "Terms_with_Weights": [
+   [
+    "reverend",
+    0.24500734377819566
+   ],
+   [
+    "père",
+    0.167707265796429
+   ],
+   [
+    "jésuite",
+    0.06613754323494804
+   ],
+   [
+    "usa",
+    0.05267665104194013
+   ],
+   [
+    "angéliques",
+    0.05267665104194013
+   ],
+   [
+    "consulté",
+    0.047185877846083926
+   ],
+   [
+    "presqu",
+    0.047185877846083926
+   ],
+   [
+    "contester",
+    0.04397828210443195
+   ],
+   [
+    "informerait",
+    0.04397828210443195
+   ],
+   [
+    "ravie",
+    0.04170545879857698
+   ]
+  ],
+  "Label": "Pater Brean",
+  "Display": "no"
+ },
+ {
+  "Topic": 75,
+  "Count": 18,
+  "Name": "75_père_confessai_obéissais_prétendis",
+  "Representation": [
+   "père",
+   "confessai",
+   "obéissais",
+   "prétendis",
+   "essuyait",
+   "obligeaient",
+   "rompait",
+   "tranquillisa",
+   "soucier",
+   "répliquant"
+  ],
+  "Representative_Docs": [
+   "Pendant que lui peu informé des desseins de sa famille et de la mienne, ne songeait nullement à ce qui me regardait, son père lui-même lui en parla, et il fit fort le surpris qu’on pût lui proposer un enfant.",
+   "Je voulais me déshabiller, mais il m’en empêcha et me dit qu’une autre fois, je ne devais pas me soucier des saillies de monsieur son père, que cela lui arrivait à tout moment, qu’on devait faire semblant de ne pas le comprendre.",
+   "Je me confessai à ce père pour la dernière fois, et il me donna sa bénédiction pour mon voyage, me voyant même partir avec beaucoup de peine."
+  ],
+  "Terms_with_Weights": [
+   [
+    "père",
+    0.1520224135996407
+   ],
+   [
+    "confessai",
+    0.08554562026772052
+   ],
+   [
+    "obéissais",
+    0.04775005777902487
+   ],
+   [
+    "prétendis",
+    0.04775005777902487
+   ],
+   [
+    "essuyait",
+    0.04277281013386026
+   ],
+   [
+    "obligeaient",
+    0.04277281013386026
+   ],
+   [
+    "rompait",
+    0.04277281013386026
+   ],
+   [
+    "tranquillisa",
+    0.04277281013386026
+   ],
+   [
+    "soucier",
+    0.04277281013386026
+   ],
+   [
+    "répliquant",
+    0.03986520536085199
+   ]
+  ],
+  "Label": "Vater, Gehorsam",
+  "Display": "no"
+ },
+ {
+  "Topic": 76,
+  "Count": 18,
+  "Name": "76_fiscal_commission_chargea_question",
+  "Representation": [
+   "fiscal",
+   "commission",
+   "chargea",
+   "question",
+   "attendant",
+   "procédure",
+   "voyagerai",
+   "midi",
+   "complète",
+   "recommença"
+  ],
+  "Representative_Docs": [
+   "On vint m’annoncer la visite du fiscal.",
+   "Vers le midi, le fiscal me vint trouver et me parla plus de deux heures, comme si j’étais à la question.",
+   "Je fis donc prier le fiscal de venir me trouver."
+  ],
+  "Terms_with_Weights": [
+   [
+    "fiscal",
+    0.3962508313051024
+   ],
+   [
+    "commission",
+    0.08241955975804327
+   ],
+   [
+    "chargea",
+    0.08223780108338334
+   ],
+   [
+    "question",
+    0.06482707969177173
+   ],
+   [
+    "attendant",
+    0.057202194149856694
+   ],
+   [
+    "procédure",
+    0.05624794941766489
+   ],
+   [
+    "voyagerai",
+    0.05624794941766489
+   ],
+   [
+    "midi",
+    0.05042004486851617
+   ],
+   [
+    "complète",
+    0.05038492041192013
+   ],
+   [
+    "recommença",
+    0.05038492041192013
+   ]
+  ],
+  "Label": "Fiskalische und administrative Verfahren",
+  "Display": "no",
+  "Subjects": [
+   "S10"
+  ]
+ },
+ {
+  "Topic": 77,
+  "Count": 18,
+  "Name": "77_samedi_septembre_fixé_dimanche",
+  "Representation": [
+   "samedi",
+   "septembre",
+   "fixé",
+   "dimanche",
+   "26",
+   "mercredi",
+   "foire",
+   "vendredi",
+   "décembre",
+   "avril"
+  ],
+  "Representative_Docs": [
+   "J’obtins l’un et l’autre, mon voyage fut fixé au samedi 21.",
+   "Quand le 12 septembre ne vient point sur un dimanche, on remet toujours la procession au premier dimanche suivant.",
+   "Je ne me souviens pas le combien de septembre que c’était, mais je sais que J’arrivai en septembre un samedi."
+  ],
+  "Terms_with_Weights": [
+   [
+    "samedi",
+    0.15299190807258128
+   ],
+   [
+    "septembre",
+    0.13607628082524967
+   ],
+   [
+    "fixé",
+    0.10205721061893724
+   ],
+   [
+    "dimanche",
+    0.08918726809615789
+   ],
+   [
+    "26",
+    0.08407820493793121
+   ],
+   [
+    "mercredi",
+    0.08407820493793121
+   ],
+   [
+    "foire",
+    0.07763248422271388
+   ],
+   [
+    "vendredi",
+    0.06803814041262483
+   ],
+   [
+    "décembre",
+    0.06540661875026896
+   ],
+   [
+    "avril",
+    0.06424152304908737
+   ]
+  ],
+  "Label": "Zeitangaben (Tage, Monate)",
+  "Display": "no"
+ },
+ {
+  "Topic": 78,
+  "Count": 17,
+  "Name": "78_ville_environs_beauté_château",
+  "Representation": [
+   "ville",
+   "environs",
+   "beauté",
+   "château",
+   "charmant",
+   "mouvement",
+   "italienne",
+   "étonnèrent",
+   "traversâmes",
+   "villageois"
+  ],
+  "Representative_Docs": [
+   "L’endroit était charmant de lui-même par la beauté des environs, et les hôtes étaient les personnes du monde les plus obligeantes.",
+   "Le château en était somptueux, la ville belle, et les jardins et les environs délicieux.",
+   "Je fus charmée des beautés des environs, mais bien plus encore de la beauté de la ville dont les bâtiments superbes m’étonnèrent."
+  ],
+  "Terms_with_Weights": [
+   [
+    "ville",
+    0.1562470280645247
+   ],
+   [
+    "environs",
+    0.13589202431227818
+   ],
+   [
+    "beauté",
+    0.08395700306086992
+   ],
+   [
+    "château",
+    0.08286893721223008
+   ],
+   [
+    "charmant",
+    0.06492188970670308
+   ],
+   [
+    "mouvement",
+    0.06129916321477802
+   ],
+   [
+    "italienne",
+    0.05066609184186608
+   ],
+   [
+    "étonnèrent",
+    0.05066609184186608
+   ],
+   [
+    "traversâmes",
+    0.05066609184186608
+   ],
+   [
+    "villageois",
+    0.05066609184186608
+   ]
+  ],
+  "Label": "Schöne Städte, Orte und Gebäude",
+  "Display": "no"
+ },
+ {
+  "Topic": 79,
+  "Count": 16,
+  "Name": "79_article_narration_particularités_cet",
+  "Representation": [
+   "article",
+   "narration",
+   "particularités",
+   "cet",
+   "articles",
+   "conseillent",
+   "cite",
+   "répéterai",
+   "pardonnera",
+   "bête"
+  ],
+  "Representative_Docs": [
+   "Cet article me rendit la parole.",
+   "Je marque l’aventure de cette belle bête, quoique fort peu importante, mais dans la suite de ma narration elle fait un article considérable.",
+   "» Mais cet article viendra dans la suite de ma narration."
+  ],
+  "Terms_with_Weights": [
+   [
+    "article",
+    0.24756020535571746
+   ],
+   [
+    "narration",
+    0.12803313622316553
+   ],
+   [
+    "particularités",
+    0.08165988616930478
+   ],
+   [
+    "cet",
+    0.0704583585470878
+   ],
+   [
+    "articles",
+    0.07017977434522077
+   ],
+   [
+    "conseillent",
+    0.06089227551637117
+   ],
+   [
+    "cite",
+    0.06089227551637117
+   ],
+   [
+    "répéterai",
+    0.06089227551637117
+   ],
+   [
+    "pardonnera",
+    0.06089227551637117
+   ],
+   [
+    "bête",
+    0.06089227551637117
+   ]
+  ],
+  "Label": "Erzählstrukturen",
+  "Display": "yes",
+  "Similar_topics": [
+   96
+  ]
+ },
+ {
+  "Topic": 80,
+  "Count": 16,
+  "Name": "80_obtint_accomplît_voitura_étendit",
+  "Representation": [
+   "obtint",
+   "accomplît",
+   "voitura",
+   "étendit",
+   "négligea",
+   "fidèlement",
+   "exécuta",
+   "vint",
+   "rebuta",
+   "contenta"
+  ],
+  "Representative_Docs": [
+   "Il était juste qu’il en accomplît les conditions.",
+   "Enfin il l’obtint.",
+   "Cela ne le rebuta pas, et il l’obtint le même jour."
+  ],
+  "Terms_with_Weights": [
+   [
+    "obtint",
+    0.3149619981495099
+   ],
+   [
+    "accomplît",
+    0.22887096659601575
+   ],
+   [
+    "voitura",
+    0.22887096659601575
+   ],
+   [
+    "étendit",
+    0.2050145037450543
+   ],
+   [
+    "négligea",
+    0.2050145037450543
+   ],
+   [
+    "fidèlement",
+    0.17355340996321225
+   ],
+   [
+    "exécuta",
+    0.17355340996321225
+   ],
+   [
+    "vint",
+    0.16541598119750117
+   ],
+   [
+    "rebuta",
+    0.16204071794656313
+   ],
+   [
+    "contenta",
+    0.16204071794656313
+   ]
+  ],
+  "Label": "Erreichen",
+  "Display": "no"
+ },
+ {
+  "Topic": 81,
+  "Count": 16,
+  "Name": "81_écus_cent_soixante_coûta",
+  "Representation": [
+   "écus",
+   "cent",
+   "soixante",
+   "coûta",
+   "dépense",
+   "mille",
+   "dix",
+   "florins",
+   "cents",
+   "reste"
+  ],
+  "Representative_Docs": [
+   "Voilà, dis-je, ce marchand payé, et il me reste encore trois cents écus et cent ducats du fiscal.",
+   "Il en était si entêté qu’il en offrit d’abord cent soixante-six, et ensuite cent soixante-dix mille.",
+   "J’en fis faire un qui coûta cent cinquante écus et une garniture de dentelle qui coûta soixante-dix écus."
+  ],
+  "Terms_with_Weights": [
+   [
+    "écus",
+    0.14125284089795226
+   ],
+   [
+    "cent",
+    0.12664893052366002
+   ],
+   [
+    "soixante",
+    0.09639795226330365
+   ],
+   [
+    "coûta",
+    0.09336120835331783
+   ],
+   [
+    "dépense",
+    0.09073408555962703
+   ],
+   [
+    "mille",
+    0.06558553316692577
+   ],
+   [
+    "dix",
+    0.060536931813408114
+   ],
+   [
+    "florins",
+    0.058946540347378944
+   ],
+   [
+    "cents",
+    0.05632296391773579
+   ],
+   [
+    "reste",
+    0.05575724018552557
+   ]
+  ],
+  "Label": "Geld",
+  "Display": "yes",
+  "Subjects": [
+   "S10"
+  ]
+ },
+ {
+  "Topic": 82,
+  "Count": 16,
+  "Name": "82_femmes_spectacle_fausse_arrive",
+  "Representation": [
+   "femmes",
+   "spectacle",
+   "fausse",
+   "arrive",
+   "dévotes",
+   "réconcilie",
+   "éteindraient",
+   "ragoûter",
+   "modestes",
+   "mourraient"
+  ],
+  "Representative_Docs": [
+   "Toutes les jeunes femmes ont la fausse modestie de nier leur état quand on les en raille.",
+   "Je rendis aux femmes ce spectacle douloureux et touchant, j’ordonnai qu’on l’habillât comme c’est la coutume et qu’on le mit sur l’autel.",
+   "« Je m’en garderai bien », me dit-il : « d’aller à ce spectacle et d’être témoin de la conversation de deux femmes qui veulent primer toutes les deux."
+  ],
+  "Terms_with_Weights": [
+   [
+    "femmes",
+    0.2272403411087986
+   ],
+   [
+    "spectacle",
+    0.08516486816441271
+   ],
+   [
+    "fausse",
+    0.06342984684955408
+   ],
+   [
+    "arrive",
+    0.06342984684955408
+   ],
+   [
+    "dévotes",
+    0.04609206966169761
+   ],
+   [
+    "réconcilie",
+    0.04609206966169761
+   ],
+   [
+    "éteindraient",
+    0.04609206966169761
+   ],
+   [
+    "ragoûter",
+    0.04609206966169761
+   ],
+   [
+    "modestes",
+    0.04609206966169761
+   ],
+   [
+    "mourraient",
+    0.04609206966169761
+   ]
+  ],
+  "Label": "Frauenbild und gesellschaftliche Erwartung",
+  "Display": "no"
+ },
+ {
+  "Topic": 83,
+  "Count": 15,
+  "Name": "83_père_reverend_warmie_supérieure",
+  "Representation": [
+   "père",
+   "reverend",
+   "warmie",
+   "supérieure",
+   "königsberg",
+   "religieuses",
+   "évêque",
+   "cher",
+   "parlée",
+   "aimées"
+  ],
+  "Representative_Docs": [
+   "Elles furent obligées pour me consoler d’envoyer chercher le Reverend Père Kraus.",
+   "Dès qu’il fut parti, je retournai auprès de ma chère Supérieure et du Reverend Père Kraus.",
+   "J’avais eu la précaution, en partant de Thorn, de prendre des lettres de recommandation de mon cher Père Kraus et de la Supérieure de mes très aimées Bénédictines au Reverend Père Lyndemier de la Société de Jésus, alors confesseur de Son Altesse Monseigneur le prince et évêque de Warmie."
+  ],
+  "Terms_with_Weights": [
+   [
+    "père",
+    0.08927673102845328
+   ],
+   [
+    "reverend",
+    0.0775261811051046
+   ],
+   [
+    "warmie",
+    0.05046352456539109
+   ],
+   [
+    "supérieure",
+    0.048026513337356136
+   ],
+   [
+    "königsberg",
+    0.04559198863128916
+   ],
+   [
+    "religieuses",
+    0.041062278128986135
+   ],
+   [
+    "évêque",
+    0.03811439142043318
+   ],
+   [
+    "cher",
+    0.03709226587251098
+   ],
+   [
+    "parlée",
+    0.03666993387449976
+   ],
+   [
+    "aimées",
+    0.03666993387449976
+   ]
+  ],
+  "Label": "Pater Kraus, Königsberg und Ermland",
+  "Display": "no"
+ },
+ {
+  "Topic": 84,
+  "Count": 15,
+  "Name": "84_eau_mer_bord_profond",
+  "Representation": [
+   "eau",
+   "mer",
+   "bord",
+   "profond",
+   "rapide",
+   "étang",
+   "rivière",
+   "montagne",
+   "menton",
+   "otzée"
+  ],
+  "Representative_Docs": [
+   "Nous étions au bord de l’eau.",
+   "Il la culbuta dans un étang fort profond, où elle resta sur ses pieds, l’eau jusqu’au menton.",
+   "Et il faut très souvent voyager au bord de la mer qu’on nomme die otzée , de l’autre côté on a le Cunche hoftFrische Hast, qui est un bras de la même mer, fort rapide et dangereux, surtout lorsque l’on rencontre des sables mouvants ou le temps des flux de mer."
+  ],
+  "Terms_with_Weights": [
+   [
+    "eau",
+    0.13383650635226535
+   ],
+   [
+    "mer",
+    0.10706920508181228
+   ],
+   [
+    "bord",
+    0.0890092759245422
+   ],
+   [
+    "profond",
+    0.08504767551578103
+   ],
+   [
+    "rapide",
+    0.07927227478142101
+   ],
+   [
+    "étang",
+    0.07388351393544568
+   ],
+   [
+    "rivière",
+    0.07006517078160934
+   ],
+   [
+    "montagne",
+    0.07006517078160934
+   ],
+   [
+    "menton",
+    0.044248386875229716
+   ],
+   [
+    "otzée",
+    0.044248386875229716
+   ]
+  ],
+  "Label": "Wasser, Meer, Fluss",
+  "Display": "yes",
+  "Subjects": [
+   "S3"
+  ]
+ },
+ {
+  "Topic": 85,
+  "Count": 15,
+  "Name": "85_vanité_ambition_emparèrent_ajustement",
+  "Representation": [
+   "vanité",
+   "ambition",
+   "emparèrent",
+   "ajustement",
+   "naturel",
+   "approbation",
+   "voulût",
+   "pourvu",
+   "esprits",
+   "domina"
+  ],
+  "Representative_Docs": [
+   "Pourvu qu’on me voulût souffrir dans la compagnie des beaux esprits, Mais c'était ma passion que l'esprit je ne me souciais ni de beauté, ni de richesse, ni d’ajustement, ni de rang, ni d’équipage, pourvu qu’on me voulût souffrir dans la compagnie des beaux esprits, c’était ma plus grande satisfaction. Cette ambition me faisait avoir un air posé et réservé.",
+   "Ils apprendront du reste la vanité et l’ambition.",
+   "Ma vanité, mon ambition, le respect humain, enfin le terrible qu’en-dira-t-on s’emparèrent de mon esprit, et je m’y laissai aller."
+  ],
+  "Terms_with_Weights": [
+   [
+    "vanité",
+    0.2463195822557446
+   ],
+   [
+    "ambition",
+    0.12571306207851712
+   ],
+   [
+    "emparèrent",
+    0.06694124596969045
+   ],
+   [
+    "ajustement",
+    0.06411527247048605
+   ],
+   [
+    "naturel",
+    0.05028522483140685
+   ],
+   [
+    "approbation",
+    0.05028522483140685
+   ],
+   [
+    "voulût",
+    0.048723537602732896
+   ],
+   [
+    "pourvu",
+    0.044444623720780396
+   ],
+   [
+    "esprits",
+    0.04345734460938086
+   ],
+   [
+    "domina",
+    0.04227552886168444
+   ]
+  ],
+  "Label": "Eitelkeit und Ehrgeiz",
+  "Display": "yes"
+ },
+ {
+  "Topic": 86,
+  "Count": 15,
+  "Name": "86_mère_sainte_vœux_dieu",
+  "Representation": [
+   "mère",
+   "sainte",
+   "vœux",
+   "dieu",
+   "brigitte",
+   "devons",
+   "honore",
+   "paresse",
+   "rejeté",
+   "épargnez"
+  ],
+  "Representative_Docs": [
+   "Vous m’inspirâtes de l’offrir à votre sainte mère et de lui donner en don sans nul retour sur moi, ni sans que je puisse compter qu’il m’appartienne.",
+   "Si ce sont les péchés de sa mère, Seigneur, déployez vos coups sur moi, épargnez cet amant de votre sainte mère, tirez-le des mains de ceux qui pervertirent son cœur et sa raison.",
+   "Ce n’est pas par paresse, c’est qu’il dit qu’il faut exempter la Mère de Dieu de cette règle, que puisqu’on vous honore bien comme leur mère, il est bien juste que la mère de Dieu soit honorée."
+  ],
+  "Terms_with_Weights": [
+   [
+    "mère",
+    0.15550438403683017
+   ],
+   [
+    "sainte",
+    0.10794029830787642
+   ],
+   [
+    "vœux",
+    0.06410254190464194
+   ],
+   [
+    "dieu",
+    0.05497238237842809
+   ],
+   [
+    "brigitte",
+    0.05105583100988044
+   ],
+   [
+    "devons",
+    0.05105583100988044
+   ],
+   [
+    "honore",
+    0.05105583100988044
+   ],
+   [
+    "paresse",
+    0.05105583100988044
+   ],
+   [
+    "rejeté",
+    0.05105583100988044
+   ],
+   [
+    "épargnez",
+    0.05105583100988044
+   ]
+  ],
+  "Label": "Gottesmutter, Gelübde",
+  "Display": "no"
+ },
+ {
+  "Topic": 87,
+  "Count": 15,
+  "Name": "87_monsieur_messieurs_baron_jardin",
+  "Representation": [
+   "monsieur",
+   "messieurs",
+   "baron",
+   "jardin",
+   "entretenus",
+   "déterra",
+   "peitz",
+   "mèreou",
+   "metternichvoulait",
+   "inouïe"
+  ],
+  "Representative_Docs": [
+   "Le baron de Danckelmann, conseiller aulique de l’Empereuret fils de celui qu’on nommait autrefois le grand Danckelmann sous le règne précédent, qui fut grand président et favori du roi, mais par une infortune aussi imprévu que inouïe fit mis dans la citadelle de Peitz pendant bien des années , nous vint voir dès le même soir.",
+   "Ils y vinrent et monsieur de Danckelmann.",
+   "On fit venir monsieur de Danckelmann."
+  ],
+  "Terms_with_Weights": [
+   [
+    "monsieur",
+    0.14785696372290616
+   ],
+   [
+    "messieurs",
+    0.05555553631735636
+   ],
+   [
+    "baron",
+    0.05555553631735636
+   ],
+   [
+    "jardin",
+    0.0526318686568725
+   ],
+   [
+    "entretenus",
+    0.044248386875229716
+   ],
+   [
+    "déterra",
+    0.044248386875229716
+   ],
+   [
+    "peitz",
+    0.044248386875229716
+   ],
+   [
+    "mèreou",
+    0.044248386875229716
+   ],
+   [
+    "metternichvoulait",
+    0.044248386875229716
+   ],
+   [
+    "inouïe",
+    0.044248386875229716
+   ]
+  ],
+  "Label": "Baron Danckelmann",
+  "Display": "no"
+ },
+ {
+  "Topic": 88,
+  "Count": 14,
+  "Name": "88_prières_priai_prié_oublier",
+  "Representation": [
+   "prières",
+   "priai",
+   "prié",
+   "oublier",
+   "prier",
+   "repria",
+   "sacrifices",
+   "moribonde",
+   "saurai",
+   "songeasse"
+  ],
+  "Representative_Docs": [
+   "Il fit une courte prière devant le lit du malade, et il le disposa de faire son testament pour avoir, disait-il, la joie de laisser sa famille en paix et de faire l’édification du prochain.",
+   "Je le priai avec toute la tendresse imaginable de ne souffrir plus qu’on lui en parlât, et qu’il me les envoyât tous, que je saurai bien me tirer de leurs questions.",
+   "Il me répondit la lettre du monde la plus tendre, combien il était charmé que je songeasse à mon salut, que cela lui faisait entièrement oublier tout ce qu’on avait voulu lui imposer comme si j’oubliais Dieu."
+  ],
+  "Terms_with_Weights": [
+   [
+    "prières",
+    0.082287368885908
+   ],
+   [
+    "priai",
+    0.07533722526306844
+   ],
+   [
+    "prié",
+    0.06891527390656814
+   ],
+   [
+    "oublier",
+    0.0679085074195941
+   ],
+   [
+    "prier",
+    0.06331129198187613
+   ],
+   [
+    "repria",
+    0.05979511739895907
+   ],
+   [
+    "sacrifices",
+    0.05979511739895907
+   ],
+   [
+    "moribonde",
+    0.05979511739895907
+   ],
+   [
+    "saurai",
+    0.05979511739895907
+   ],
+   [
+    "songeasse",
+    0.05979511739895907
+   ]
+  ],
+  "Label": "Beten und Bitten",
+  "Display": "no"
+ },
+ {
+  "Topic": 89,
+  "Count": 14,
+  "Name": "89_hélas_choisissez_quoi_vanité",
+  "Representation": [
+   "hélas",
+   "choisissez",
+   "quoi",
+   "vanité",
+   "quelle",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "Representative_Docs": [
+   "Hélas !",
+   "Hélas !",
+   "Hélas !"
+  ],
+  "Terms_with_Weights": [
+   [
+    "hélas",
+    1.6590155268387925
+   ],
+   [
+    "choisissez",
+    0.4424838687522971
+   ],
+   [
+    "quoi",
+    0.30796034143505463
+   ],
+   [
+    "vanité",
+    0.19831884314949694
+   ],
+   [
+    "quelle",
+    0.18459369845489898
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ]
+  ],
+  "Label": "Exklamationen und Anderes",
+  "Display": "no",
+  "Similar_topics": [
+   94
+  ]
+ },
+ {
+  "Topic": 90,
+  "Count": 14,
+  "Name": "90_achat_affaire_conseils_excellence",
+  "Representation": [
+   "achat",
+   "affaire",
+   "conseils",
+   "excellence",
+   "freihanse",
+   "intéressai",
+   "accusât",
+   "renonciez",
+   "quant",
+   "rompiez"
+  ],
+  "Representative_Docs": [
+   "Je lui dis que c’était l’achat de la terre de Freihan et que je le priais de m’aider à réussir.",
+   "Monsieur, Je demande pardon à Votre Excellence, si j’ose l’incommoder par mes lettres, mais ayant su de mon mari qu’il lui avait parlé d’une affaire qui s’est traitée avec la Cour Impériale touchant l’achat de la terre de Freihan, je n’ai pu vaincre l’envie que j’ai eu d’instruire Votre Excellence des raisons qui sont de mon côté et qui m’engagent à persister dans mes instances pour que cette affaire n’en vienne point à une rupture.",
+   "Enfin, on en vint à l’achat de Freihan."
+  ],
+  "Terms_with_Weights": [
+   [
+    "achat",
+    0.12477966407818553
+   ],
+   [
+    "affaire",
+    0.09301145613099521
+   ],
+   [
+    "conseils",
+    0.05638501616402496
+   ],
+   [
+    "excellence",
+    0.052755830369855615
+   ],
+   [
+    "freihanse",
+    0.04577419331920315
+   ],
+   [
+    "intéressai",
+    0.04577419331920315
+   ],
+   [
+    "accusât",
+    0.04577419331920315
+   ],
+   [
+    "renonciez",
+    0.04577419331920315
+   ],
+   [
+    "quant",
+    0.04577419331920315
+   ],
+   [
+    "rompiez",
+    0.04577419331920315
+   ]
+  ],
+  "Label": "Kauf von Freihan",
+  "Display": "no",
+  "Subjects": [
+   "S10"
+  ]
+ },
+ {
+  "Topic": 91,
+  "Count": 14,
+  "Name": "91_ambassade_chevalier_cavalier_nombre",
+  "Representation": [
+   "ambassade",
+   "chevalier",
+   "cavalier",
+   "nombre",
+   "secrétaire",
+   "sonnant",
+   "bussy",
+   "quesnel",
+   "fameusebataille",
+   "offices"
+  ],
+  "Representative_Docs": [
+   "Les autres, une ambassade.",
+   "Mais pour qu’on ne soupçonne pas que je cache son nom, c’était le major C., qui avait perdu le bras droit à une fameusebataille, un Français qui avait beaucoup d’esprit et de discernement, joint à une discrétion parfaite.",
+   "Je me servais pour cela du secrétaire d’ambassade qui me rendit tous les bons offices du monde, du moins à ce qu’il paraissait en attendant qu’il traitait cette affaire."
+  ],
+  "Terms_with_Weights": [
+   [
+    "ambassade",
+    0.1873879493148257
+   ],
+   [
+    "chevalier",
+    0.09957595772299647
+   ],
+   [
+    "cavalier",
+    0.08952386896398003
+   ],
+   [
+    "nombre",
+    0.07934572972184152
+   ],
+   [
+    "secrétaire",
+    0.07031217758496554
+   ],
+   [
+    "sonnant",
+    0.0698658740135206
+   ],
+   [
+    "bussy",
+    0.0698658740135206
+   ],
+   [
+    "quesnel",
+    0.0698658740135206
+   ],
+   [
+    "fameusebataille",
+    0.0698658740135206
+   ],
+   [
+    "offices",
+    0.0698658740135206
+   ]
+  ],
+  "Label": "Gesandtschaft, Kavaliere und Offiziere",
+  "Display": "yes"
+ },
+ {
+  "Topic": 92,
+  "Count": 14,
+  "Name": "92_ignorer_effaceront_repos_promenais",
+  "Representation": [
+   "ignorer",
+   "effaceront",
+   "repos",
+   "promenais",
+   "trouvez",
+   "plaisanteries",
+   "troubler",
+   "conter",
+   "entretenait",
+   "nuire"
+  ],
+  "Representative_Docs": [
+   "Au premier compliment il ne répondit rien, au second il dit qu’on le laissât en repos sans le venir troubler d'avantage.",
+   "Un jour que je me promenais avec lui, il me dit : « J’ai quelque chose à vous dire, mais il faut faire semblant de l’ignorer.",
+   "Je lui offris ma cassette et voulus lui conter où nous avions été ; mais en me regardant d'un air sévère, il me dit ces terribles paroles qui ne s’effaceront jamais de mon esprit : « Allez (me dit-il) avec vos présents, laissez-moi en repos, si vous voulez continuer à me rendre ridicule dans le monde."
+  ],
+  "Terms_with_Weights": [
+   [
+    "ignorer",
+    0.1534023337775552
+   ],
+   [
+    "effaceront",
+    0.07808538860334654
+   ],
+   [
+    "repos",
+    0.07054656832359008
+   ],
+   [
+    "promenais",
+    0.06994612480713618
+   ],
+   [
+    "trouvez",
+    0.06519133582539324
+   ],
+   [
+    "plaisanteries",
+    0.06519133582539324
+   ],
+   [
+    "troubler",
+    0.061822209513184706
+   ],
+   [
+    "conter",
+    0.061822209513184706
+   ],
+   [
+    "entretenait",
+    0.05921233986980183
+   ],
+   [
+    "nuire",
+    0.05708270898728961
+   ]
+  ],
+  "Label": "Direkte Rede: Schweigen und Verschweigen",
+  "Display": "no"
+ },
+ {
+  "Topic": 93,
+  "Count": 13,
+  "Name": "93_religieuse_religion_avoué_moindre",
+  "Representation": [
+   "religieuse",
+   "religion",
+   "avoué",
+   "moindre",
+   "osait",
+   "ouvrir",
+   "prié",
+   "avoua",
+   "contre",
+   "fermai"
+  ],
+  "Representative_Docs": [
+   "Elle fit si bien qu’elle fit accroire que ma haine contre elle ne venait que parce qu’elle m’ôtait les moyens d’instruire mes enfants dans ma religion et parce qu’elle contredisait mes jaloux caprices.",
+   "Elle m’avoua qu’elle avait prié Dieu pour moi, de m’ouvrir les yeux, elle a avoué depuis que mes paroles lui avaient percé l’âme et que de tout ce qu’elle avait souffert pour la religion, rien ne lui avait été plus sensible.",
+   "Elle m’avoua donc que dès que je lui avais marqué mon dessein, cette sainte religieuse s’était sentie pénétrée de douleur contre ma résolution, qu’elle avait d’abord cru que le respect humain dont je l’avais d’abord soupçonnée lui causait cet éloignement, mais qu’elle avait trouvé que sa crainte ne venait pas de là."
+  ],
+  "Terms_with_Weights": [
+   [
+    "religieuse",
+    0.0903287860915956
+   ],
+   [
+    "religion",
+    0.0513674510757959
+   ],
+   [
+    "avoué",
+    0.050539528570124774
+   ],
+   [
+    "moindre",
+    0.047666794180617575
+   ],
+   [
+    "osait",
+    0.04668715337869721
+   ],
+   [
+    "ouvrir",
+    0.044474391881564324
+   ],
+   [
+    "prié",
+    0.044474391881564324
+   ],
+   [
+    "avoua",
+    0.043824676299854336
+   ],
+   [
+    "contre",
+    0.03920541028777414
+   ],
+   [
+    "fermai",
+    0.03858870948421196
+   ]
+  ],
+  "Label": "Religion",
+  "Display": "no",
+  "Similar_topics": [
+   20
+  ]
+ },
+ {
+  "Topic": 94,
+  "Count": 13,
+  "Name": "94_oh___",
+  "Representation": [
+   "oh",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "Representative_Docs": [
+   "« Oh !",
+   "« Oh !",
+   "» « Oh !"
+  ],
+  "Terms_with_Weights": [
+   [
+    "oh",
+    3.1532386612282215
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ],
+   [
+    "",
+    1e-05
+   ]
+  ],
+  "Label": "Exklamation",
+  "Display": "no",
+  "Similar_topics": [
+   30,
+   89
+  ]
+ },
+ {
+  "Topic": 95,
+  "Count": 13,
+  "Name": "95_époux_mari_enveloppa_plairaient",
+  "Representation": [
+   "époux",
+   "mari",
+   "enveloppa",
+   "plairaient",
+   "couvertes",
+   "demeurerait",
+   "mariépoux",
+   "relevée",
+   "pelisses",
+   "paraissant"
+  ],
+  "Representative_Docs": [
+   "Il ajouta qu'il m'était bien permis dans cette occasion de dissimuler un peu, que si je croyais qu'en paraissant malade, je pusse attendrir mon époux, que je pouvais bien me tenir quelques jours au lit.",
+   "Dès que mon mariépoux fut parti, je mis tout en usage pour le suivre le plus tôt le mieux, espérant que ma promptitude et l’agréable surprise d’arriver plus tôt avec ma petite troupe lui plairaient.",
+   "Il prépara d’abord son propre traîneau, et sa femme m’enveloppa de toutes les couvertes et pelisses qu’elle avait ; mais avant que de partir, je dis à ma Cateste : « Il faut que je laisse ici un souvenir que j’y ai été aux arrêts."
+  ],
+  "Terms_with_Weights": [
+   [
+    "époux",
+    0.0884267934780389
+   ],
+   [
+    "mari",
+    0.07948045655331085
+   ],
+   [
+    "enveloppa",
+    0.06321198125032816
+   ],
+   [
+    "plairaient",
+    0.06321198125032816
+   ],
+   [
+    "couvertes",
+    0.06321198125032816
+   ],
+   [
+    "demeurerait",
+    0.06321198125032816
+   ],
+   [
+    "mariépoux",
+    0.06321198125032816
+   ],
+   [
+    "relevée",
+    0.056623053415300724
+   ],
+   [
+    "pelisses",
+    0.056623053415300724
+   ],
+   [
+    "paraissant",
+    0.056623053415300724
+   ]
+  ],
+  "Label": "Ehemann",
+  "Display": "no",
+  "Similar_topics": [
+   6
+  ]
+ },
+ {
+  "Topic": 96,
+  "Count": 13,
+  "Name": "96_reviens_narration_récit_histoire",
+  "Representation": [
+   "reviens",
+   "narration",
+   "récit",
+   "histoire",
+   "catéchismes",
+   "reprends",
+   "démêler",
+   "ancienne",
+   "gros",
+   "soupirant"
+  ],
+  "Representative_Docs": [
+   "J’en reviens à ma narration.",
+   "J’en reviens à ma narration.",
+   "J’en reviens à ma narration."
+  ],
+  "Terms_with_Weights": [
+   [
+    "reviens",
+    1.0359185672410998
+   ],
+   [
+    "narration",
+    0.7878167978893169
+   ],
+   [
+    "récit",
+    0.32471283154407454
+   ],
+   [
+    "histoire",
+    0.299863515386487
+   ],
+   [
+    "catéchismes",
+    0.19178776156795405
+   ],
+   [
+    "reprends",
+    0.16951250995550646
+   ],
+   [
+    "démêler",
+    0.15651710528772958
+   ],
+   [
+    "ancienne",
+    0.14356334826539063
+   ],
+   [
+    "gros",
+    0.1402064340977655
+   ],
+   [
+    "soupirant",
+    0.11987536034429824
+   ]
+  ],
+  "Label": "Zurückkehren zur Narration",
+  "Display": "yes",
+  "Similar_topics": [
+   57,
+   79
+  ]
+ },
+ {
+  "Topic": 97,
+  "Count": 13,
+  "Name": "97_wesel_père_retournâmes_allâmes",
+  "Representation": [
+   "wesel",
+   "père",
+   "retournâmes",
+   "allâmes",
+   "parents",
+   "chers",
+   "arrivâmes",
+   "retour",
+   "frêle",
+   "sonsfeld"
+  ],
+  "Representative_Docs": [
+   "Ainsi nous ne restâmes que quinze jours à Wesel, de là nous allâmes chez mon oncle le beau-frère de mon père, où ces chers parents s’étaient rendus.",
+   "Enfin, après avoir quitté les eaux nous arrivâmes à Wesel, où après avoir reçu mille tendres caresses de mon père, nous allâmes chez mes chers parents .",
+   "Je pris alors congé pour toute ma vie, et nous retournâmes à Wesel chez mon père, après nous être arrêtés quelque jours à moitié chemin chez le père de la frêle de Sonsfeld."
+  ],
+  "Terms_with_Weights": [
+   [
+    "wesel",
+    0.2998629286986371
+   ],
+   [
+    "père",
+    0.11300061759545485
+   ],
+   [
+    "retournâmes",
+    0.0802405112268783
+   ],
+   [
+    "allâmes",
+    0.065722808677627
+   ],
+   [
+    "parents",
+    0.06500537746140626
+   ],
+   [
+    "chers",
+    0.06192859407473283
+   ],
+   [
+    "arrivâmes",
+    0.05928321475717329
+   ],
+   [
+    "retour",
+    0.050355624339771025
+   ],
+   [
+    "frêle",
+    0.04720181055722441
+   ],
+   [
+    "sonsfeld",
+    0.04671088720679529
+   ]
+  ],
+  "Label": "Wesel, Reisen",
+  "Display": "yes",
+  "Similar_topics": [
+   10,
+   34
+  ],
+  "Subjects": [
+   "S2"
+  ]
+ },
+ {
+  "Topic": 98,
+  "Count": 12,
+  "Name": "98_chambre_cabinets_destiné_filles",
+  "Representation": [
+   "chambre",
+   "cabinets",
+   "destiné",
+   "filles",
+   "trois",
+   "chambres",
+   "bassin",
+   "pauvreenfant",
+   "sales",
+   "mettaismes"
+  ],
+  "Representative_Docs": [
+   "J’avais pour moitrois filles de chambre dont certainement les deux premières avaient plus d’attention pour leurs ajustements que je n’en avais pour moi, elles étaient de fort bonnes maisons et qui me faisaient honneur.",
+   "On avait destiné pour madame Wergeau un appartement séparé où il y avait trois cabinets et un degré dérobé.",
+   "J’y mis les filles de chambre et mettaismes trois plus jeunes fils dans les deux cabinets, et je gardai la chambre et le cabinet destiné à la Wergeau pour moi."
+  ],
+  "Terms_with_Weights": [
+   [
+    "chambre",
+    0.11401538934123376
+   ],
+   [
+    "cabinets",
+    0.09076978028406985
+   ],
+   [
+    "destiné",
+    0.0802272947881023
+   ],
+   [
+    "filles",
+    0.06241089575407344
+   ],
+   [
+    "trois",
+    0.05339160108393216
+   ],
+   [
+    "chambres",
+    0.05208246644025034
+   ],
+   [
+    "bassin",
+    0.05066609184186608
+   ],
+   [
+    "pauvreenfant",
+    0.05066609184186608
+   ],
+   [
+    "sales",
+    0.05066609184186608
+   ],
+   [
+    "mettaismes",
+    0.05066609184186608
+   ]
+  ],
+  "Label": "Zimmer",
+  "Display": "yes",
+  "Similar_topics": [
+   14,
+   63,
+   102
+  ]
+ },
+ {
+  "Topic": 99,
+  "Count": 12,
+  "Name": "99_consolation_consolait_quelle_réciproques",
+  "Representation": [
+   "consolation",
+   "consolait",
+   "quelle",
+   "réciproques",
+   "brouillée",
+   "secte",
+   "refuge",
+   "consolai",
+   "exaucée",
+   "murailles"
+  ],
+  "Representative_Docs": [
+   "» J’avais alors encore cette douce consolation qu’en cas d’un pareil malheur je savais mon refuge et un asile assuré.",
+   "Quelle consolation ai-je des murailles ?",
+   "Cela me donna beaucoup de consolation."
+  ],
+  "Terms_with_Weights": [
+   [
+    "consolation",
+    0.3459495177406821
+   ],
+   [
+    "consolait",
+    0.23164010714815156
+   ],
+   [
+    "quelle",
+    0.15974454673981645
+   ],
+   [
+    "réciproques",
+    0.1276395775247011
+   ],
+   [
+    "brouillée",
+    0.1143350117039726
+   ],
+   [
+    "secte",
+    0.1143350117039726
+   ],
+   [
+    "refuge",
+    0.10656276048381588
+   ],
+   [
+    "consolai",
+    0.10656276048381588
+   ],
+   [
+    "exaucée",
+    0.10105553478116731
+   ],
+   [
+    "murailles",
+    0.10105553478116731
+   ]
+  ],
+  "Label": "Trost",
+  "Display": "yes"
+ },
+ {
+  "Topic": 100,
+  "Count": 12,
+  "Name": "100_migraine_tête_désordre_terrible",
+  "Representation": [
+   "migraine",
+   "tête",
+   "désordre",
+   "terrible",
+   "terribles",
+   "ardents",
+   "aplomb",
+   "lèverais",
+   "migraines",
+   "frisait"
+  ],
+  "Representative_Docs": [
+   "Elle me dit qu’une migraine causait le désordre de ses yeux, mais je ne pus le croire, et je fus d’abord examiner ma cassette.",
+   "Je me contraignis tant que je pus et lui répondis que j’avais eu un terrible mal de tête toute la nuit, mais que le plaisir de le voir le ferait passer, que je me lèverais d’abord et que je me ferais un vrai plaisir qu’ils voulussent bien dîner dans ma chambre.",
+   "C’était dans la moitié de juillet, et le soleil qui était des plus ardents me donnait aplomb sur la tête, cela me donna une terrible migraine sans que j’osasse seulement faire semblant que cela m’incommodait."
+  ],
+  "Terms_with_Weights": [
+   [
+    "migraine",
+    0.20559450270845833
+   ],
+   [
+    "tête",
+    0.1653588249418197
+   ],
+   [
+    "désordre",
+    0.0796471325500056
+   ],
+   [
+    "terrible",
+    0.07039590195313945
+   ],
+   [
+    "terribles",
+    0.06056553503376427
+   ],
+   [
+    "ardents",
+    0.05624794941766489
+   ],
+   [
+    "aplomb",
+    0.05624794941766489
+   ],
+   [
+    "lèverais",
+    0.05624794941766489
+   ],
+   [
+    "migraines",
+    0.05624794941766489
+   ],
+   [
+    "frisait",
+    0.05624794941766489
+   ]
+  ],
+  "Label": "Kopf, Migräne",
+  "Display": "yes",
+  "Similar_topics": [
+   40
+  ],
+  "Subjects": [
+   "S8"
+  ]
+ },
+ {
+  "Topic": 101,
+  "Count": 12,
+  "Name": "101_daniel_eloignez_cetave_enlevée",
+  "Representation": [
+   "daniel",
+   "eloignez",
+   "cetave",
+   "enlevée",
+   "wichau",
+   "prononçât",
+   "marmite",
+   "ménagé",
+   "inopinée",
+   "convins"
+  ],
+  "Representative_Docs": [
+   "J’étais désolée que Daniel m’avait manqué de parole et qu’il avait eu la faiblesse de s’en fier à cette vieille femme, qui avait plus ménagé son intérêt que le mien en me mettant dans cette maison, où les hôtes lui étaient attachés.",
+   "Je n’avais que Daniel à qui me confier.",
+   "Je descendis chez le marchand où j’avais été autrefois incognito, mais hélas, quel fut mon étonnement lorsqu’il m’assura que Daniel n’était plus en ville, qu’il avait pris un nouveau maître et pour surcroît d’infortune, on avait cru que je ne viendrais plus m’établir à Breslau ou qu’on m’avait enlevée."
+  ],
+  "Terms_with_Weights": [
+   [
+    "daniel",
+    0.2717294087917039
+   ],
+   [
+    "eloignez",
+    0.05105583100988044
+   ],
+   [
+    "cetave",
+    0.05105583100988044
+   ],
+   [
+    "enlevée",
+    0.05105583100988044
+   ],
+   [
+    "wichau",
+    0.05105583100988044
+   ],
+   [
+    "prononçât",
+    0.05105583100988044
+   ],
+   [
+    "marmite",
+    0.05105583100988044
+   ],
+   [
+    "ménagé",
+    0.045734004681589044
+   ],
+   [
+    "inopinée",
+    0.045734004681589044
+   ],
+   [
+    "convins",
+    0.045734004681589044
+   ]
+  ],
+  "Label": "Daniel",
+  "Display": "no"
+ },
+ {
+  "Topic": 102,
+  "Count": 12,
+  "Name": "102_porte_ouvrit_portes_ouvrir",
+  "Representation": [
+   "porte",
+   "ouvrit",
+   "portes",
+   "ouvrir",
+   "fenêtre",
+   "abordée",
+   "enfoncées",
+   "fermât",
+   "serrures",
+   "arrière"
+  ],
+  "Representative_Docs": [
+   "Je commençais à me lever, j’entendis en même temps ouvrir la porte, et on vint me dire qu’il venait d’expirer.",
+   "Il ouvrit en même temps la porte de l’alcôve, et le père confesseur en sortit.",
+   "» Je restai dans ma gaieté et me mis à caresser ma chère porte : « Ô chère porte, dis-je, restez fermée, resserrez vos serrures et vos verrous de peur d’accident."
+  ],
+  "Terms_with_Weights": [
+   [
+    "porte",
+    0.1499058838681962
+   ],
+   [
+    "ouvrit",
+    0.0870218670453765
+   ],
+   [
+    "portes",
+    0.0870218670453765
+   ],
+   [
+    "ouvrir",
+    0.07082958707063948
+   ],
+   [
+    "fenêtre",
+    0.06881733649394899
+   ],
+   [
+    "abordée",
+    0.06145609288226349
+   ],
+   [
+    "enfoncées",
+    0.06145609288226349
+   ],
+   [
+    "fermât",
+    0.06145609288226349
+   ],
+   [
+    "serrures",
+    0.06145609288226349
+   ],
+   [
+    "arrière",
+    0.06145609288226349
+   ]
+  ],
+  "Label": "Fenster, Türen",
+  "Display": "no",
+  "Similar_topics": [
+   63,
+   98
+  ]
+ },
+ {
+  "Topic": 103,
+  "Count": 12,
+  "Name": "103_aguerrir_décontenançais_félicitai_logeai",
+  "Representation": [
+   "aguerrir",
+   "décontenançais",
+   "félicitai",
+   "logeai",
+   "manquais",
+   "fatiguait",
+   "inquiétais",
+   "fer",
+   "degré",
+   "carrière"
+  ],
+  "Representative_Docs": [
+   "Heureusement, je commençais à m’aguerrir, je ne me décontenançais pas cette fois.",
+   "J’étais sur le degré du grand autel, et je ne songeais pas que la messe était finie il y avait longtemps.",
+   "Je me félicitai intérieurement que tout allait si bien, mais je n’étais pas encore au bout de ma carrière, ni à la scène qu’on préparait."
+  ],
+  "Terms_with_Weights": [
+   [
+    "aguerrir",
+    0.12291218576452698
+   ],
+   [
+    "décontenançais",
+    0.12291218576452698
+   ],
+   [
+    "félicitai",
+    0.12291218576452698
+   ],
+   [
+    "logeai",
+    0.1101003816408625
+   ],
+   [
+    "manquais",
+    0.1101003816408625
+   ],
+   [
+    "fatiguait",
+    0.1101003816408625
+   ],
+   [
+    "inquiétais",
+    0.10261599157700788
+   ],
+   [
+    "fer",
+    0.09320460905431768
+   ],
+   [
+    "degré",
+    0.09320460905431768
+   ],
+   [
+    "carrière",
+    0.09320460905431768
+   ]
+  ],
+  "Label": "Stärke und Verletzlichkeit",
+  "Display": "no"
+ },
+ {
+  "Topic": 104,
+  "Count": 11,
+  "Name": "104_fils_eau_touché_exaucâtes",
+  "Representation": [
+   "fils",
+   "eau",
+   "touché",
+   "exaucâtes",
+   "brisaient",
+   "ingénument",
+   "vagues",
+   "extrêmement",
+   "lyndemier",
+   "hauts"
+  ],
+  "Representative_Docs": [
+   "Mon fils eut toutes les peines du monde à se mettre sur l’eau.",
+   "On m’a dit même depuis que mon fils aîné était à la fenêtre, lorsque la chaise s’arrêta et qu’il me reconnut, et ayant ouvert et ne me trouvant plus, il fut au désespoir tellement qu’on ne put le consoler de plusieurs jours.",
+   "Mon fils avait un peu plus de cinq ans et était extrêmement timide et craintif, et quand il voyait venir des vagues de la mer qui se brisaient sous le carrosse, il jetait les hauts cris, et en m’embrassant il me demandait pardon de tout ce qu’il avait jamais fait pour que je veuille ne le plus faire mener si près de l’eau."
+  ],
+  "Terms_with_Weights": [
+   [
+    "fils",
+    0.11691380323571875
+   ],
+   [
+    "eau",
+    0.07872735667780315
+   ],
+   [
+    "touché",
+    0.06840986200159335
+   ],
+   [
+    "exaucâtes",
+    0.06507115716945545
+   ],
+   [
+    "brisaient",
+    0.05828843733928015
+   ],
+   [
+    "ingénument",
+    0.0543261131878277
+   ],
+   [
+    "vagues",
+    0.0543261131878277
+   ],
+   [
+    "extrêmement",
+    0.05375405167332226
+   ],
+   [
+    "lyndemier",
+    0.051518507927653924
+   ],
+   [
+    "hauts",
+    0.051518507927653924
+   ]
+  ],
+  "Label": "Sohn",
+  "Display": "no"
+ },
+ {
+  "Topic": 105,
+  "Count": 11,
+  "Name": "105_colère_souffrais_amère_enchaîné",
+  "Representation": [
+   "colère",
+   "souffrais",
+   "amère",
+   "enchaîné",
+   "affecté",
+   "insensé",
+   "odieux",
+   "ressemblais",
+   "prétexta",
+   "choqua"
+  ],
+  "Representative_Docs": [
+   "J’avais compagnie, et tout le monde prit matière à me railler pourquoi je souffrais si tranquillement les regards de cet homme et que je le souffrais si peu des autres.",
+   "On prétexta que la colère l’avait rendu insensé, mais cela m’attira les premiers espions.",
+   "L'On lui avait inspiré que j’avais tant du mépris pour lui et que j’avais affecté cette maladie pour l’empêcher de faire des réjouissances un jour qu’on prétendait qui m’était devenu odieux."
+  ],
+  "Terms_with_Weights": [
+   [
+    "colère",
+    0.12127828648031701
+   ],
+   [
+    "souffrais",
+    0.09359368197442436
+   ],
+   [
+    "amère",
+    0.07996696423234285
+   ],
+   [
+    "enchaîné",
+    0.07996696423234285
+   ],
+   [
+    "affecté",
+    0.07996696423234285
+   ],
+   [
+    "insensé",
+    0.07996696423234285
+   ],
+   [
+    "odieux",
+    0.07996696423234285
+   ],
+   [
+    "ressemblais",
+    0.07996696423234285
+   ],
+   [
+    "prétexta",
+    0.07163157359766958
+   ],
+   [
+    "choqua",
+    0.07163157359766958
+   ]
+  ],
+  "Label": "Innere Zerrissenheit",
+  "Display": "no"
+ },
+ {
+  "Topic": 106,
+  "Count": 11,
+  "Name": "106_bruit_courait_partout_contestaient",
+  "Representation": [
+   "bruit",
+   "courait",
+   "partout",
+   "contestaient",
+   "éclaircir",
+   "façons",
+   "assises",
+   "fondement",
+   "donnasse",
+   "sourds"
+  ],
+  "Representative_Docs": [
+   "Le bruit de ces gens pris de vin me fit beaucoup de peine.",
+   "C’était le prétexte pour s’informer de la vérité du bruit qui courait déjà partout de mon arrêt.",
+   "Le bruit courait partout qu’il le serait après l’achat de Freihan, et ce bruit ne fut peut-être pas sans fondement."
+  ],
+  "Terms_with_Weights": [
+   [
+    "bruit",
+    0.4318510586623562
+   ],
+   [
+    "courait",
+    0.1518154395933815
+   ],
+   [
+    "partout",
+    0.12733930105453556
+   ],
+   [
+    "contestaient",
+    0.09092134289430763
+   ],
+   [
+    "éclaircir",
+    0.09092134289430763
+   ],
+   [
+    "façons",
+    0.09092134289430763
+   ],
+   [
+    "assises",
+    0.09092134289430763
+   ],
+   [
+    "fondement",
+    0.08144411792611747
+   ],
+   [
+    "donnasse",
+    0.08144411792611747
+   ],
+   [
+    "sourds",
+    0.08144411792611747
+   ]
+  ],
+  "Label": "Gerüchte",
+  "Display": "yes"
+ },
+ {
+  "Topic": 107,
+  "Count": 11,
+  "Name": "107_königsberg_arrivant_convenances_kruk",
+  "Representation": [
+   "königsberg",
+   "arrivant",
+   "convenances",
+   "kruk",
+   "neuvième",
+   "kitter",
+   "retentit",
+   "rapportent",
+   "varcie",
+   "feuille"
+  ],
+  "Representative_Docs": [
+   "Elle était convertie et de Königsberg.",
+   "Nous arrivâmes le lendemain à Königsberg, mais je puis protester que je tremblais en y arrivant comme la feuille d’un arbre.",
+   "Je partis donc en larmes comme j’ai dit dans l’autre partie et arrivai après-midi au Kitter Kruk, qui est une auberge entre Königsberg et Braunsberg, qui est la première ville frontière de l’évêché de Varcie."
+  ],
+  "Terms_with_Weights": [
+   [
+    "königsberg",
+    0.3274662675501325
+   ],
+   [
+    "arrivant",
+    0.08508015635695457
+   ],
+   [
+    "convenances",
+    0.07901497656291019
+   ],
+   [
+    "kruk",
+    0.07901497656291019
+   ],
+   [
+    "neuvième",
+    0.07901497656291019
+   ],
+   [
+    "kitter",
+    0.07901497656291019
+   ],
+   [
+    "retentit",
+    0.07901497656291019
+   ],
+   [
+    "rapportent",
+    0.07901497656291019
+   ],
+   [
+    "varcie",
+    0.07901497656291019
+   ],
+   [
+    "feuille",
+    0.07901497656291019
+   ]
+  ],
+  "Label": "Königsberg, Reisen",
+  "Display": "no",
+  "Similar_topics": [
+   34
+  ],
+  "Subjects": [
+   "S2"
+  ]
+ },
+ {
+  "Topic": 108,
+  "Count": 11,
+  "Name": "108_embrasser_baiser_embrassa_courus",
+  "Representation": [
+   "embrasser",
+   "baiser",
+   "embrassa",
+   "courus",
+   "calmait",
+   "serrant",
+   "remerciant",
+   "rétablit",
+   "baisant",
+   "tendresses"
+  ],
+  "Representative_Docs": [
+   "» Je courus l’embrasser.",
+   "Je voulais embrasser ce carrosse et le baiser, puisqu’il était à lui.",
+   "Je fus à lui pour l’embrasser."
+  ],
+  "Terms_with_Weights": [
+   [
+    "embrasser",
+    0.4861109427768681
+   ],
+   [
+    "baiser",
+    0.24260151319598086
+   ],
+   [
+    "embrassa",
+    0.17516292695402333
+   ],
+   [
+    "courus",
+    0.12563073872624908
+   ],
+   [
+    "calmait",
+    0.11062096718807428
+   ],
+   [
+    "serrant",
+    0.11062096718807428
+   ],
+   [
+    "remerciant",
+    0.09909034347677625
+   ],
+   [
+    "rétablit",
+    0.09909034347677625
+   ],
+   [
+    "baisant",
+    0.08758146347701166
+   ],
+   [
+    "tendresses",
+    0.08758146347701166
+   ]
+  ],
+  "Label": "Umarmung, Kuss",
+  "Display": "yes"
+ },
+ {
+  "Topic": 109,
+  "Count": 11,
+  "Name": "109_guerre_spirituelles_empoisonner_informée",
+  "Representation": [
+   "guerre",
+   "spirituelles",
+   "empoisonner",
+   "informée",
+   "soumises",
+   "déclariez",
+   "trouvions",
+   "enjouement",
+   "disputer",
+   "mérité"
+  ],
+  "Representative_Docs": [
+   "On m’en fit bien la guerre, mais cela ne me touchait plus.",
+   "Il m’en fit la guerre.",
+   "On m’en fit la guerre."
+  ],
+  "Terms_with_Weights": [
+   [
+    "guerre",
+    0.5863346417218808
+   ],
+   [
+    "spirituelles",
+    0.10370715673881964
+   ],
+   [
+    "empoisonner",
+    0.10370715673881964
+   ],
+   [
+    "informée",
+    0.09289719700947774
+   ],
+   [
+    "soumises",
+    0.09289719700947774
+   ],
+   [
+    "déclariez",
+    0.09289719700947774
+   ],
+   [
+    "trouvions",
+    0.09289719700947774
+   ],
+   [
+    "enjouement",
+    0.09289719700947774
+   ],
+   [
+    "disputer",
+    0.0865822428931004
+   ],
+   [
+    "mérité",
+    0.08210762200969844
+   ]
+  ],
+  "Label": "Necken und Sticheleien („faire la guerre“)",
+  "Display": "yes"
+ },
+ {
+  "Topic": 110,
+  "Count": 10,
+  "Name": "110_pologne_envoyé_concerneraient_clauses",
+  "Representation": [
+   "pologne",
+   "envoyé",
+   "concerneraient",
+   "clauses",
+   "sortent",
+   "préjudice",
+   "sauront",
+   "ouvertes",
+   "mander",
+   "parlions"
+  ],
+  "Representative_Docs": [
+   "Monsieur l’Envoyé de Pologne m’avait fait la même proposition, et même avec des clauses mystérieuses où je ne voulus point entrer aucunement.",
+   "Monsieur l’envoyé de Pologne me le présenta.",
+   "J’avais promis à l’Envoyé de Pologne de lui écrire de temps en temps, mais sans entrer dans des affaires au-dessus de ma portée, et où d’ailleurs les femmes ne sortent rarement qu’à leurs dépens et grand préjudice."
+  ],
+  "Terms_with_Weights": [
+   [
+    "pologne",
+    0.31468693383176555
+   ],
+   [
+    "envoyé",
+    0.11573563365040478
+   ],
+   [
+    "concerneraient",
+    0.07293690144268634
+   ],
+   [
+    "clauses",
+    0.07293690144268634
+   ],
+   [
+    "sortent",
+    0.07293690144268634
+   ],
+   [
+    "préjudice",
+    0.07293690144268634
+   ],
+   [
+    "sauront",
+    0.07293690144268634
+   ],
+   [
+    "ouvertes",
+    0.06533429240227007
+   ],
+   [
+    "mander",
+    0.06533429240227007
+   ],
+   [
+    "parlions",
+    0.06533429240227007
+   ]
+  ],
+  "Label": "Gesandter von Polen",
+  "Display": "no"
+ },
+ {
+  "Topic": 111,
+  "Count": 10,
+  "Name": "111_peur_osais_craignais_observait",
+  "Representation": [
+   "peur",
+   "osais",
+   "craignais",
+   "observait",
+   "courait",
+   "inconstant",
+   "enfuir",
+   "alarmer",
+   "inquiet",
+   "craignit"
+  ],
+  "Representative_Docs": [
+   "» La peur le prit, et il voulut s’enfuir au plus vite pour appeler du secours.",
+   "Je le craignais inconstant, et à peine osais-je lui parler tant on m’observait.",
+   "J’avais pour le moins autant de peur que lui, et de temps en temps j’avais mille envies de jeter aussi bien des cris que lui, mais je n’osais de peur de l’alarmer davantage."
+  ],
+  "Terms_with_Weights": [
+   [
+    "peur",
+    0.17246907632429204
+   ],
+   [
+    "osais",
+    0.11767298339510862
+   ],
+   [
+    "craignais",
+    0.1162967654027087
+   ],
+   [
+    "observait",
+    0.11062096718807428
+   ],
+   [
+    "courait",
+    0.0923543924193071
+   ],
+   [
+    "inconstant",
+    0.0923543924193071
+   ],
+   [
+    "enfuir",
+    0.0923543924193071
+   ],
+   [
+    "alarmer",
+    0.08758146347701166
+   ],
+   [
+    "inquiet",
+    0.08388414814888592
+   ],
+   [
+    "craignit",
+    0.08086717106532695
+   ]
+  ],
+  "Label": "Angst",
+  "Display": "yes"
+ },
+ {
+  "Topic": 112,
+  "Count": 10,
+  "Name": "112_quittai_rétabli_sortis_quitter",
+  "Representation": [
+   "quittai",
+   "rétabli",
+   "sortis",
+   "quitter",
+   "assoupir",
+   "commencait",
+   "renfermai",
+   "sollicita",
+   "congé",
+   "partais"
+  ],
+  "Representative_Docs": [
+   "» Il fit l’air surpris et me dit qu’il venait de le quitter et qu’il était mieux rétabli que jamais.",
+   "Je [le] quittai, voyant qu’il commencait à s’assoupir.",
+   "Après avoir pris congé de lui, je le renfermai dans son alcôve, et je sortis."
+  ],
+  "Terms_with_Weights": [
+   [
+    "quittai",
+    0.16716920988579734
+   ],
+   [
+    "rétabli",
+    0.1276395775247011
+   ],
+   [
+    "sortis",
+    0.12468600065960392
+   ],
+   [
+    "quitter",
+    0.12351336763259267
+   ],
+   [
+    "assoupir",
+    0.1143350117039726
+   ],
+   [
+    "commencait",
+    0.1143350117039726
+   ],
+   [
+    "renfermai",
+    0.1143350117039726
+   ],
+   [
+    "sollicita",
+    0.10656276048381588
+   ],
+   [
+    "congé",
+    0.10649636449321097
+   ],
+   [
+    "partais",
+    0.09678940171025299
+   ]
+  ],
+  "Label": "Abschied und Rückzug",
+  "Display": "no"
+ },
+ {
+  "Topic": 113,
+  "Count": 10,
+  "Name": "113_pars_partirai_arrive_fêtes",
+  "Representation": [
+   "pars",
+   "partirai",
+   "arrive",
+   "fêtes",
+   "longtemps",
+   "abandonnerai",
+   "ira",
+   "avant",
+   "quitterai",
+   "durer"
+  ],
+  "Representative_Docs": [
+   "« Je partirai, dis-je, après les fêtes et m’abandonnerai à la providence.",
+   "Non, dis-je, quoi qu’il arrive, je pars avant mes couches ou je reste toujours.",
+   "Je partirai le 27, ainsi je serai longtemps éloignée avant qu’elle arrive."
+  ],
+  "Terms_with_Weights": [
+   [
+    "pars",
+    0.23885853675548638
+   ],
+   [
+    "partirai",
+    0.23885853675548638
+   ],
+   [
+    "arrive",
+    0.20758858968944974
+   ],
+   [
+    "fêtes",
+    0.1518103834220847
+   ],
+   [
+    "longtemps",
+    0.13699345111408548
+   ],
+   [
+    "abandonnerai",
+    0.13512319565014944
+   ],
+   [
+    "ira",
+    0.13512319565014944
+   ],
+   [
+    "avant",
+    0.1350297284934809
+   ],
+   [
+    "quitterai",
+    0.12593780784450967
+   ],
+   [
+    "durer",
+    0.12593780784450967
+   ]
+  ],
+  "Label": "Abreise",
+  "Display": "yes",
+  "Similar_topics": [
+   39,
+   42
+  ]
+ }
+]

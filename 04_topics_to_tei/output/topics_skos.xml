@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:ConceptScheme rdf:about="https://gams.uni-graz.at/o:mgs.topics">
+      <dc:title xml:lang="de">Topics (BERTopic)</dc:title>
+      <dc:relation>Digitale Edition der Memoiren der Gräfin Schwerin (1684-1732)</dc:relation>
+      <dc:relation>https://gams.uni-graz.at/context:mgs</dc:relation>
+      <dc:publisher>Institut für Digitale Geisteswissenschaften, Karl-Franzens-Universität Graz</dc:publisher>
+      <dc:publisher rdf:resource="http://d-nb.info/gnd/1137284463"/>
+      <dc:publisher>Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes, Österreichische Akademie der Wissenschaften</dc:publisher>
+      <dc:publisher rdf:resource="https://d-nb.info/gnd/1202798799"/>
+      <dc:identifier>o:mgs.topics</dc:identifier>
+      <dc:date>2026</dc:date>
+      <dc:format>rdf+xml</dc:format>
+      <dc:rights>Creative Commons BY-NC 4.0</dc:rights>
+      <dc:rights rdf:resource="https://creativecommons.org/licenses/by-nc/4.0"/>
+      <dc:description xml:lang="de">Topics des Topic Modelling (BERTopic, Lauf vom 27.09.2026, paraphrase-multilingual-MiniLM-L12-v2, min_cluster_size 10) auf Satzebene der Lesefassung, redaktionell benannt und kuratiert. Bezeichnungen, Verknüpfungen und Hervorhebung stammen von den Herausgeber*innen, Terme, Gewichte und Satzzahlen aus dem Modell. Die Zuweisung der Sätze steht als Stand-off im TEI (tei_with_topics_2026-09-27_standoff.xml); dieselben Topics als TEI-Taxonomie: topics.xml.</dc:description>
+      <dc:language>de</dc:language>
+      <dc:source>Topic-Taxonomie aus der digitalen Edition der Memoiren der Gräfin Schwerin, digital entstanden.</dc:source>
+      <dc:coverage>Graz</dc:coverage>
+   </skos:ConceptScheme>
+
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T0">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Unklar</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): maison (0.0069), lettre (0.0067), faire (0.0064), dire (0.0063), jour (0.0062), fort (0.0062), roi (0.0061), après (0.0061), jours (0.0060), cour (0.0057)</skos:note>
+      <skos:note xml:lang="de">1094 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T1">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Gott und Göttliches</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): dieu (0.0501), loué (0.0176), divine (0.0174), doux (0.0165), divin (0.0156), providence (0.0149), grâce (0.0135), volonté (0.0126), jésus (0.0126), amour (0.0125)</skos:note>
+      <skos:note xml:lang="de">379 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T2">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Herrscherhäuser, Diplomatie</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): prince (0.0442), roi (0.0373), reine (0.0259), majesté (0.0238), impératrice (0.0219), empereur (0.0214), princesse (0.0182), eugène (0.0165), impériale (0.0126), royale (0.0095)</skos:note>
+      <skos:note xml:lang="de">334 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T3">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Unklar</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): dame (0.0155), air (0.0121), fille (0.0105), assura (0.0098), femme (0.0098), voulut (0.0093), point (0.0092), manières (0.0092), comment (0.0085), monde (0.0085)</skos:note>
+      <skos:note xml:lang="de">329 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T4">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Freude, Glück und Begeisterung</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): joie (0.0694), charmée (0.0269), heureuse (0.0204), voir (0.0162), transportée (0.0161), féliciter (0.0161), monde (0.0148), bonheur (0.0144), félicitations (0.0138), démonstrations (0.0138)</skos:note>
+      <skos:note xml:lang="de">163 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T5">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Gesellschaftliche und religiöse Begegnungen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): chère (0.0208), reverend (0.0197), assemblée (0.0172), quelques (0.0165), vint (0.0157), jour (0.0147), père (0.0139), sœur (0.0133), voir (0.0128), lettre (0.0113)</skos:note>
+      <skos:note xml:lang="de">160 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T6">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Ehemann, Ehe</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): mari (0.0741), époux (0.0647), mariage (0.0185), maris (0.0155), femme (0.0155), contre (0.0118), monsieur (0.0107), présent (0.0105), côté (0.0098), fort (0.0094)</skos:note>
+      <skos:note xml:lang="de">140 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T95"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T7">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Konfession</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): catholique (0.1264), catholiques (0.0695), religion (0.0204), réformés (0.0143), catholicité (0.0122), oui (0.0121), foi (0.0113), gens (0.0111), permis (0.0106), réformée (0.0102)</skos:note>
+      <skos:note xml:lang="de">123 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T69"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S7"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T8">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Kirche, Messe und Gottesdienst</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): église (0.0951), evêque (0.0492), monseigneur (0.0420), évêque (0.0401), saint (0.0224), chapelle (0.0199), sermon (0.0154), messe (0.0151), jésuites (0.0151), évêché (0.0138)</skos:note>
+      <skos:note xml:lang="de">119 Sätze</skos:note>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S7"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T9">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Gesellschaft und Etikette (v.a. in Wien)</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): vienne (0.1308), cour (0.0134), dames (0.0132), veut (0.0115), aller (0.0114), étrangère (0.0112), nom (0.0112), séjour (0.0108), court (0.0104), celle (0.0097)</skos:note>
+      <skos:note xml:lang="de">119 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T10">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Berlin und Rückkehr</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): berlin (0.1282), père (0.0169), retournâmes (0.0162), huit (0.0149), retour (0.0143), trouverais (0.0141), allemagne (0.0128), retourner (0.0126), campagne (0.0118), bientôt (0.0110)</skos:note>
+      <skos:note xml:lang="de">117 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T34"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T97"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S2"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T11">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Tränen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): larmes (0.1907), yeux (0.0418), fondant (0.0304), vinrent (0.0276), retenir (0.0272), répandis (0.0263), pleurer (0.0256), pouvais (0.0213), fondis (0.0189), verser (0.0182)</skos:note>
+      <skos:note xml:lang="de">103 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T58"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T12">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Schmerz, Leid und Verzweiflung</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): douleurs (0.0546), souffris (0.0348), morte (0.0274), chagrin (0.0256), martyre (0.0249), désespoir (0.0185), savez (0.0185), espèce (0.0182), extrême (0.0168), commencèrent (0.0165)</skos:note>
+      <skos:note xml:lang="de">95 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T24"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T13">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Kommunikation von Gefühlen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): surpris (0.0237), voulut (0.0174), croire (0.0173), persuadé (0.0172), avoir (0.0171), muet (0.0157), avoua (0.0149), disant (0.0142), rien (0.0137), mauvaise (0.0135)</skos:note>
+      <skos:note xml:lang="de">89 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T14">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Haus, Räume und häusliche Einrichtung</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): maison (0.0976), chambre (0.0457), chambres (0.0313), salle (0.0302), mena (0.0228), trouvai (0.0179), chaise (0.0164), inventaires (0.0154), loger (0.0150), bas (0.0148)</skos:note>
+      <skos:note xml:lang="de">84 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T98"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T15">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Essen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): souper (0.0943), repas (0.0895), dîner (0.0874), soupe (0.0273), table (0.0263), manger (0.0248), viande (0.0239), ordinaire (0.0239), passa (0.0230), ordinairement (0.0213)</skos:note>
+      <skos:note xml:lang="de">80 Sätze</skos:note>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S1"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T16">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Unklar</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): voulait (0.0210), inviter (0.0190), jour (0.0189), partie (0.0180), jetait (0.0173), enfants (0.0160), présence (0.0157), curieuse (0.0157), agir (0.0153), fixé (0.0146)</skos:note>
+      <skos:note xml:lang="de">80 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T17">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Schlafen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): nuit (0.0732), repos (0.0525), lit (0.0470), sommeil (0.0329), levée (0.0264), endormir (0.0247), dormir (0.0247), couches (0.0231), pendant (0.0217), soir (0.0217)</skos:note>
+      <skos:note xml:lang="de">73 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T18">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Meine lieben Kinder</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): enfants (0.0876), enfant (0.0537), fils (0.0394), chers (0.0342), jeunes (0.0223), pauvre (0.0212), essentiel (0.0183), cet (0.0178), avoir (0.0166), jeune (0.0165)</skos:note>
+      <skos:note xml:lang="de">69 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T19">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Direkte Rede: Antworten und Gesprächsformeln</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): oui (0.0825), voudrez (0.0462), ami (0.0460), pourrez (0.0431), hé (0.0413), faites (0.0379), prie (0.0362), tenez (0.0356), image (0.0324), répliqua (0.0321)</skos:note>
+      <skos:note xml:lang="de">59 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T20">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Religion, Konversion</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): religion (0.1556), changement (0.0704), religieuse (0.0380), sainte (0.0220), voilà (0.0201), galerie (0.0184), trouvé (0.0176), tentations (0.0174), cacher (0.0169), voudrait (0.0160)</skos:note>
+      <skos:note xml:lang="de">58 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T70"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T72"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T93"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S7"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T21">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Familie und Verwandte</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): tante (0.1049), cousine (0.0769), oncle (0.0746), belle (0.0677), mère (0.0567), occupations (0.0321), sœur (0.0287), père (0.0255), germaine (0.0239), vaisselle (0.0229)</skos:note>
+      <skos:note xml:lang="de">56 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T22">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Mann</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): homme (0.0617), très (0.0446), savant (0.0418), félicita (0.0375), content (0.0369), savait (0.0358), compliments (0.0301), honnête (0.0294), premiers (0.0263), employé (0.0250)</skos:note>
+      <skos:note xml:lang="de">54 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T23">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Geschehen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): longtemps (0.0631), arriva (0.0469), contraire (0.0432), ainsi (0.0418), alla (0.0395), passa (0.0365), bredouille (0.0348), amplement (0.0348), emporter (0.0348), précautionné (0.0348)</skos:note>
+      <skos:note xml:lang="de">47 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T24">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Zweifel, Verzweiflung und Unmöglichkeit</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): impossible (0.0564), pouvais (0.0542), dépeindre (0.0391), discerner (0.0353), éperdue (0.0335), sentiments (0.0292), retirai (0.0260), mouvement (0.0256), pénétrer (0.0240), trouvais (0.0238)</skos:note>
+      <skos:note xml:lang="de">45 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T12"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T25">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Erkenntnis und Irrtum (Wissen)</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): savais (0.1632), ignorais (0.0736), pus (0.0550), quel (0.0538), mot (0.0534), sais (0.0479), virgule (0.0412), inquièterai (0.0412), ceces (0.0412), jeu (0.0403)</skos:note>
+      <skos:note xml:lang="de">44 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T26">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Anklage, Lüge und Geständnis</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): elles (0.0326), gens (0.0288), accusation (0.0235), crurent (0.0235), trop (0.0231), humain (0.0231), mensonge (0.0226), stupide (0.0213), respect (0.0208), quitte (0.0207)</skos:note>
+      <skos:note xml:lang="de">42 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T27">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Liebe, Treue und moralischer Wandel</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): rougit (0.0526), fidélité (0.0328), appeler (0.0311), désormais (0.0285), estla (0.0285), complaintes (0.0285), frivole (0.0285), contrefait (0.0285), démontai (0.0285), intolérable (0.0285)</skos:note>
+      <skos:note xml:lang="de">40 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T28">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Lachen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): rire (0.1680), riant (0.0986), mit (0.0495), plaisants (0.0386), air (0.0310), souriant (0.0304), oui (0.0292), mis (0.0257), hui (0.0256), aujourd (0.0256)</skos:note>
+      <skos:note xml:lang="de">40 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T29">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Überbleibsel</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): partie (0.4552), für (0.2886), bleistiftmarginalie (0.2886), gefangen (0.2886), zajali (0.2886), tschechisch (0.2886), troisième (0.2694), ouvrez (0.2409), quatrième (0.1986), union (0.1986)</skos:note>
+      <skos:note xml:lang="de">39 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T30">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Exklamationen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): ah (2.5063), ha (0.1421)</skos:note>
+      <skos:note xml:lang="de">39 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T71"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T94"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T31">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Briefe, Schreiben</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): lettre (0.1590), lettres (0.0645), écrivit (0.0495), écrivis (0.0495), donna (0.0371), acheva (0.0359), montrai (0.0348), écrivait (0.0330), père (0.0322), manqué (0.0322)</skos:note>
+      <skos:note xml:lang="de">39 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T32">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Autorität, Kontroverse und Öffentlichkeit</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): gouverneur (0.1133), secrétaire (0.0516), chevalier (0.0406), controverse (0.0336), thèse (0.0271), histoires (0.0250), inquiéter (0.0250), ainé (0.0235), embarrassé (0.0211), donnée (0.0203)</skos:note>
+      <skos:note xml:lang="de">38 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T33">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Familiäre Beziehungen und Konflikte</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): tante (0.1070), belle (0.0497), mère (0.0455), âge (0.0262), larmes (0.0256), ingratitudes (0.0220), flattait (0.0211), trop (0.0208), pardonner (0.0203), devins (0.0197)</skos:note>
+      <skos:note xml:lang="de">38 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T34">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Reisedestinationen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): berlin (0.1211), neuf (0.0455), prusse (0.0337), lieues (0.0333), terre (0.0304), walsleben (0.0246), passé (0.0241), belle (0.0233), février (0.0223), arrivâmes (0.0222)</skos:note>
+      <skos:note xml:lang="de">38 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T10"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T42"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T97"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T107"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S2"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T35">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Direkte Rede: Ratschläge, Bitten und Zusagen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): consultez (0.1052), voyons (0.0891), soupirant (0.0658), pouvez (0.0640), conseillerez (0.0587), connexion (0.0587), emportera (0.0587), dressera (0.0587), donnerai (0.0587), plaise (0.0587)</skos:note>
+      <skos:note xml:lang="de">37 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T36">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Catherine (Kammerfrau) und Beichtvater</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): catherine (0.2665), confesseur (0.0565), situation (0.0226), marquait (0.0202), ressentisse (0.0196), changeât (0.0196), conception (0.0196), essuyais (0.0196), formalités (0.0196), effrayez (0.0196)</skos:note>
+      <skos:note xml:lang="de">37 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T37">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Reden, Gespräche und Worte</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): discours (0.0710), entendre (0.0444), mots (0.0363), consternée (0.0320), parler (0.0305), dire (0.0302), chaque (0.0273), parole (0.0271), ridicule (0.0254), dictée (0.0233)</skos:note>
+      <skos:note xml:lang="de">36 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T38">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Lesen, Bücher</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): lecture (0.1212), lu (0.0699), lettre (0.0690), livre (0.0635), livres (0.0478), lire (0.0454), lectures (0.0356), morale (0.0356), lisais (0.0302), fatale (0.0286)</skos:note>
+      <skos:note xml:lang="de">35 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T39">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Reisen und Transportmittel</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): chevaux (0.1773), partis (0.0572), carrosse (0.0506), postes (0.0502), chariots (0.0433), poste (0.0402), soldats (0.0400), voulurent (0.0343), désatteler (0.0327), bride (0.0304)</skos:note>
+      <skos:note xml:lang="de">33 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T42"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T113"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S2"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T40">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Fieber und Krankheit</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): fièvre (0.2578), médecin (0.0574), prit (0.0534), dangereuse (0.0437), malade (0.0374), jaunisse (0.0359), violence (0.0342), accablement (0.0335), oppression (0.0335), poitrine (0.0335)</skos:note>
+      <skos:note xml:lang="de">31 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T100"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S8"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T41">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Familie Dohna</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): jeune (0.1291), famille (0.0567), feld (0.0512), comtes (0.0475), maréchal (0.0473), compagnon (0.0431), ferais (0.0372), attendant (0.0318), dohnaqui (0.0313), dina (0.0313)</skos:note>
+      <skos:note xml:lang="de">29 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T42">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Reisen und Bleiben</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): cabaret (0.1113), nuit (0.0990), passâmes (0.0940), jours (0.0596), heures (0.0492), quelques (0.0490), minuit (0.0470), restâmes (0.0470), dura (0.0439), tranquillement (0.0395)</skos:note>
+      <skos:note xml:lang="de">29 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T34"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T39"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T113"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S2"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T43">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Neigung und Abneigung, Unerfahrenheit</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): aucune (0.0395), connaissais (0.0388), dure (0.0355), aversion (0.0335), dissimulation (0.0294), penchant (0.0294), pays (0.0276), aucun (0.0266), goût (0.0253), choquaient (0.0243)</skos:note>
+      <skos:note xml:lang="de">29 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T44">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Unklar</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): acheté (0.0775), tournant (0.0679), prix (0.0494), marraine (0.0464), lâcha (0.0464), délais (0.0464), rapaisa (0.0464), portés (0.0464), presserait (0.0464), brûlai (0.0464)</skos:note>
+      <skos:note xml:lang="de">29 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T45">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Datumsangaben</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): janvier (0.1035), février (0.0897), 1720 (0.0887), 1718 (0.0849), 1710 (0.0701), 1712 (0.0665), commencement (0.0552), fin (0.0528), mois (0.0509), 1705 (0.0502)</skos:note>
+      <skos:note xml:lang="de">28 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T46">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Handlung</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): continuai (0.1957), fis (0.1468), réussit (0.1168), cochais (0.0948), faisons (0.0948), badinerie (0.0849), voyages (0.0792), méthode (0.0792), attirai (0.0792), constante (0.0751)</skos:note>
+      <skos:note xml:lang="de">28 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T47">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Schock und Überraschung</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): alarma (0.1935), choc (0.1723), surprend (0.1723), frappa (0.1689), toucha (0.1290), dépita (0.0962), enfantin (0.0962), embarrassait (0.0862), commencements (0.0862), surprise (0.0831)</skos:note>
+      <skos:note xml:lang="de">28 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T48">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Soziale Interaktion und Autorität</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): grand (0.0890), chapeau (0.0834), arriva (0.0710), joignit (0.0706), promener (0.0690), suivit (0.0590), conseiller (0.0536), consulterais (0.0527), arrêterai (0.0527), régulières (0.0527)</skos:note>
+      <skos:note xml:lang="de">26 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T49">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Gesprächssprache, Fragen und Modalverben</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): deviendrai (0.3481), voulez (0.2276), comment (0.1570), donc (0.1520), devenir (0.1323), quoi (0.1283), tétera (0.1229), stable (0.1229), questionne (0.1229), demeurerai (0.1229)</skos:note>
+      <skos:note xml:lang="de">26 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T50">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Feindschaft und Kampf</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): ennemis (0.1296), combattre (0.0662), ennemi (0.0444), armes (0.0416), héros (0.0381), céder (0.0296), innocente (0.0273), malice (0.0269), citais (0.0240), choisisse (0.0240)</skos:note>
+      <skos:note xml:lang="de">25 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T51">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Schwager, Bruder</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): frère (0.2329), beau (0.0435), pénétration (0.0405), aîné (0.0343), efforçait (0.0322), futur (0.0322), embarqué (0.0322), satisfactions (0.0322), bonnes (0.0309), engagerais (0.0289)</skos:note>
+      <skos:note xml:lang="de">25 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T52">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Hof</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): cour (0.1610), bonheur (0.0346), dames (0.0324), defilles (0.0303), décriée (0.0303), pointillait (0.0303), recourait (0.0303), jouerait (0.0303), inviterais (0.0303), errante (0.0303)</skos:note>
+      <skos:note xml:lang="de">25 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T53">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Anfang und erste Erfahrungen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): première (0.1361), début (0.1203), premier (0.1180), abord (0.0653), fois (0.0625), levai (0.0624), logerais (0.0507), repartirent (0.0507), éprouverait (0.0507), intéressées (0.0507)</skos:note>
+      <skos:note xml:lang="de">25 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T54">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Familie</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): famille (0.1163), sœurs (0.0484), toute (0.0416), père (0.0413), parentes (0.0390), chacun (0.0373), alarmée (0.0353), honneurs (0.0317), charmée (0.0294), marques (0.0290)</skos:note>
+      <skos:note xml:lang="de">25 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T55">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Breslau</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): breslau (0.1580), vaisseau (0.0562), carrosse (0.0432), partis (0.0427), bord (0.0365), congé (0.0340), juin (0.0335), electeur (0.0329), pris (0.0282), concerterait (0.0272)</skos:note>
+      <skos:note xml:lang="de">24 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T56">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Zeitangaben</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): matin (0.1595), heures (0.1584), midi (0.0998), partîmes (0.0971), sonna (0.0744), lendemain (0.0703), prise (0.0559), naissance (0.0506), vers (0.0493), heure (0.0483)</skos:note>
+      <skos:note xml:lang="de">24 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T57">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Zum Thema zurückkehren</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): reviens (1.0276), sujet (0.6994), reprends (0.2102), raisonnais (0.1327), recommence (0.1327), nouveau (0.1273), accabla (0.1189), retourne (0.1189), fil (0.1051), avenir (0.0970)</skos:note>
+      <skos:note xml:lang="de">24 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T96"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T58">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Tränen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): larmes (0.1072), yeux (0.0745), pleura (0.0514), pleurait (0.0495), pleurer (0.0417), laisser (0.0413), mise (0.0403), morte (0.0374), trouvai (0.0357), voyant (0.0341)</skos:note>
+      <skos:note xml:lang="de">24 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T11"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T59">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Unklar</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): détours (0.0749), patience (0.0734), fallut (0.0544), conspirait (0.0448), découvertes (0.0448), cachées (0.0448), disputât (0.0448), gîtes (0.0448), essuyèrent (0.0448), raillât (0.0448)</skos:note>
+      <skos:note xml:lang="de">24 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T60">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Schwangerschaft</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): grossesse (0.2606), enceinte (0.1353), avancée (0.1297), bonhomme (0.0330), cessé (0.0330), martyrisée (0.0330), incommodaient (0.0330), cuisinière (0.0330), exemptait (0.0330), affligé (0.0330)</skos:note>
+      <skos:note xml:lang="de">23 Sätze</skos:note>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S9"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T61">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Geist, Vorstellung und Bewertung von Ideen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): idées (0.0875), passion (0.0581), esprit (0.0540), dominante (0.0397), imaginations (0.0377), douces (0.0361), prenais (0.0327), acquérir (0.0319), vouliez (0.0319), imagination (0.0293)</skos:note>
+      <skos:note xml:lang="de">23 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T62">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Arzt und Heilmittel</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): médecin (0.2734), maladie (0.0734), spirituel (0.0705), opposa (0.0549), remèdes (0.0530), remède (0.0499), suttner (0.0445), remmener (0.0445), expédierait (0.0445), durée (0.0445)</skos:note>
+      <skos:note xml:lang="de">23 Sätze</skos:note>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S8"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T63">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Bett</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): lit (0.2166), porte (0.0870), chambre (0.0857), couchait (0.0715), devant (0.0575), filles (0.0527), barricader (0.0428), draps (0.0428), emportèrent (0.0428), entrerait (0.0428)</skos:note>
+      <skos:note xml:lang="de">23 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T98"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T102"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T64">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Winter, Kälte</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): neige (0.1224), hiver (0.1146), froid (0.0735), froidement (0.0411), campagne (0.0363), effectivement (0.0355), brahem (0.0346), douteépris (0.0346), heiducs (0.0346), fourmillais (0.0346)</skos:note>
+      <skos:note xml:lang="de">22 Sätze</skos:note>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S3"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T65">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Mädchen, Tochter</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): fille (0.1403), tendresse (0.0606), dent (0.0425), désespérait (0.0425), scandalisât (0.0425), sonnai (0.0425), soupçonna (0.0425), souffrit (0.0425), enracinerait (0.0425), impatientaient (0.0425)</skos:note>
+      <skos:note xml:lang="de">21 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T66">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Unklar</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): non (0.0535), déconcerter (0.0464), déclamons (0.0464), déclarerez (0.0464), disputons (0.0464), osons (0.0464), prédestination (0.0464), juste (0.0453), veux (0.0445), oh (0.0441)</skos:note>
+      <skos:note xml:lang="de">21 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T67">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Versprechen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): promis (0.3965), promit (0.1635), promettre (0.1196), tiendrai (0.0901), détailler (0.0901), merveilles (0.0840), convenu (0.0796), essuyé (0.0796), sépara (0.0763), proposais (0.0735)</skos:note>
+      <skos:note xml:lang="de">20 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T68">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Gesicht und Spiegelbild</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): fixèrent (0.0853), vue (0.0750), miroir (0.0746), yeux (0.0642), aveugle (0.0641), semblait (0.0557), visage (0.0531), œil (0.0525), dépensais (0.0511), oblige (0.0511)</skos:note>
+      <skos:note xml:lang="de">20 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T69">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Katholizismus</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): catholique (0.0872), catholiques (0.0357), communion (0.0291), inutile (0.0267), plupart (0.0258), non (0.0250), pays (0.0247), religion (0.0231), demandé (0.0221), communierais (0.0217)</skos:note>
+      <skos:note xml:lang="de">20 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T7"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S7"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T70">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Protestantismus, Luther</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): luthérien (0.1494), protestant (0.1130), protestants (0.0856), luther (0.0505), règne (0.0484), luthériens (0.0439), mirent (0.0409), tel (0.0353), zèle (0.0339), honnête (0.0328)</skos:note>
+      <skos:note xml:lang="de">20 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T20"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S7"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T71">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Exklamationen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): ho (1.1149), ah (0.9354), hé (0.8177), disais (0.1091), souvent (0.0900)</skos:note>
+      <skos:note xml:lang="de">19 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T30"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T72">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Religion, Veränderung</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): religion (0.0798), voulu (0.0346), ignorer (0.0280), réformé (0.0251), salut (0.0215), alarmât (0.0214), fous (0.0214), haïs (0.0214), informés (0.0214), haïrait (0.0214)</skos:note>
+      <skos:note xml:lang="de">19 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T20"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T73">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Tisch, Nahrungsmittel</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): table (0.1552), partîmes (0.1227), dorure (0.1125), desservi (0.1125), buste (0.1125), indubitablement (0.1125), retirés (0.1125), arrêtâmes (0.0939), fouet (0.0939), carême (0.0939)</skos:note>
+      <skos:note xml:lang="de">18 Sätze</skos:note>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S1"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T74">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Pater Brean</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): reverend (0.2450), père (0.1677), jésuite (0.0661), usa (0.0527), angéliques (0.0527), consulté (0.0472), presqu (0.0472), contester (0.0440), informerait (0.0440), ravie (0.0417)</skos:note>
+      <skos:note xml:lang="de">18 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T75">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Vater, Gehorsam</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): père (0.1520), confessai (0.0855), obéissais (0.0478), prétendis (0.0478), essuyait (0.0428), obligeaient (0.0428), rompait (0.0428), tranquillisa (0.0428), soucier (0.0428), répliquant (0.0399)</skos:note>
+      <skos:note xml:lang="de">18 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T76">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Fiskalische und administrative Verfahren</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): fiscal (0.3963), commission (0.0824), chargea (0.0822), question (0.0648), attendant (0.0572), procédure (0.0562), voyagerai (0.0562), midi (0.0504), complète (0.0504), recommença (0.0504)</skos:note>
+      <skos:note xml:lang="de">18 Sätze</skos:note>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S10"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T77">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Zeitangaben (Tage, Monate)</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): samedi (0.1530), septembre (0.1361), fixé (0.1021), dimanche (0.0892), 26 (0.0841), mercredi (0.0841), foire (0.0776), vendredi (0.0680), décembre (0.0654), avril (0.0642)</skos:note>
+      <skos:note xml:lang="de">18 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T78">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Schöne Städte, Orte und Gebäude</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): ville (0.1562), environs (0.1359), beauté (0.0840), château (0.0829), charmant (0.0649), mouvement (0.0613), italienne (0.0507), étonnèrent (0.0507), traversâmes (0.0507), villageois (0.0507)</skos:note>
+      <skos:note xml:lang="de">17 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T79">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Erzählstrukturen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): article (0.2476), narration (0.1280), particularités (0.0817), cet (0.0705), articles (0.0702), conseillent (0.0609), cite (0.0609), répéterai (0.0609), pardonnera (0.0609), bête (0.0609)</skos:note>
+      <skos:note xml:lang="de">16 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T96"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T80">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Erreichen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): obtint (0.3150), accomplît (0.2289), voitura (0.2289), étendit (0.2050), négligea (0.2050), fidèlement (0.1736), exécuta (0.1736), vint (0.1654), rebuta (0.1620), contenta (0.1620)</skos:note>
+      <skos:note xml:lang="de">16 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T81">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Geld</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): écus (0.1413), cent (0.1266), soixante (0.0964), coûta (0.0934), dépense (0.0907), mille (0.0656), dix (0.0605), florins (0.0589), cents (0.0563), reste (0.0558)</skos:note>
+      <skos:note xml:lang="de">16 Sätze</skos:note>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S10"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T82">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Frauenbild und gesellschaftliche Erwartung</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): femmes (0.2272), spectacle (0.0852), fausse (0.0634), arrive (0.0634), dévotes (0.0461), réconcilie (0.0461), éteindraient (0.0461), ragoûter (0.0461), modestes (0.0461), mourraient (0.0461)</skos:note>
+      <skos:note xml:lang="de">16 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T83">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Pater Kraus, Königsberg und Ermland</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): père (0.0893), reverend (0.0775), warmie (0.0505), supérieure (0.0480), königsberg (0.0456), religieuses (0.0411), évêque (0.0381), cher (0.0371), parlée (0.0367), aimées (0.0367)</skos:note>
+      <skos:note xml:lang="de">15 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T84">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Wasser, Meer, Fluss</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): eau (0.1338), mer (0.1071), bord (0.0890), profond (0.0850), rapide (0.0793), étang (0.0739), rivière (0.0701), montagne (0.0701), menton (0.0442), otzée (0.0442)</skos:note>
+      <skos:note xml:lang="de">15 Sätze</skos:note>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S3"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T85">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Eitelkeit und Ehrgeiz</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): vanité (0.2463), ambition (0.1257), emparèrent (0.0669), ajustement (0.0641), naturel (0.0503), approbation (0.0503), voulût (0.0487), pourvu (0.0444), esprits (0.0435), domina (0.0423)</skos:note>
+      <skos:note xml:lang="de">15 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T86">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Gottesmutter, Gelübde</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): mère (0.1555), sainte (0.1079), vœux (0.0641), dieu (0.0550), brigitte (0.0511), devons (0.0511), honore (0.0511), paresse (0.0511), rejeté (0.0511), épargnez (0.0511)</skos:note>
+      <skos:note xml:lang="de">15 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T87">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Baron Danckelmann</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): monsieur (0.1479), messieurs (0.0556), baron (0.0556), jardin (0.0526), entretenus (0.0442), déterra (0.0442), peitz (0.0442), mèreou (0.0442), metternichvoulait (0.0442), inouïe (0.0442)</skos:note>
+      <skos:note xml:lang="de">15 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T88">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Beten und Bitten</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): prières (0.0823), priai (0.0753), prié (0.0689), oublier (0.0679), prier (0.0633), repria (0.0598), sacrifices (0.0598), moribonde (0.0598), saurai (0.0598), songeasse (0.0598)</skos:note>
+      <skos:note xml:lang="de">14 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T89">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Exklamationen und Anderes</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): hélas (1.6590), choisissez (0.4425), quoi (0.3080), vanité (0.1983), quelle (0.1846)</skos:note>
+      <skos:note xml:lang="de">14 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T94"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T90">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Kauf von Freihan</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): achat (0.1248), affaire (0.0930), conseils (0.0564), excellence (0.0528), freihanse (0.0458), intéressai (0.0458), accusât (0.0458), renonciez (0.0458), quant (0.0458), rompiez (0.0458)</skos:note>
+      <skos:note xml:lang="de">14 Sätze</skos:note>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S10"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T91">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Gesandtschaft, Kavaliere und Offiziere</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): ambassade (0.1874), chevalier (0.0996), cavalier (0.0895), nombre (0.0793), secrétaire (0.0703), sonnant (0.0699), bussy (0.0699), quesnel (0.0699), fameusebataille (0.0699), offices (0.0699)</skos:note>
+      <skos:note xml:lang="de">14 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T92">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Direkte Rede: Schweigen und Verschweigen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): ignorer (0.1534), effaceront (0.0781), repos (0.0705), promenais (0.0699), trouvez (0.0652), plaisanteries (0.0652), troubler (0.0618), conter (0.0618), entretenait (0.0592), nuire (0.0571)</skos:note>
+      <skos:note xml:lang="de">14 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T93">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Religion</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): religieuse (0.0903), religion (0.0514), avoué (0.0505), moindre (0.0477), osait (0.0467), ouvrir (0.0445), prié (0.0445), avoua (0.0438), contre (0.0392), fermai (0.0386)</skos:note>
+      <skos:note xml:lang="de">13 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T20"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T94">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Exklamation</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): oh (3.1532)</skos:note>
+      <skos:note xml:lang="de">13 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T30"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T89"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T95">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Ehemann</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): époux (0.0884), mari (0.0795), enveloppa (0.0632), plairaient (0.0632), couvertes (0.0632), demeurerait (0.0632), mariépoux (0.0632), relevée (0.0566), pelisses (0.0566), paraissant (0.0566)</skos:note>
+      <skos:note xml:lang="de">13 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T6"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T96">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Zurückkehren zur Narration</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): reviens (1.0359), narration (0.7878), récit (0.3247), histoire (0.2999), catéchismes (0.1918), reprends (0.1695), démêler (0.1565), ancienne (0.1436), gros (0.1402), soupirant (0.1199)</skos:note>
+      <skos:note xml:lang="de">13 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T57"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T79"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T97">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Wesel, Reisen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): wesel (0.2999), père (0.1130), retournâmes (0.0802), allâmes (0.0657), parents (0.0650), chers (0.0619), arrivâmes (0.0593), retour (0.0504), frêle (0.0472), sonsfeld (0.0467)</skos:note>
+      <skos:note xml:lang="de">13 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T10"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T34"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S2"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T98">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Zimmer</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): chambre (0.1140), cabinets (0.0908), destiné (0.0802), filles (0.0624), trois (0.0534), chambres (0.0521), bassin (0.0507), pauvreenfant (0.0507), sales (0.0507), mettaismes (0.0507)</skos:note>
+      <skos:note xml:lang="de">12 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T14"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T63"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T102"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T99">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Trost</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): consolation (0.3459), consolait (0.2316), quelle (0.1597), réciproques (0.1276), brouillée (0.1143), secte (0.1143), refuge (0.1066), consolai (0.1066), exaucée (0.1011), murailles (0.1011)</skos:note>
+      <skos:note xml:lang="de">12 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T100">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Kopf, Migräne</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): migraine (0.2056), tête (0.1654), désordre (0.0796), terrible (0.0704), terribles (0.0606), ardents (0.0562), aplomb (0.0562), lèverais (0.0562), migraines (0.0562), frisait (0.0562)</skos:note>
+      <skos:note xml:lang="de">12 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T40"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S8"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T101">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Daniel</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): daniel (0.2717), eloignez (0.0511), cetave (0.0511), enlevée (0.0511), wichau (0.0511), prononçât (0.0511), marmite (0.0511), ménagé (0.0457), inopinée (0.0457), convins (0.0457)</skos:note>
+      <skos:note xml:lang="de">12 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T102">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Fenster, Türen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): porte (0.1499), ouvrit (0.0870), portes (0.0870), ouvrir (0.0708), fenêtre (0.0688), abordée (0.0615), enfoncées (0.0615), fermât (0.0615), serrures (0.0615), arrière (0.0615)</skos:note>
+      <skos:note xml:lang="de">12 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T63"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T98"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T103">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Stärke und Verletzlichkeit</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): aguerrir (0.1229), décontenançais (0.1229), félicitai (0.1229), logeai (0.1101), manquais (0.1101), fatiguait (0.1101), inquiétais (0.1026), fer (0.0932), degré (0.0932), carrière (0.0932)</skos:note>
+      <skos:note xml:lang="de">12 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T104">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Sohn</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): fils (0.1169), eau (0.0787), touché (0.0684), exaucâtes (0.0651), brisaient (0.0583), ingénument (0.0543), vagues (0.0543), extrêmement (0.0538), lyndemier (0.0515), hauts (0.0515)</skos:note>
+      <skos:note xml:lang="de">11 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T105">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Innere Zerrissenheit</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): colère (0.1213), souffrais (0.0936), amère (0.0800), enchaîné (0.0800), affecté (0.0800), insensé (0.0800), odieux (0.0800), ressemblais (0.0800), prétexta (0.0716), choqua (0.0716)</skos:note>
+      <skos:note xml:lang="de">11 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T106">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Gerüchte</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): bruit (0.4319), courait (0.1518), partout (0.1273), contestaient (0.0909), éclaircir (0.0909), façons (0.0909), assises (0.0909), fondement (0.0814), donnasse (0.0814), sourds (0.0814)</skos:note>
+      <skos:note xml:lang="de">11 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T107">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Königsberg, Reisen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): königsberg (0.3275), arrivant (0.0851), convenances (0.0790), kruk (0.0790), neuvième (0.0790), kitter (0.0790), retentit (0.0790), rapportent (0.0790), varcie (0.0790), feuille (0.0790)</skos:note>
+      <skos:note xml:lang="de">11 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T34"/>
+      <skos:relatedMatch rdf:resource="https://gams.uni-graz.at/o:mgs.subjects#S2"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T108">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Umarmung, Kuss</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): embrasser (0.4861), baiser (0.2426), embrassa (0.1752), courus (0.1256), calmait (0.1106), serrant (0.1106), remerciant (0.0991), rétablit (0.0991), baisant (0.0876), tendresses (0.0876)</skos:note>
+      <skos:note xml:lang="de">11 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T109">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Necken und Sticheleien („faire la guerre“)</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): guerre (0.5863), spirituelles (0.1037), empoisonner (0.1037), informée (0.0929), soumises (0.0929), déclariez (0.0929), trouvions (0.0929), enjouement (0.0929), disputer (0.0866), mérité (0.0821)</skos:note>
+      <skos:note xml:lang="de">11 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T110">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Gesandter von Polen</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): pologne (0.3147), envoyé (0.1157), concerneraient (0.0729), clauses (0.0729), sortent (0.0729), préjudice (0.0729), sauront (0.0729), ouvertes (0.0653), mander (0.0653), parlions (0.0653)</skos:note>
+      <skos:note xml:lang="de">10 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T111">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Angst</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): peur (0.1725), osais (0.1177), craignais (0.1163), observait (0.1106), courait (0.0924), inconstant (0.0924), enfuir (0.0924), alarmer (0.0876), inquiet (0.0839), craignit (0.0809)</skos:note>
+      <skos:note xml:lang="de">10 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T112">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Abschied und Rückzug</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): quittai (0.1672), rétabli (0.1276), sortis (0.1247), quitter (0.1235), assoupir (0.1143), commencait (0.1143), renfermai (0.1143), sollicita (0.1066), congé (0.1065), partais (0.0968)</skos:note>
+      <skos:note xml:lang="de">10 Sätze</skos:note>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T113">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Abreise</skos:prefLabel>
+      <skos:note xml:lang="de">Repräsentative Terme (c-TF-IDF): pars (0.2389), partirai (0.2389), arrive (0.2076), fêtes (0.1518), longtemps (0.1370), abandonnerai (0.1351), ira (0.1351), avant (0.1350), quitterai (0.1259), durer (0.1259)</skos:note>
+      <skos:note xml:lang="de">10 Sätze</skos:note>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T39"/>
+      <skos:related rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T42"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://gams.uni-graz.at/o:mgs.topics#T-1">
+      <skos:inScheme rdf:resource="https://gams.uni-graz.at/o:mgs.topics"/>
+      <skos:prefLabel xml:lang="de">Ausreißer (kein Topic zugewiesen)</skos:prefLabel>
+   </skos:Concept>
+   <skos:Collection rdf:about="https://gams.uni-graz.at/o:mgs.topics#highlighted">
+      <skos:prefLabel xml:lang="de">In der Edition hervorgehobene Topics</skos:prefLabel>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T1"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T2"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T4"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T7"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T8"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T9"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T10"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T11"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T12"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T13"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T14"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T15"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T17"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T20"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T25"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T26"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T28"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T30"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T31"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T34"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T37"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T38"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T39"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T40"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T42"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T50"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T52"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T56"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T57"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T58"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T60"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T61"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T62"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T63"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T64"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T70"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T71"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T79"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T81"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T84"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T85"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T91"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T96"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T97"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T98"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T99"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T100"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T106"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T108"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T109"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T111"/>
+      <skos:member rdf:resource="https://gams.uni-graz.at/o:mgs.topics#T113"/>
+   </skos:Collection>
+</rdf:RDF>
