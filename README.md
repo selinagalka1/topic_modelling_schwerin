@@ -15,7 +15,7 @@ Selina Galka / Ines Peper / Michael Pölzl / Chiara Petrolini / Georg Vogeler / 
         │
 02_bertopic        plain text → sentences → BERTopic model → topics per sentence
         │
-03_topic_labels    editorial labels, display decision, related topics and subject headings
+03_topic_labels    editorial labels, assessment, related topics and subject headings
         │
 04_topics_to_tei   topics → <s> + stand-off <span> in TEI, topic taxonomy in TEI
 
@@ -61,11 +61,9 @@ Steps 01–04 build on each other; 05 and 06 are supplementary.
 04_topics_to_tei/
 ├── wrap_sentences.py
 ├── build_topics_taxonomy.py
-├── build_topics_skos.py
 └── output/
     ├── tei_with_topics_2026-09-27_standoff.xml
-    ├── topics.xml
-    └── topics_skos.xml
+    └── topics.xml
 
 05_model_comparison/
 ├── Topic_modelling_mpnet.ipynb
@@ -113,26 +111,25 @@ The notebook was run in Google Colab (Python 3.13, T4 GPU). Package versions are
 
 ## 03 Topic labels
 
-`topic_info_with_weights_output_schwerin_final_2026-09-27_labelled.json` is the BERTopic topic info (`02_bertopic/output/topic_info_with_weights_…json`) with the editors' curation added. Every topic was given a German label by Selina Galka on the basis of its ten most relevant terms and up to 50 of its most probable sentences. The labels were then reviewed together with Ines Peper and Michael Pölzl. The three of them also decided whether a topic should be highlighted in the edition, linked topics that are similar or related in content to each other and to related subject headings of the edition ([`o:mgs.subjects`](https://gams.uni-graz.at/o:mgs.subjects/ONTOLOGY) on GAMS).
-
+`topic_info_with_weights_output_schwerin_final_2026-09-27_labelled.json` is the BERTopic topic info (`02_bertopic/output/topic_info_with_weights_…json`) with the editors' curation added. Every topic was given a German label by Selina Galka on the basis of its ten most relevant terms and up to 50 of its most probable sentences. The labels were then reviewed together with Ines Peper and Michael Pölzl. The three of them also assessed whether a topic is meaningful, i.e. whether its sentences share a clearly nameable theme (`Display`: `yes`), or of limited use because it is unclear, its terms are very general, or it is tied to single persons or episodes and hardly understandable without further explanation (`no`); the edition highlights the meaningful topics. They also linked topics that are similar or related in content to each other and to related subject headings of the edition ([`o:mgs.subjects`](https://gams.uni-graz.at/o:mgs.subjects/ONTOLOGY) on GAMS).
 
 ## 04 Topics in TEI
 
 ```
 python wrap_sentences.py         # output/tei_with_topics_2026-09-27_standoff.xml
 python build_topics_taxonomy.py  # output/topics.xml
-python build_topics_skos.py      # output/topics_skos.xml
 ```
 
 - **`tei_with_topics_2026-09-27_standoff.xml`**: `lesefassung_nlp_resolved.xml` with every sentence in `<s xml:id="sN">` and the topic of each sentence as a stand-off `<span>`.
-- **`topics.xml`**: the curated topics as a TEI taxonomy (`o:mgs.topics`): label, top terms with weights, sentence count, highlighting, related topics and subject headings. `@resp` distinguishes the labels (`#labelling`), the joint editorial decisions (`#editors`) and the model output (`#bertopic_2026-09-27`).
-- **`topics_skos.xml`**: the same topics as a SKOS concept scheme with the same URIs.
+- **`topics.xml`**: the curated topics as a TEI taxonomy (`o:mgs.topics`): label, top terms with weights, sentence count, editorial assessment (`<desc type="assessment">` with `@subtype` `meaningful` or `limited`), related topics and subject headings. `@resp` distinguishes the labels (`#labelling`), the joint editorial decisions (`#editors`) and the model output (`#bertopic_2026-09-27`).
 
 The data model is described in section 4.4 of the article.
 
 ## 05 Model comparison
 
 This folder contains the data of the comparison runs with other embedding models (`paraphrase-multilingual-mpnet-base-v2`, `Lajavaness/sentence-camembert-large`; `output/embedding_models/`) and other values of `min_cluster_size` (5, 15, 20; `output/min_cluster_size/`). Everything else is the same as in the final model. Each run has its topic info and topic per sentence in the format of `02_bertopic`. The embedding runs were produced with the two notebooks in this folder, the `min_cluster_size` runs with the notebook in `02_bertopic`. Models and embeddings are not published, and the runs are not curated.
+
+`Topic_modelling_paragraphs.ipynb` runs the final model on the 678 paragraphs instead of the sentences (otherwise identical; output in `output/paragraphs/`). The paragraphs are mostly longer than the 128 word pieces the embedding model reads, so the notebook reports how many are truncated and offers two strategies: truncation (default, as in a plain BERTopic run) or the mean of the sentence embeddings of each paragraph.
 
 ## 06 Edition survey
 

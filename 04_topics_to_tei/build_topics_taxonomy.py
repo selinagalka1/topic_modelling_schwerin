@@ -35,10 +35,17 @@ SUBJECT_URI = "https://gams.uni-graz.at/o:mgs.subjects#"
 
 RUN_ID = "bertopic_2026-09-27"
 RUN_DATE = "2026-09-27"
-DISPLAY_SUBTYPE = {"yes": "highlighted", "no": "greyedOut"}
-DISPLAY_TEXT = {
-    "yes": "Dieses Topic ist besonders aussagekräftig und wird in der Edition hervorgehoben.",
-    "no": "Dieses Topic wird in der Edition nicht hervorgehoben, weil es unklar ist oder weiterer Erläuterung bedarf.",
+# Editorial assessment of a topic ("Display" in the labelled topic info):
+# "meaningful" if its sentences share a clearly nameable theme, "limited" if
+# it is unclear, its terms are very general, or it is tied to single persons
+# or episodes and hardly understandable without further explanation. The
+# edition highlights the meaningful topics in its interface.
+ASSESSMENT_SUBTYPE = {"yes": "meaningful", "no": "limited"}
+ASSESSMENT_TEXT = {
+    "yes": "Die Sätze dieses Topics teilen ein klar benennbares Thema.",
+    "no": "Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, "
+          "oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung "
+          "kaum verständlich.",
 }
 
 
@@ -69,8 +76,8 @@ def build_category(t, labels, subject_labels):
             for w in terms[:10])
         lines.append(f'         <desc type="representation" resp="#{RUN_ID}">{term_str}</desc>')
     lines.append(f'         <desc type="scope" resp="#{RUN_ID}"><num value="{count}">{count}</num> Sätze</desc>')
-    lines.append(f'         <desc type="display" subtype="{DISPLAY_SUBTYPE[display]}" resp="#editors">'
-                 f'{esc(DISPLAY_TEXT[display])}</desc>')
+    lines.append(f'         <desc type="assessment" subtype="{ASSESSMENT_SUBTYPE[display]}" resp="#editors">'
+                 f'{esc(ASSESSMENT_TEXT[display])}</desc>')
     similar = t.get("Similar_topics") or []
     if similar:
         refs = ", ".join(f'<ref target="#T{sid}">{esc(labels[sid])}</ref>' for sid in similar)
@@ -157,8 +164,9 @@ def main():
          <sourceDesc>
             <p>Automatisch generierte Topics (BERTopic) der Lesefassung der digitalen Edition;
                {len(real_topics)} Topics, davon {n_labelled} redaktionell benannt und {n_provisional} vorl&#228;ufig (Repr&#228;sentationsw&#246;rter
-               als Label). {n_display} Topics werden in der Edition hervorgehoben, die übrigen nicht
-               (siehe &lt;desc type="display"&gt;, @subtype).</p>
+               als Label). {n_display} Topics sind redaktionell als aussagekr&#228;ftig eingesch&#228;tzt und werden
+               in der Edition hervorgehoben (siehe &lt;desc type="assessment"&gt;, @subtype
+               "meaningful" bzw. "limited").</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -183,8 +191,7 @@ def main():
                   und Parameter: <ref target="#{RUN_ID}">application {RUN_ID}</ref>):
                   {len(real_topics)} Topics f&#252;r 10.039 S&#228;tze, davon 4.034 ohne Topic (Kategorie T-1).
                   Terme, Gewichte und Satzzahlen stammen aus dem Modell, Bezeichnungen,
-                  Anzeigeentscheidung und Verkn&#252;pfungen von den Herausgeber*innen. Dieselben Topics
-                  als SKOS: topics_skos.xml.</desc>
+                  Einsch&#228;tzung der Aussagekraft und Verkn&#252;pfungen von den Herausgeber*innen.</desc>
 {chr(10).join(categories)}
             </taxonomy>
          </classDecl>
@@ -201,7 +208,7 @@ def main():
     OUT_PATH.parent.mkdir(exist_ok=True)
     OUT_PATH.write_text(out, encoding="utf-8")
     print(f"categories written: {len(real_topics) + 1} ({len(real_topics)} topics + T-1)")
-    print(f"labelled: {n_labelled}, provisional: {n_provisional}, display=yes: {n_display}")
+    print(f"labelled: {n_labelled}, provisional: {n_provisional}, meaningful: {n_display}")
     print(f"output: {OUT_PATH} ({len(out):,} chars)")
 
 
