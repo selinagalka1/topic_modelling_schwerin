@@ -118,14 +118,14 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.0741">mari</term> <term n="0.0647">époux</term> <term n="0.0185">mariage</term> <term n="0.0155">maris</term> <term n="0.0155">femme</term> <term n="0.0118">contre</term> <term n="0.0107">monsieur</term> <term n="0.0105">présent</term> <term n="0.0098">côté</term> <term n="0.0094">fort</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="140">140</num> Sätze</desc>
          <desc type="assessment" subtype="limited" resp="#editors">Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung kaum verständlich.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T95">Ehemann</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T95">Ehemann</ref></desc>
       </category>
       <category xml:id="T7">
          <gloss resp="#labelling">Konfession</gloss>
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1264">catholique</term> <term n="0.0695">catholiques</term> <term n="0.0204">religion</term> <term n="0.0143">réformés</term> <term n="0.0122">catholicité</term> <term n="0.0121">oui</term> <term n="0.0113">foi</term> <term n="0.0111">gens</term> <term n="0.0106">permis</term> <term n="0.0102">réformée</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="123">123</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T69">Katholizismus</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T69">Katholizismus</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S7">theologische Sachverhalte</ref></desc>
       </category>
       <category xml:id="T8">
@@ -146,7 +146,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1282">berlin</term> <term n="0.0169">père</term> <term n="0.0162">retournâmes</term> <term n="0.0149">huit</term> <term n="0.0143">retour</term> <term n="0.0141">trouverais</term> <term n="0.0128">allemagne</term> <term n="0.0126">retourner</term> <term n="0.0118">campagne</term> <term n="0.0110">bientôt</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="117">117</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T34">Reisedestinationen</ref>, <ref target="#T97">Wesel, Reisen</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T34">Reisedestinationen</ref>, <ref target="#T97">Wesel, Reisen</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S2">Reisen</ref></desc>
       </category>
       <category xml:id="T11">
@@ -154,14 +154,14 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1907">larmes</term> <term n="0.0418">yeux</term> <term n="0.0304">fondant</term> <term n="0.0276">vinrent</term> <term n="0.0272">retenir</term> <term n="0.0263">répandis</term> <term n="0.0256">pleurer</term> <term n="0.0213">pouvais</term> <term n="0.0189">fondis</term> <term n="0.0182">verser</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="103">103</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T58">Tränen</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T58">Tränen</ref></desc>
       </category>
       <category xml:id="T12">
          <gloss resp="#labelling">Schmerz, Leid und Verzweiflung</gloss>
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.0546">douleurs</term> <term n="0.0348">souffris</term> <term n="0.0274">morte</term> <term n="0.0256">chagrin</term> <term n="0.0249">martyre</term> <term n="0.0185">désespoir</term> <term n="0.0185">savez</term> <term n="0.0182">espèce</term> <term n="0.0168">extrême</term> <term n="0.0165">commencèrent</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="95">95</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T24">Zweifel, Verzweiflung und Unmöglichkeit</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T24">Zweifel, Verzweiflung und Unmöglichkeit</ref></desc>
       </category>
       <category xml:id="T13">
          <gloss resp="#labelling">Kommunikation von Gefühlen</gloss>
@@ -174,7 +174,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.0976">maison</term> <term n="0.0457">chambre</term> <term n="0.0313">chambres</term> <term n="0.0302">salle</term> <term n="0.0228">mena</term> <term n="0.0179">trouvai</term> <term n="0.0164">chaise</term> <term n="0.0154">inventaires</term> <term n="0.0150">loger</term> <term n="0.0148">bas</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="84">84</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T98">Zimmer</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T98">Zimmer</ref></desc>
       </category>
       <category xml:id="T15">
          <gloss resp="#labelling">Essen</gloss>
@@ -212,7 +212,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1556">religion</term> <term n="0.0704">changement</term> <term n="0.0380">religieuse</term> <term n="0.0220">sainte</term> <term n="0.0201">voilà</term> <term n="0.0184">galerie</term> <term n="0.0176">trouvé</term> <term n="0.0174">tentations</term> <term n="0.0169">cacher</term> <term n="0.0160">voudrait</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="58">58</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T70">Protestantismus, Luther</ref>, <ref target="#T72">Religion, Veränderung</ref>, <ref target="#T93">Religion</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T70">Protestantismus, Luther</ref>, <ref target="#T72">Religion, Veränderung</ref>, <ref target="#T93">Religion</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S7">theologische Sachverhalte</ref></desc>
       </category>
       <category xml:id="T21">
@@ -238,7 +238,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.0564">impossible</term> <term n="0.0542">pouvais</term> <term n="0.0391">dépeindre</term> <term n="0.0353">discerner</term> <term n="0.0335">éperdue</term> <term n="0.0292">sentiments</term> <term n="0.0260">retirai</term> <term n="0.0256">mouvement</term> <term n="0.0240">pénétrer</term> <term n="0.0238">trouvais</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="45">45</num> Sätze</desc>
          <desc type="assessment" subtype="limited" resp="#editors">Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung kaum verständlich.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T12">Schmerz, Leid und Verzweiflung</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T12">Schmerz, Leid und Verzweiflung</ref></desc>
       </category>
       <category xml:id="T25">
          <gloss resp="#labelling">Erkenntnis und Irrtum (Wissen)</gloss>
@@ -275,7 +275,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="2.5063">ah</term> <term n="0.1421">ha</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="39">39</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T71">Exklamationen</ref>, <ref target="#T94">Exklamation</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T71">Exklamationen</ref>, <ref target="#T94">Exklamation</ref></desc>
       </category>
       <category xml:id="T31">
          <gloss resp="#labelling">Briefe, Schreiben</gloss>
@@ -300,7 +300,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1211">berlin</term> <term n="0.0455">neuf</term> <term n="0.0337">prusse</term> <term n="0.0333">lieues</term> <term n="0.0304">terre</term> <term n="0.0246">walsleben</term> <term n="0.0241">passé</term> <term n="0.0233">belle</term> <term n="0.0223">février</term> <term n="0.0222">arrivâmes</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="38">38</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T10">Berlin und Rückkehr</ref>, <ref target="#T42">Reisen und Bleiben</ref>, <ref target="#T97">Wesel, Reisen</ref>, <ref target="#T107">Königsberg, Reisen</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T10">Berlin und Rückkehr</ref>, <ref target="#T42">Reisen und Bleiben</ref>, <ref target="#T97">Wesel, Reisen</ref>, <ref target="#T107">Königsberg, Reisen</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S2">Reisen</ref></desc>
       </category>
       <category xml:id="T35">
@@ -332,7 +332,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1773">chevaux</term> <term n="0.0572">partis</term> <term n="0.0506">carrosse</term> <term n="0.0502">postes</term> <term n="0.0433">chariots</term> <term n="0.0402">poste</term> <term n="0.0400">soldats</term> <term n="0.0343">voulurent</term> <term n="0.0327">désatteler</term> <term n="0.0304">bride</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="33">33</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T42">Reisen und Bleiben</ref>, <ref target="#T113">Abreise</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T42">Reisen und Bleiben</ref>, <ref target="#T113">Abreise</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S2">Reisen</ref></desc>
       </category>
       <category xml:id="T40">
@@ -340,7 +340,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.2578">fièvre</term> <term n="0.0574">médecin</term> <term n="0.0534">prit</term> <term n="0.0437">dangereuse</term> <term n="0.0374">malade</term> <term n="0.0359">jaunisse</term> <term n="0.0342">violence</term> <term n="0.0335">accablement</term> <term n="0.0335">oppression</term> <term n="0.0335">poitrine</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="31">31</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T100">Kopf, Migräne</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T100">Kopf, Migräne</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S8">Krankheit und Medizin</ref></desc>
       </category>
       <category xml:id="T41">
@@ -354,7 +354,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1113">cabaret</term> <term n="0.0990">nuit</term> <term n="0.0940">passâmes</term> <term n="0.0596">jours</term> <term n="0.0492">heures</term> <term n="0.0490">quelques</term> <term n="0.0470">minuit</term> <term n="0.0470">restâmes</term> <term n="0.0439">dura</term> <term n="0.0395">tranquillement</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="29">29</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T34">Reisedestinationen</ref>, <ref target="#T39">Reisen und Transportmittel</ref>, <ref target="#T113">Abreise</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T34">Reisedestinationen</ref>, <ref target="#T39">Reisen und Transportmittel</ref>, <ref target="#T113">Abreise</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S2">Reisen</ref></desc>
       </category>
       <category xml:id="T43">
@@ -446,14 +446,14 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="1.0276">reviens</term> <term n="0.6994">sujet</term> <term n="0.2102">reprends</term> <term n="0.1327">raisonnais</term> <term n="0.1327">recommence</term> <term n="0.1273">nouveau</term> <term n="0.1189">accabla</term> <term n="0.1189">retourne</term> <term n="0.1051">fil</term> <term n="0.0970">avenir</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="24">24</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T96">Zurückkehren zur Narration</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T96">Zurückkehren zur Narration</ref></desc>
       </category>
       <category xml:id="T58">
          <gloss resp="#labelling">Tränen</gloss>
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1072">larmes</term> <term n="0.0745">yeux</term> <term n="0.0514">pleura</term> <term n="0.0495">pleurait</term> <term n="0.0417">pleurer</term> <term n="0.0413">laisser</term> <term n="0.0403">mise</term> <term n="0.0374">morte</term> <term n="0.0357">trouvai</term> <term n="0.0341">voyant</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="24">24</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T11">Tränen</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T11">Tränen</ref></desc>
       </category>
       <category xml:id="T59">
          <gloss resp="#labelling">Unklar</gloss>
@@ -486,7 +486,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.2166">lit</term> <term n="0.0870">porte</term> <term n="0.0857">chambre</term> <term n="0.0715">couchait</term> <term n="0.0575">devant</term> <term n="0.0527">filles</term> <term n="0.0428">barricader</term> <term n="0.0428">draps</term> <term n="0.0428">emportèrent</term> <term n="0.0428">entrerait</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="23">23</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T98">Zimmer</ref>, <ref target="#T102">Fenster, Türen</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T98">Zimmer</ref>, <ref target="#T102">Fenster, Türen</ref></desc>
       </category>
       <category xml:id="T64">
          <gloss resp="#labelling">Winter, Kälte</gloss>
@@ -524,7 +524,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.0872">catholique</term> <term n="0.0357">catholiques</term> <term n="0.0291">communion</term> <term n="0.0267">inutile</term> <term n="0.0258">plupart</term> <term n="0.0250">non</term> <term n="0.0247">pays</term> <term n="0.0231">religion</term> <term n="0.0221">demandé</term> <term n="0.0217">communierais</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="20">20</num> Sätze</desc>
          <desc type="assessment" subtype="limited" resp="#editors">Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung kaum verständlich.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T7">Konfession</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T7">Konfession</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S7">theologische Sachverhalte</ref></desc>
       </category>
       <category xml:id="T70">
@@ -532,7 +532,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1494">luthérien</term> <term n="0.1130">protestant</term> <term n="0.0856">protestants</term> <term n="0.0505">luther</term> <term n="0.0484">règne</term> <term n="0.0439">luthériens</term> <term n="0.0409">mirent</term> <term n="0.0353">tel</term> <term n="0.0339">zèle</term> <term n="0.0328">honnête</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="20">20</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T20">Religion, Konversion</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T20">Religion, Konversion</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S7">theologische Sachverhalte</ref></desc>
       </category>
       <category xml:id="T71">
@@ -540,14 +540,14 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="1.1149">ho</term> <term n="0.9354">ah</term> <term n="0.8177">hé</term> <term n="0.1091">disais</term> <term n="0.0900">souvent</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="19">19</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T30">Exklamationen</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T30">Exklamationen</ref></desc>
       </category>
       <category xml:id="T72">
          <gloss resp="#labelling">Religion, Veränderung</gloss>
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.0798">religion</term> <term n="0.0346">voulu</term> <term n="0.0280">ignorer</term> <term n="0.0251">réformé</term> <term n="0.0215">salut</term> <term n="0.0214">alarmât</term> <term n="0.0214">fous</term> <term n="0.0214">haïs</term> <term n="0.0214">informés</term> <term n="0.0214">haïrait</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="19">19</num> Sätze</desc>
          <desc type="assessment" subtype="limited" resp="#editors">Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung kaum verständlich.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T20">Religion, Konversion</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T20">Religion, Konversion</ref></desc>
       </category>
       <category xml:id="T73">
          <gloss resp="#labelling">Tisch, Nahrungsmittel</gloss>
@@ -592,7 +592,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.2476">article</term> <term n="0.1280">narration</term> <term n="0.0817">particularités</term> <term n="0.0705">cet</term> <term n="0.0702">articles</term> <term n="0.0609">conseillent</term> <term n="0.0609">cite</term> <term n="0.0609">répéterai</term> <term n="0.0609">pardonnera</term> <term n="0.0609">bête</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="16">16</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T96">Zurückkehren zur Narration</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T96">Zurückkehren zur Narration</ref></desc>
       </category>
       <category xml:id="T80">
          <gloss resp="#labelling">Erreichen</gloss>
@@ -655,7 +655,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="1.6590">hélas</term> <term n="0.4425">choisissez</term> <term n="0.3080">quoi</term> <term n="0.1983">vanité</term> <term n="0.1846">quelle</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="14">14</num> Sätze</desc>
          <desc type="assessment" subtype="limited" resp="#editors">Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung kaum verständlich.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T94">Exklamation</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T94">Exklamation</ref></desc>
       </category>
       <category xml:id="T90">
          <gloss resp="#labelling">Kauf von Freihan</gloss>
@@ -681,35 +681,35 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.0903">religieuse</term> <term n="0.0514">religion</term> <term n="0.0505">avoué</term> <term n="0.0477">moindre</term> <term n="0.0467">osait</term> <term n="0.0445">ouvrir</term> <term n="0.0445">prié</term> <term n="0.0438">avoua</term> <term n="0.0392">contre</term> <term n="0.0386">fermai</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="13">13</num> Sätze</desc>
          <desc type="assessment" subtype="limited" resp="#editors">Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung kaum verständlich.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T20">Religion, Konversion</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T20">Religion, Konversion</ref></desc>
       </category>
       <category xml:id="T94">
          <gloss resp="#labelling">Exklamation</gloss>
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="3.1532">oh</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="13">13</num> Sätze</desc>
          <desc type="assessment" subtype="limited" resp="#editors">Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung kaum verständlich.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T30">Exklamationen</ref>, <ref target="#T89">Exklamationen und Anderes</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T30">Exklamationen</ref>, <ref target="#T89">Exklamationen und Anderes</ref></desc>
       </category>
       <category xml:id="T95">
          <gloss resp="#labelling">Ehemann</gloss>
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.0884">époux</term> <term n="0.0795">mari</term> <term n="0.0632">enveloppa</term> <term n="0.0632">plairaient</term> <term n="0.0632">couvertes</term> <term n="0.0632">demeurerait</term> <term n="0.0632">mariépoux</term> <term n="0.0566">relevée</term> <term n="0.0566">pelisses</term> <term n="0.0566">paraissant</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="13">13</num> Sätze</desc>
          <desc type="assessment" subtype="limited" resp="#editors">Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung kaum verständlich.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T6">Ehemann, Ehe</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T6">Ehemann, Ehe</ref></desc>
       </category>
       <category xml:id="T96">
          <gloss resp="#labelling">Zurückkehren zur Narration</gloss>
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="1.0359">reviens</term> <term n="0.7878">narration</term> <term n="0.3247">récit</term> <term n="0.2999">histoire</term> <term n="0.1918">catéchismes</term> <term n="0.1695">reprends</term> <term n="0.1565">démêler</term> <term n="0.1436">ancienne</term> <term n="0.1402">gros</term> <term n="0.1199">soupirant</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="13">13</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T57">Zum Thema zurückkehren</ref>, <ref target="#T79">Erzählstrukturen</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T57">Zum Thema zurückkehren</ref>, <ref target="#T79">Erzählstrukturen</ref></desc>
       </category>
       <category xml:id="T97">
          <gloss resp="#labelling">Wesel, Reisen</gloss>
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.2999">wesel</term> <term n="0.1130">père</term> <term n="0.0802">retournâmes</term> <term n="0.0657">allâmes</term> <term n="0.0650">parents</term> <term n="0.0619">chers</term> <term n="0.0593">arrivâmes</term> <term n="0.0504">retour</term> <term n="0.0472">frêle</term> <term n="0.0467">sonsfeld</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="13">13</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T10">Berlin und Rückkehr</ref>, <ref target="#T34">Reisedestinationen</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T10">Berlin und Rückkehr</ref>, <ref target="#T34">Reisedestinationen</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S2">Reisen</ref></desc>
       </category>
       <category xml:id="T98">
@@ -717,7 +717,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1140">chambre</term> <term n="0.0908">cabinets</term> <term n="0.0802">destiné</term> <term n="0.0624">filles</term> <term n="0.0534">trois</term> <term n="0.0521">chambres</term> <term n="0.0507">bassin</term> <term n="0.0507">pauvreenfant</term> <term n="0.0507">sales</term> <term n="0.0507">mettaismes</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="12">12</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T14">Haus, Räume und häusliche Einrichtung</ref>, <ref target="#T63">Bett</ref>, <ref target="#T102">Fenster, Türen</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T14">Haus, Räume und häusliche Einrichtung</ref>, <ref target="#T63">Bett</ref>, <ref target="#T102">Fenster, Türen</ref></desc>
       </category>
       <category xml:id="T99">
          <gloss resp="#labelling">Trost</gloss>
@@ -730,7 +730,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.2056">migraine</term> <term n="0.1654">tête</term> <term n="0.0796">désordre</term> <term n="0.0704">terrible</term> <term n="0.0606">terribles</term> <term n="0.0562">ardents</term> <term n="0.0562">aplomb</term> <term n="0.0562">lèverais</term> <term n="0.0562">migraines</term> <term n="0.0562">frisait</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="12">12</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T40">Fieber und Krankheit</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T40">Fieber und Krankheit</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S8">Krankheit und Medizin</ref></desc>
       </category>
       <category xml:id="T101">
@@ -744,7 +744,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.1499">porte</term> <term n="0.0870">ouvrit</term> <term n="0.0870">portes</term> <term n="0.0708">ouvrir</term> <term n="0.0688">fenêtre</term> <term n="0.0615">abordée</term> <term n="0.0615">enfoncées</term> <term n="0.0615">fermât</term> <term n="0.0615">serrures</term> <term n="0.0615">arrière</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="12">12</num> Sätze</desc>
          <desc type="assessment" subtype="limited" resp="#editors">Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung kaum verständlich.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T63">Bett</ref>, <ref target="#T98">Zimmer</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T63">Bett</ref>, <ref target="#T98">Zimmer</ref></desc>
       </category>
       <category xml:id="T103">
          <gloss resp="#labelling">Stärke und Verletzlichkeit</gloss>
@@ -775,7 +775,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.3275">königsberg</term> <term n="0.0851">arrivant</term> <term n="0.0790">convenances</term> <term n="0.0790">kruk</term> <term n="0.0790">neuvième</term> <term n="0.0790">kitter</term> <term n="0.0790">retentit</term> <term n="0.0790">rapportent</term> <term n="0.0790">varcie</term> <term n="0.0790">feuille</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="11">11</num> Sätze</desc>
          <desc type="assessment" subtype="limited" resp="#editors">Dieses Topic ist unklar, seine charakteristischen Begriffe sind sehr allgemein, oder es ist an einzelne Personen oder Episoden gebunden und ohne weitere Erläuterung kaum verständlich.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T34">Reisedestinationen</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T34">Reisedestinationen</ref></desc>
          <desc type="subject" resp="#editors">Verwandtes Schlagwort: <ref target="https://gams.uni-graz.at/o:mgs.subjects#S2">Reisen</ref></desc>
       </category>
       <category xml:id="T108">
@@ -813,7 +813,7 @@
          <desc type="representation" resp="#bertopic_2026-09-27"><term n="0.2389">pars</term> <term n="0.2389">partirai</term> <term n="0.2076">arrive</term> <term n="0.1518">fêtes</term> <term n="0.1370">longtemps</term> <term n="0.1351">abandonnerai</term> <term n="0.1351">ira</term> <term n="0.1350">avant</term> <term n="0.1259">quitterai</term> <term n="0.1259">durer</term></desc>
          <desc type="scope" resp="#bertopic_2026-09-27"><num value="10">10</num> Sätze</desc>
          <desc type="assessment" subtype="meaningful" resp="#editors">Die Sätze dieses Topics teilen ein klar benennbares Thema.</desc>
-         <desc type="similar" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T39">Reisen und Transportmittel</ref>, <ref target="#T42">Reisen und Bleiben</ref></desc>
+         <desc type="related" resp="#editors">Ähnliche oder verwandte Topics: <ref target="#T39">Reisen und Transportmittel</ref>, <ref target="#T42">Reisen und Bleiben</ref></desc>
       </category>
       <category xml:id="T-1">
          <catDesc>Ausreißer (kein Topic zugewiesen)</catDesc>

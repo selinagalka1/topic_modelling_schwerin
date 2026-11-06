@@ -21,7 +21,7 @@
    "Il me donna une lettre du comte de Schwerin qui contenait en substance que les articles que je lui avais envoyés de Thorn avait été inacceptables, qu’ainsi après avoir pris ses mesures avec mon père et madame sa mère, il avait été résolu avec l’agrément du Roi que nous ne nous reverrions jamais, qu’il me répétait le chagrin qu’il avait de me savoir si mal, et que s’il dépendait de lui, j’aurais toutes les aises imaginables, qu’il était vrai que j’avais été trompée pour me faire revenir de Thorn, mais qu’il était responsable de l’enfant que je portais sous peine de confiscation de ses biens, et qu’un animal se cache en entendant gronder l’orage, combien plus il l’ose espérer d’une femme d’esprit (terme ironique qui pensa me tuer), que dès que je serais hors de couches je serais la maîtresse d’aller où je voudrais, et dans le P.S. il me remercie du vin de Toquai."
   ],
   "Label": "Outliners",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 0,
@@ -87,7 +87,7 @@
    ]
   ],
   "Label": "Unklar",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 1,
@@ -153,7 +153,7 @@
    ]
   ],
   "Label": "Gott und Göttliches",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 2,
@@ -219,7 +219,7 @@
    ]
   ],
   "Label": "Herrscherhäuser, Diplomatie",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 3,
@@ -285,7 +285,7 @@
    ]
   ],
   "Label": "Unklar",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 4,
@@ -351,7 +351,7 @@
    ]
   ],
   "Label": "Freude, Glück und Begeisterung",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 5,
@@ -417,7 +417,7 @@
    ]
   ],
   "Label": "Gesellschaftliche und religiöse Begegnungen",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 6,
@@ -483,7 +483,7 @@
    ]
   ],
   "Label": "Ehemann, Ehe",
-  "Display": "no",
+  "Assessment": "limited",
   "Similar_topics": [
    95
   ]
@@ -552,7 +552,7 @@
    ]
   ],
   "Label": "Konfession",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    69
   ],
@@ -624,7 +624,7 @@
    ]
   ],
   "Label": "Kirche, Messe und Gottesdienst",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Subjects": [
    "S7"
   ]
@@ -693,7 +693,7 @@
    ]
   ],
   "Label": "Gesellschaft und Etikette (v.a. in Wien)",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 10,
@@ -759,7 +759,7 @@
    ]
   ],
   "Label": "Berlin und Rückkehr",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    34,
    97
@@ -832,7 +832,7 @@
    ]
   ],
   "Label": "Tränen",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    58
   ]
@@ -901,7 +901,7 @@
    ]
   ],
   "Label": "Schmerz, Leid und Verzweiflung",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    24
   ]
@@ -970,7 +970,7 @@
    ]
   ],
   "Label": "Kommunikation von Gefühlen",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 14,
@@ -1036,7 +1036,7 @@
    ]
   ],
   "Label": "Haus, Räume und häusliche Einrichtung",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    98
   ]
@@ -1105,7 +1105,7 @@
    ]
   ],
   "Label": "Essen",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Subjects": [
    "S1"
   ]
@@ -1174,7 +1174,7 @@
    ]
   ],
   "Label": "Unklar",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 17,
@@ -1240,7 +1240,7 @@
    ]
   ],
   "Label": "Schlafen",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 18,
@@ -1306,7 +1306,7 @@
    ]
   ],
   "Label": "Meine lieben Kinder",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 19,
@@ -1372,7 +1372,7 @@
    ]
   ],
   "Label": "Direkte Rede: Antworten und Gesprächsformeln",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 20,
@@ -1438,7 +1438,7 @@
    ]
   ],
   "Label": "Religion, Konversion",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    70,
    72,
@@ -1512,7 +1512,7 @@
    ]
   ],
   "Label": "Familie und Verwandte",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 22,
@@ -1578,7 +1578,7 @@
    ]
   ],
   "Label": "Mann",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 23,
@@ -1644,7 +1644,7 @@
    ]
   ],
   "Label": "Geschehen",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 24,
@@ -1710,7 +1710,7 @@
    ]
   ],
   "Label": "Zweifel, Verzweiflung und Unmöglichkeit",
-  "Display": "no",
+  "Assessment": "limited",
   "Similar_topics": [
    12
   ]
@@ -1779,7 +1779,7 @@
    ]
   ],
   "Label": "Erkenntnis und Irrtum (Wissen)",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 26,
@@ -1845,7 +1845,7 @@
    ]
   ],
   "Label": "Anklage, Lüge und Geständnis",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 27,
@@ -1911,7 +1911,7 @@
    ]
   ],
   "Label": "Liebe, Treue und moralischer Wandel",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 28,
@@ -1977,7 +1977,7 @@
    ]
   ],
   "Label": "Lachen",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 29,
@@ -2043,7 +2043,7 @@
    ]
   ],
   "Label": "Überbleibsel",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 30,
@@ -2109,7 +2109,7 @@
    ]
   ],
   "Label": "Exklamationen",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    71,
    94
@@ -2179,7 +2179,7 @@
    ]
   ],
   "Label": "Briefe, Schreiben",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 32,
@@ -2245,7 +2245,7 @@
    ]
   ],
   "Label": "Autorität, Kontroverse und Öffentlichkeit",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 33,
@@ -2311,7 +2311,7 @@
    ]
   ],
   "Label": "Familiäre Beziehungen und Konflikte",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 34,
@@ -2377,7 +2377,7 @@
    ]
   ],
   "Label": "Reisedestinationen",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    10,
    42,
@@ -2452,7 +2452,7 @@
    ]
   ],
   "Label": "Direkte Rede: Ratschläge, Bitten und Zusagen",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 36,
@@ -2518,7 +2518,7 @@
    ]
   ],
   "Label": "Catherine (Kammerfrau) und Beichtvater",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 37,
@@ -2584,7 +2584,7 @@
    ]
   ],
   "Label": "Reden, Gespräche und Worte",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 38,
@@ -2650,7 +2650,7 @@
    ]
   ],
   "Label": "Lesen, Bücher",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 39,
@@ -2716,7 +2716,7 @@
    ]
   ],
   "Label": "Reisen und Transportmittel",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    42,
    113
@@ -2789,7 +2789,7 @@
    ]
   ],
   "Label": "Fieber und Krankheit",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    100
   ],
@@ -2861,7 +2861,7 @@
    ]
   ],
   "Label": "Familie Dohna",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 42,
@@ -2927,7 +2927,7 @@
    ]
   ],
   "Label": "Reisen und Bleiben",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    34,
    39,
@@ -3001,7 +3001,7 @@
    ]
   ],
   "Label": "Neigung und Abneigung, Unerfahrenheit",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 44,
@@ -3067,7 +3067,7 @@
    ]
   ],
   "Label": "Unklar",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 45,
@@ -3133,7 +3133,7 @@
    ]
   ],
   "Label": "Datumsangaben",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 46,
@@ -3199,7 +3199,7 @@
    ]
   ],
   "Label": "Handlung",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 47,
@@ -3265,7 +3265,7 @@
    ]
   ],
   "Label": "Schock und Überraschung",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 48,
@@ -3331,7 +3331,7 @@
    ]
   ],
   "Label": "Soziale Interaktion und Autorität",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 49,
@@ -3397,7 +3397,7 @@
    ]
   ],
   "Label": "Gesprächssprache, Fragen und Modalverben",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 50,
@@ -3463,7 +3463,7 @@
    ]
   ],
   "Label": "Feindschaft und Kampf",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 51,
@@ -3529,7 +3529,7 @@
    ]
   ],
   "Label": "Schwager, Bruder",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 52,
@@ -3595,7 +3595,7 @@
    ]
   ],
   "Label": "Hof",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 53,
@@ -3661,7 +3661,7 @@
    ]
   ],
   "Label": "Anfang und erste Erfahrungen",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 54,
@@ -3727,7 +3727,7 @@
    ]
   ],
   "Label": "Familie",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 55,
@@ -3793,7 +3793,7 @@
    ]
   ],
   "Label": "Breslau",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 56,
@@ -3859,7 +3859,7 @@
    ]
   ],
   "Label": "Zeitangaben",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 57,
@@ -3925,7 +3925,7 @@
    ]
   ],
   "Label": "Zum Thema zurückkehren",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    96
   ]
@@ -3994,7 +3994,7 @@
    ]
   ],
   "Label": "Tränen",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    11
   ]
@@ -4063,7 +4063,7 @@
    ]
   ],
   "Label": "Unklar",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 60,
@@ -4129,7 +4129,7 @@
    ]
   ],
   "Label": "Schwangerschaft",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Subjects": [
    "S9"
   ]
@@ -4198,7 +4198,7 @@
    ]
   ],
   "Label": "Geist, Vorstellung und Bewertung von Ideen",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 62,
@@ -4264,7 +4264,7 @@
    ]
   ],
   "Label": "Arzt und Heilmittel",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Subjects": [
    "S8"
   ]
@@ -4333,7 +4333,7 @@
    ]
   ],
   "Label": "Bett",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    98,
    102
@@ -4403,7 +4403,7 @@
    ]
   ],
   "Label": "Winter, Kälte",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Subjects": [
    "S3"
   ]
@@ -4472,7 +4472,7 @@
    ]
   ],
   "Label": "Mädchen, Tochter",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 66,
@@ -4538,7 +4538,7 @@
    ]
   ],
   "Label": "Unklar",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 67,
@@ -4604,7 +4604,7 @@
    ]
   ],
   "Label": "Versprechen",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 68,
@@ -4670,7 +4670,7 @@
    ]
   ],
   "Label": "Gesicht und Spiegelbild",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 69,
@@ -4736,7 +4736,7 @@
    ]
   ],
   "Label": "Katholizismus",
-  "Display": "no",
+  "Assessment": "limited",
   "Similar_topics": [
    7
   ],
@@ -4808,7 +4808,7 @@
    ]
   ],
   "Label": "Protestantismus, Luther",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    20
   ],
@@ -4880,7 +4880,7 @@
    ]
   ],
   "Label": "Exklamationen",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    30
   ]
@@ -4949,7 +4949,7 @@
    ]
   ],
   "Label": "Religion, Veränderung",
-  "Display": "no",
+  "Assessment": "limited",
   "Similar_topics": [
    20
   ]
@@ -5018,7 +5018,7 @@
    ]
   ],
   "Label": "Tisch, Nahrungsmittel",
-  "Display": "no",
+  "Assessment": "limited",
   "Subjects": [
    "S1"
   ]
@@ -5087,7 +5087,7 @@
    ]
   ],
   "Label": "Pater Brean",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 75,
@@ -5153,7 +5153,7 @@
    ]
   ],
   "Label": "Vater, Gehorsam",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 76,
@@ -5219,7 +5219,7 @@
    ]
   ],
   "Label": "Fiskalische und administrative Verfahren",
-  "Display": "no",
+  "Assessment": "limited",
   "Subjects": [
    "S10"
   ]
@@ -5288,7 +5288,7 @@
    ]
   ],
   "Label": "Zeitangaben (Tage, Monate)",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 78,
@@ -5354,7 +5354,7 @@
    ]
   ],
   "Label": "Schöne Städte, Orte und Gebäude",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 79,
@@ -5420,7 +5420,7 @@
    ]
   ],
   "Label": "Erzählstrukturen",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    96
   ]
@@ -5489,7 +5489,7 @@
    ]
   ],
   "Label": "Erreichen",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 81,
@@ -5555,7 +5555,7 @@
    ]
   ],
   "Label": "Geld",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Subjects": [
    "S10"
   ]
@@ -5624,7 +5624,7 @@
    ]
   ],
   "Label": "Frauenbild und gesellschaftliche Erwartung",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 83,
@@ -5690,7 +5690,7 @@
    ]
   ],
   "Label": "Pater Kraus, Königsberg und Ermland",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 84,
@@ -5756,7 +5756,7 @@
    ]
   ],
   "Label": "Wasser, Meer, Fluss",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Subjects": [
    "S3"
   ]
@@ -5825,7 +5825,7 @@
    ]
   ],
   "Label": "Eitelkeit und Ehrgeiz",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 86,
@@ -5891,7 +5891,7 @@
    ]
   ],
   "Label": "Gottesmutter, Gelübde",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 87,
@@ -5957,7 +5957,7 @@
    ]
   ],
   "Label": "Baron Danckelmann",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 88,
@@ -6023,7 +6023,7 @@
    ]
   ],
   "Label": "Beten und Bitten",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 89,
@@ -6089,7 +6089,7 @@
    ]
   ],
   "Label": "Exklamationen und Anderes",
-  "Display": "no",
+  "Assessment": "limited",
   "Similar_topics": [
    94
   ]
@@ -6158,7 +6158,7 @@
    ]
   ],
   "Label": "Kauf von Freihan",
-  "Display": "no",
+  "Assessment": "limited",
   "Subjects": [
    "S10"
   ]
@@ -6227,7 +6227,7 @@
    ]
   ],
   "Label": "Gesandtschaft, Kavaliere und Offiziere",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 92,
@@ -6293,7 +6293,7 @@
    ]
   ],
   "Label": "Direkte Rede: Schweigen und Verschweigen",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 93,
@@ -6359,7 +6359,7 @@
    ]
   ],
   "Label": "Religion",
-  "Display": "no",
+  "Assessment": "limited",
   "Similar_topics": [
    20
   ]
@@ -6428,7 +6428,7 @@
    ]
   ],
   "Label": "Exklamation",
-  "Display": "no",
+  "Assessment": "limited",
   "Similar_topics": [
    30,
    89
@@ -6498,7 +6498,7 @@
    ]
   ],
   "Label": "Ehemann",
-  "Display": "no",
+  "Assessment": "limited",
   "Similar_topics": [
    6
   ]
@@ -6567,7 +6567,7 @@
    ]
   ],
   "Label": "Zurückkehren zur Narration",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    57,
    79
@@ -6637,7 +6637,7 @@
    ]
   ],
   "Label": "Wesel, Reisen",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    10,
    34
@@ -6710,7 +6710,7 @@
    ]
   ],
   "Label": "Zimmer",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    14,
    63,
@@ -6781,7 +6781,7 @@
    ]
   ],
   "Label": "Trost",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 100,
@@ -6847,7 +6847,7 @@
    ]
   ],
   "Label": "Kopf, Migräne",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    40
   ],
@@ -6919,7 +6919,7 @@
    ]
   ],
   "Label": "Daniel",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 102,
@@ -6985,7 +6985,7 @@
    ]
   ],
   "Label": "Fenster, Türen",
-  "Display": "no",
+  "Assessment": "limited",
   "Similar_topics": [
    63,
    98
@@ -7055,7 +7055,7 @@
    ]
   ],
   "Label": "Stärke und Verletzlichkeit",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 104,
@@ -7121,7 +7121,7 @@
    ]
   ],
   "Label": "Sohn",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 105,
@@ -7187,7 +7187,7 @@
    ]
   ],
   "Label": "Innere Zerrissenheit",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 106,
@@ -7253,7 +7253,7 @@
    ]
   ],
   "Label": "Gerüchte",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 107,
@@ -7319,7 +7319,7 @@
    ]
   ],
   "Label": "Königsberg, Reisen",
-  "Display": "no",
+  "Assessment": "limited",
   "Similar_topics": [
    34
   ],
@@ -7391,7 +7391,7 @@
    ]
   ],
   "Label": "Umarmung, Kuss",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 109,
@@ -7457,7 +7457,7 @@
    ]
   ],
   "Label": "Necken und Sticheleien („faire la guerre“)",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 110,
@@ -7523,7 +7523,7 @@
    ]
   ],
   "Label": "Gesandter von Polen",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 111,
@@ -7589,7 +7589,7 @@
    ]
   ],
   "Label": "Angst",
-  "Display": "yes"
+  "Assessment": "meaningful"
  },
  {
   "Topic": 112,
@@ -7655,7 +7655,7 @@
    ]
   ],
   "Label": "Abschied und Rückzug",
-  "Display": "no"
+  "Assessment": "limited"
  },
  {
   "Topic": 113,
@@ -7721,7 +7721,7 @@
    ]
   ],
   "Label": "Abreise",
-  "Display": "yes",
+  "Assessment": "meaningful",
   "Similar_topics": [
    39,
    42

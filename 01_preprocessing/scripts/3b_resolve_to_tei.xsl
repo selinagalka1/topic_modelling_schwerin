@@ -26,17 +26,14 @@
     Run on lesefassung_milestones2.xml specifically (not a newer copy of
     the Lesefassung) - that is the file that was actually used to
     generate the text for the current topic model, and it has already
-    been validated sentence-by-sentence against it (see verify_alignment.py
-    in write_topics_to_tei/). Running this on a newer/different source
+    been validated sentence-by-sentence against it. Running this on a newer/different source
     would silently produce a file that does NOT match the NLP input any
     more.
 
     A nice side effect: once <app>/<note>/<certainty> are gone, the
     output's <milestone unit="sentence"/> stream is trivially 1:1 with
     the sentence list a topic model produces - no more app/rdg-aware
-    text extraction needed to verify or consume it (contrast with the
-    lengths verify_alignment.py had to go to against the un-resolved
-    file). This file is a better write-back target than
+    text extraction needed to verify or consume it. This file is a better write-back target than
     lesefassung_milestones2.xml going forward.
 
     NB: this is a derived NLP research-data artifact, not an alternative

@@ -1,0 +1,54 @@
+{
+  "title": "Topic Modelling of the Memoirs of Countess Schwerin (1684–1732): Data and Scripts",
+  "upload_type": "dataset",
+  "version": "1.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Galka, Selina",
+      "affiliation": "University of Graz, Department of Digital Humanities",
+      "orcid": "0000-0003-4476-315X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Peper, Ines",
+      "affiliation": "Austrian Academy of Sciences, Institute for Habsburg and Balkan Studies",
+      "orcid": "0000-0002-8676-3935",
+      "type": "ProjectLeader"
+    },
+    {
+      "name": "Pölzl, Michael",
+      "affiliation": "Austrian Academy of Sciences, Institute for Habsburg and Balkan Studies",
+      "orcid": "0000-0002-1291-9220",
+      "type": "Researcher"
+    },
+    {
+      "name": "Vogeler, Georg",
+      "affiliation": "University of Graz, Department of Digital Humanities",
+      "orcid": "0000-0002-1726-1712",
+      "type": "Supervisor"
+    }
+  ],
+  "description": "<p>Data, scripts and results of a sentence-level topic model (BERTopic) of the normalized reading text of the digital edition of the memoirs of Luise Charlotte von Schwerin (1684–1732). The repository contains the preprocessing of the TEI/XML reading text, the BERTopic run and its output, the editorially curated topics (labels, assessment, related topics and subject headings), the topic assignments written back into TEI as stand-off annotation together with a TEI topic taxonomy, comparison runs with other embedding models and parameters, a manual coherence check, and a survey of thematic indexing in 26 digital editions.</p><p>It accompanies the article: Selina Galka: Thematische Erschließung in digitalen Editionen. Manuelle Beschlagwortung und Topic Modelling am Beispiel der Memoiren der Gräfin Schwerin. In: Zeitschrift für digitale Geisteswissenschaften (in preparation).</p><p>Licence: the data are published under CC BY-NC 4.0, like the edition text from which they are derived; the code (XSLT stylesheets, Python scripts, Jupyter notebooks) is published under the MIT licence (see LICENSE). The fitted BERTopic model is not part of this archive.</p>",
+  "license": "cc-by-nc-4.0",
+  "keywords": [
+    "topic modelling",
+    "BERTopic",
+    "digital scholarly editions",
+    "TEI",
+    "subject indexing",
+    "ego-documents",
+    "memoirs",
+    "Countess Schwerin",
+    "eighteenth century"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://gams.uni-graz.at/context:mgs",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Funded by the Austrian Science Fund (FWF), project P34943 »›Tout Vienne me riait‹. Family and Court Relations in the Memoirs of Countess Louise Charlotte von Schwerin (1684–1732)«, grant DOI 10.55776/P34943. Digital edition: Ines Peper / Selina Galka / Michael Pölzl / Chiara Petrolini / Georg Vogeler / Joëlle Weis (eds.): Digitale Edition der Memoiren der Gräfin Schwerin (1684–1732). Wien / Graz 2026, https://gams.uni-graz.at/context:mgs."
+}

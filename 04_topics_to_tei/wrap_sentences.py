@@ -1,9 +1,25 @@
 # -*- coding: utf-8 -*-
 """
-Wrap every sentence of lesefassung_nlp_resolved.xml in a bare, addressable
-<s xml:id="sN">...</s> - no topic info on the element itself - and record
-the BERTopic assignments separately, as stand-off spans
+Write the topic assignments back into the TEI text.
 
+1. Every sentence of the NLP version of the text (lesefassung_nlp_resolved.xml)
+   is wrapped in an addressable element <s xml:id="s1">…</s>. The sentence
+   boundaries are the <milestone unit="sentence"/> elements set in step 01.
+   The <s> elements themselves carry no topic information.
+2. The topic of each sentence is recorded separately, in a <standOff> after
+   the teiHeader: one <span target="#s1" ana="…#T5" cert="0.91"/> per
+   sentence. @cert is the assignment score of BERTopic; outliers (T-1) have
+   no score.
+3. The model run is described once in the teiHeader as
+   <application xml:id="bertopic_2026-09-27">; @resp on <spanGrp> points to it.
+
+Input
+    ../01_preprocessing/output/lesefassung_nlp_resolved.xml
+    ../02_bertopic/output/bertopic_results_with_paragraphs_schwerin_final_2026-09-27.json
+Output
+    output/tei_with_topics_2026-09-27_standoff.xml
+
+Run:  python wrap_sentences.py   (needs lxml)
 """
 import json
 from pathlib import Path
@@ -32,6 +48,7 @@ RUN_DESC = ("BERTopic 0.17.4; Embeddings: paraphrase-multilingual-MiniLM-L12-v2;
 
 
 def q(local):
+    """Full name of a TEI element as lxml expects it, e.g. q("p") for <p>."""
     return f"{{{TEI_NS}}}{local}"
 
 
@@ -66,9 +83,15 @@ def wrap_paragraph(p, n_sentences):
     match n_sentences (paragraph left untouched in that case)."""
     ms_tag = q("milestone")
     children = list(p)
+
+    # Safety check: the paragraph must have as many sentence milestones as
+    # BERTopic has sentences for it; otherwise it is left unchanged.
     n_ms = sum(1 for c in children if c.tag == ms_tag and c.get("unit") == "sentence")
     if n_ms != n_sentences:
         return None
+
+    # Each milestone starts a new <s>; everything up to the next milestone
+    # (text and elements such as <persName>) is moved into that <s>.
 
     new_children = []
     current_s = None
@@ -87,6 +110,8 @@ def wrap_paragraph(p, n_sentences):
 
 
 def main():
+    # ---- 1. Load the TEI text and the BERTopic results -----------------------
+
     parser = etree.XMLParser(remove_blank_text=False, huge_tree=True, recover=True)
     tree = etree.parse(str(XML_PATH), parser)
     root = tree.getroot()
@@ -96,21 +121,27 @@ def main():
 
     add_header_declarations(root)
 
-    doc_info = json.load(open(DOC_INFO_PATH, encoding="utf-8"))
+    with open(DOC_INFO_PATH, encoding="utf-8") as f:
+        doc_info = json.load(f)
+
+    # Group the sentences by paragraph number: {1: [sentence, sentence, …], 2: …}
     by_para = {}
     for r in doc_info:
         by_para.setdefault(r["Paragraph"], []).append(r)
 
-    spans = []  # (s_xml_id, topic, prob)
-    id_counter = [1]
+    # ---- 2. Wrap the sentences of every paragraph in <s> ---------------------
+
+    spans = []  # one entry per sentence: (sentence id, topic, assignment score)
+    next_id = 1  # sentence ids are numbered through the whole text: s1, s2, …
     n_paras_ok = n_paras_skipped = 0
     n_sent_skipped = 0
 
     for p in text_el.iter(q("p")):
+        # Only the paragraphs of the edition text, which have ids like P.12
         pid = p.get(f"{{{XML_NS}}}id")
         if not pid or not pid.startswith("P."):
             continue
-        n = int(pid.split(".")[1])
+        n = int(pid.split(".")[1])  # "P.12" -> 12
         entries = by_para.get(n, [])
         new_s = wrap_paragraph(p, len(entries))
         if new_s is None:
@@ -119,13 +150,14 @@ def main():
             print(f"  SKIPPED {pid}: milestone/JSON sentence count mismatch, left as milestones")
             continue
         n_paras_ok += 1
+        # The n-th <s> of the paragraph gets the n-th BERTopic sentence of it
         for s_el, entry in zip(new_s, entries):
-            sid = f"s{id_counter[0]}"
-            id_counter[0] += 1
+            sid = f"s{next_id}"
+            next_id += 1
             s_el.set(f"{{{XML_NS}}}id", sid)
             spans.append((sid, entry["Topic"], entry.get("Probability") or 0.0))
 
-    # ---- build <standOff><spanGrp> and insert right after </teiHeader> ----
+    # ---- 3. Write the topic assignments as <standOff> after the teiHeader ----
     stand_off = etree.Element(q("standOff"))
     span_grp = etree.SubElement(stand_off, q("spanGrp"))
     span_grp.set("type", "topicAssignment")
@@ -137,6 +169,8 @@ def main():
         if topic != -1:
             span.set("cert", f"{prob:.2f}")
     tei_header.addnext(stand_off)
+
+    # ---- 4. Save the file and report ---------------------------------------
 
     OUT_PATH.parent.mkdir(exist_ok=True)
     tree.write(str(OUT_PATH), encoding="UTF-8", xml_declaration=True)

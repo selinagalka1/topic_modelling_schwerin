@@ -6,7 +6,7 @@ This repository accompanies the article below. It contains the data, scripts and
 Selina Galka: Thematische Erschließung in digitalen Editionen. Manuelle Beschlagwortung und Topic Modelling am Beispiel der Memoiren der Gräfin Schwerin. In: Zeitschrift für digitale Geisteswissenschaften (in preparation).
 
 **Edition:**
-Selina Galka / Ines Peper / Michael Pölzl / Chiara Petrolini / Georg Vogeler / Joëlle Weis (Hg.): Digitale Edition der Memoiren der Gräfin Schwerin (1684–1732). Unter Mitarbeit von Sabine Amon. Wien / Graz 2026. [https://gams.uni-graz.at/context:mgs](https://gams.uni-graz.at/context:mgs)
+Ines Peper / Selina Galka / Michael Pölzl / Chiara Petrolini / Georg Vogeler / Joëlle Weis (Hg.): Digitale Edition der Memoiren der Gräfin Schwerin (1684–1732). Unter Mitarbeit von Sabine Amon. Wien / Graz 2026. [https://gams.uni-graz.at/context:mgs](https://gams.uni-graz.at/context:mgs)
 
 ## Pipeline
 
@@ -56,7 +56,10 @@ Steps 01–04 build on each other; 05 and 06 are supplementary.
 └── barchart_visualization_schwerin_final_2026-09-27.html
 
 03_topic_labels/
-└── topic_info_with_weights_output_schwerin_final_2026-09-27_labelled.json   curated topics
+├── topic_info_with_weights_output_schwerin_final_2026-09-27_labelled.json   curated topics
+├── coherence_sample.py                         draws the sample for the coherence check
+└── coherence_check/
+    └── coherence_sample_coded.csv              520 sentences (52 topics × 10), coded
 
 04_topics_to_tei/
 ├── wrap_sentences.py
@@ -68,9 +71,13 @@ Steps 01–04 build on each other; 05 and 06 are supplementary.
 05_model_comparison/
 ├── Topic_modelling_mpnet.ipynb
 ├── Topic_modelling_camembert.ipynb
+├── Topic_modelling_paragraphs.ipynb
+├── false_negative_candidates.py
 └── output/
     ├── embedding_models/                       topic info and topic per sentence, mpnet and CamemBERT
-    └── min_cluster_size/                       topic info and topic per sentence, min_cluster_size 5, 15, 20
+    ├── min_cluster_size/                       topic info and topic per sentence, min_cluster_size 5, 15, 20
+    ├── paragraphs/                             final model run on paragraphs
+    └── false_negatives/                        MiniLM outliers assigned by both other models
 
 06_edition_survey/
 └── table_of_editions.md                        Table 1 of the article, full version (German)
@@ -91,7 +98,7 @@ The four stylesheets require an XSLT 2.0 processor (e.g. Saxon-HE or oXygen). Ap
 
 ## 02 BERTopic
 
-The notebook was run in Google Colab (Python 3.13, T4 GPU). Package versions are pinned in `requirements.txt`.
+The notebook was run in Google Colab (Python 3.13, T4 GPU). Package versions are pinned in `requirements.txt`. Run it with `02_bertopic/` as the working directory, since all paths are relative; the notebooks in `05_model_comparison` are run the same way from their own folder.
 
 | Component | Setting |
 |---|---|
@@ -111,7 +118,18 @@ The notebook was run in Google Colab (Python 3.13, T4 GPU). Package versions are
 
 ## 03 Topic labels
 
-`topic_info_with_weights_output_schwerin_final_2026-09-27_labelled.json` is the BERTopic topic info (`02_bertopic/output/topic_info_with_weights_…json`) with the editors' curation added. Every topic was given a German label by Selina Galka on the basis of its ten most relevant terms and up to 50 of its most probable sentences. The labels were then reviewed together with Ines Peper and Michael Pölzl. The three of them also assessed whether a topic is meaningful, i.e. whether its sentences share a clearly nameable theme (`Display`: `yes`), or of limited use because it is unclear, its terms are very general, or it is tied to single persons or episodes and hardly understandable without further explanation (`no`); the edition highlights the meaningful topics. They also linked topics that are similar or related in content to each other and to related subject headings of the edition ([`o:mgs.subjects`](https://gams.uni-graz.at/o:mgs.subjects/ONTOLOGY) on GAMS).
+`topic_info_with_weights_output_schwerin_final_2026-09-27_labelled.json` is the BERTopic topic info (`02_bertopic/output/topic_info_with_weights_…json`) with the editors' curation added. Every topic was given a German label by Selina Galka on the basis of its ten most relevant terms and up to 50 of its most probable sentences. The labels were then reviewed together with Ines Peper and Michael Pölzl. The three of them also assessed whether a topic is meaningful, i.e. whether its sentences share a clearly nameable theme (`Assessment`: `meaningful`), or of limited use because it is unclear, its terms are very general, or it is tied to single persons or episodes and hardly understandable without further explanation (`limited`); the edition highlights the meaningful topics. They also linked topics that are similar or related in content to each other and to related subject headings of the edition ([`o:mgs.subjects`](https://gams.uni-graz.at/o:mgs.subjects/ONTOLOGY) on GAMS).
+
+In addition to the fields of the BERTopic topic info, the file has:
+
+- `Label`: German label of the topic
+- `Assessment`: `meaningful` or `limited` (the outlier topic −1 is always `limited`)
+- `Similar_topics`: IDs of topics that are similar or related in content (only where there are any; if A lists B, B also lists A)
+- `Subjects`: IDs of related subject headings of the edition, e.g. `["S8"]` (only where there are any)
+
+This file is the curated source of step 04: after any correction in it, run the scripts in `04_topics_to_tei` again.
+
+**Coherence check.** `coherence_sample.py` draws 10 random sentences from each of the 52 meaningful topics (random seed 42). The sentences are drawn from all sentences of a topic, not from the top-scoring ones on which the labels are based. Each sentence was coded for whether it fits the topic label (`passt`: `ja` / `teilweise` / `nein`): 400 of 520 fit (76.9 %), 77 partly and 43 not. Note that running the script again writes an uncoded file `coherence_check/coherence_sample.csv`; the coded results are in `coherence_sample_coded.csv`.
 
 ## 04 Topics in TEI
 
@@ -130,6 +148,8 @@ The data model is described in section 4.4 of the article.
 This folder contains the data of the comparison runs with other embedding models (`paraphrase-multilingual-mpnet-base-v2`, `Lajavaness/sentence-camembert-large`; `output/embedding_models/`) and other values of `min_cluster_size` (5, 15, 20; `output/min_cluster_size/`). Everything else is the same as in the final model. Each run has its topic info and topic per sentence in the format of `02_bertopic`. The embedding runs were produced with the two notebooks in this folder, the `min_cluster_size` runs with the notebook in `02_bertopic`. Models and embeddings are not published, and the runs are not curated.
 
 `Topic_modelling_paragraphs.ipynb` runs the final model on the 678 paragraphs instead of the sentences (otherwise identical; output in `output/paragraphs/`). The paragraphs are mostly longer than the 128 word pieces the embedding model reads, so the notebook reports how many are truncated and offers two strategies: truncation (default, as in a plain BERTopic run) or the mean of the sentence embeddings of each paragraph.
+
+**Outliers of MiniLM assigned by the other models.** `false_negative_candidates.py` lists the sentences that MiniLM leaves as outliers but that both mpnet and CamemBERT assign to a topic with a thematic profile (i.e. neither the outlier cluster nor the catch-all topic T0): 586 sentences (`output/false_negatives/false_negative_candidates_all.csv`), and draws a random sample of 50 (random seed 42) for manual coding. Each sentence of the sample was coded for whether it has a recognisable theme (`Thema_erkennbar`: `ja` / `nein` / `unklar`) and, if so, which MiniLM topic would fit (`passendes_MiniLM_Topic`): 33 of the 50 sentences have a theme for which MiniLM already forms a topic, 7 have none and 10 are unclear. The coded sample is `false_negative_candidates_sample50_coded.csv`; running the script again writes uncoded files.
 
 ## 06 Edition survey
 
