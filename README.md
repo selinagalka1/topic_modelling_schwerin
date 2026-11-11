@@ -86,7 +86,7 @@ Steps 01–04 build on each other; 05 and 06 are supplementary.
 
 ## 01 Preprocessing
 
-The source is the TEI/XML reading text as published in the beta version of the digital edition in March 2026. Where a passage survives in two witnesses, the text has a critical apparatus (`<app>` with `<rdg wit="#W">` and `<rdg wit="#A">`). W (Vienna, Haus-, Hof- und Staatsarchiv) is the base witness of the reading text. A is the manuscript in Aix-en-Provence (Bibliothèque Méjanes) on which the printed edition by Daumas/Ulbrich (2013) is based; it is used only where W does not contain the passage.
+The source is the TEI/XML reading text as published in the beta version of the digital edition in March 2026. Where a passage survives in two witnesses, the text has a critical apparatus (`<app>` with `<rdg wit="#W">` and `<rdg wit="#A">`). For the text used in the topic model (NLP version), W (Vienna, Haus-, Hof- und Staatsarchiv), the earlier of the two witnesses, is preferred wherever both witnesses have a reading. A is the manuscript in Aix-en-Provence (Bibliothèque Méjanes) on which the printed edition by Daumas/Ulbrich (2013) is based; it is used only where W does not contain the passage.
 
 1. **`1_insert_milestones.xsl`** marks every sentence boundary (`.`, `!`, `?` followed by whitespace) with `<milestone unit="sentence"/>`. Single capital letters followed by a full stop (abbreviated names such as `H.`) are protected from splitting. Text inside `<note>` and `<certainty>` is not segmented. Inside the apparatus, only the W reading is segmented where both readings exist.
 2. **`2_insert_milestone_in_app.xsl`** adds a sentence boundary directly after an `<app>` when its text ends a sentence and the following text starts with a capital letter.
@@ -159,7 +159,7 @@ State of the survey: 2026-09-30 (editions 1–19) and 2026-10-03 (editions 20–
 
 ## Model file
 
-`02_bertopic/models/final_2026-09-27.mm` (540 MB) exceeds GitHub's file size limit and is not part of the Git repository. TODO: add the link to where the model is archived.
+`02_bertopic/models/final_2026-09-27.mm` (540 MB) exceeds GitHub's file size limit and is not published. The results can be reproduced with the notebook in `02_bertopic` and the package versions in `requirements.txt`; on other hardware, small deviations are possible.
 
 ## Licence
 
